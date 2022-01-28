@@ -1,0 +1,3131 @@
+state_name,state_id,country_name,country_id,city_name,city_id
+Badakhshan,BDS,Afghanistan,AF,Birmingham AL,630
+Badghis,BDG,Åland Islands,AX,Columbus GA,522
+Baghlan,BGL,Albania,AL,Dothan AL,606
+Balkh,BAL,Algeria,DZ,Huntsville-Decatur (Florence) AL,691
+Bamiyan,BAM,American Samoa,AS,Meridian MS,711
+Daykundi,DAY,Andorra,AD,Mobile AL-Pensacola (Ft. Walton Beach) FL,686
+Farah,FRA,Angola,AO,Montgomery (Selma) AL,698
+Faryab,FYB,Anguilla,AI,Anchorage AK,743
+Ghazni,GHA,Antarctica,AQ,Fairbanks AK,745
+Ghor,GHO,Antigua & Barbuda,AG,Juneau AK,747
+Helmand,HEL,Argentina,AR,Phoenix AZ,753
+Herat,HER,Armenia,AM,Tucson (Sierra Vista) AZ,789
+Jowzjan,JOW,Aruba,AW,Yuma AZ-El Centro CA,771
+Kabul,KAB,Australia,AU,Ft. Smith-Fayetteville-Springdale-Rogers AR,670
+Kandahar,KAN,Austria,AT,Jonesboro AR,734
+Kapisa,KAP,Azerbaijan,AZ,Little Rock-Pine Bluff AR,693
+Khost,KHO,Bahamas,BS,Memphis TN,640
+Kunar,KNR,Bahrain,BH,Monroe LA-El Dorado AR,628
+Kunduz,KDZ,Bangladesh,BD,Shreveport LA,612
+Laghman,LAG,Barbados,BB,Springfield MO,619
+Logar,LOG,Belarus,BY,Bakersfield CA,800
+Nangarhar,NAN,Belgium,BE,Chico-Redding CA,868
+Nimruz,NIM,Belize,BZ,Eureka CA,802
+Nuristan,NUR,Benin,BJ,Fresno-Visalia CA,866
+Oruzgan,URU,Bermuda,BM,Los Angeles CA,803
+Paktia,PIA,Bhutan,BT,Medford-Klamath Falls OR,813
+Paktika,PKA,Bolivia,BO,Monterey-Salinas CA,828
+Panjshir,PAN,Bosnia & Herzegovina,BA,Palm Springs CA,804
+Parvan,PAR,Botswana,BW,Reno NV,811
+Samangan,SAM,Bouvet Island,BV,Sacramento-Stockton-Modesto CA,862
+Sare Pol,SAR,Brazil,BR,San Diego CA,825
+Takhar,TAK,British Indian Ocean Territory,IO,San Francisco-Oakland-San Jose CA,807
+Wardak,WAR,British Virgin Islands,VG,Santa Barbara-Santa Maria-San Luis Obispo CA,855
+Zabul,ZAB,Brunei,BN,Yuma AZ-El Centro CA,771
+Berat,1,Bulgaria,BG,Colorado Springs-Pueblo CO,752
+Dibër County,9,Burkina Faso,BF,Denver CO,751
+Durrës,2,Burundi,BI,Grand Junction-Montrose CO,773
+Elbasan,3,Cambodia,KH,Hartford & New Haven CT,533
+Fier,4,Cameroon,CM,Philadelphia PA,504
+Gjirokastra,5,Canada,CA,Salisbury MD,576
+Korca,6,Cape Verde,CV,Ft. Myers-Naples FL,571
+Kukës County,7,Caribbean Netherlands,BQ,Gainesville FL,592
+Lezhë County,8,Cayman Islands,KY,Jacksonville FL,561
+Shkodër County,10,Central African Republic,CF,Miami-Ft. Lauderdale FL,528
+Tirana,11,Chad,TD,Mobile AL-Pensacola (Ft. Walton Beach) FL,686
+Vlora,12,Chile,CL,Orlando-Daytona Beach-Melbourne FL,534
+Adrar Province,1,China,CN,Panama City FL,656
+Aïn Defla Province,44,Christmas Island,CX,Tallahassee FL-Thomasville GA,530
+Aïn Témouchent Province,46,Cocos (Keeling) Islands,CC,Tampa-St. Petersburg (Sarasota) FL,539
+Algiers Province,16,Colombia,CO,West Palm Beach-Ft. Pierce FL,548
+Annaba Province,23,Comoros,KM,Albany GA,525
+Batna Province,5,Congo - Brazzaville,CG,Atlanta GA,524
+Béchar,8,Congo - Kinshasa,CD,Augusta GA,520
+Béjaïa,6,Cook Islands,CK,Chattanooga TN,575
+Biskra,7,Costa Rica,CR,Columbus GA,522
+Blida Province,9,Côte d’Ivoire,CI,Dothan AL,606
+Bordj Bou Arreridj,34,Croatia,HR,Jacksonville FL,561
+Bouïra Province,10,Cuba,CU,Macon GA,503
+Boumerdès Province,35,Curaçao,CW,Savannah GA,507
+Chlef Province,2,Cyprus,CY,Tallahassee FL-Thomasville GA,530
+Constantine,25,Czechia,CZ,Honolulu HI,744
+Djelfa Province,17,Denmark,DK,Boise ID,757
+El Bayadh Province,32,Djibouti,DJ,Idaho Falls-Pocatello ID,758
+El Oued Province,39,Dominica,DM,Spokane WA,881
+El Taref Province,36,Dominican Republic,DO,Twin Falls ID,760
+Ghardaia Province,47,Ecuador,EC,Champaign & Springfield-Decatur IL,648
+Guelma Province,24,Egypt,EG,Chicago IL,602
+Illizi Province,33,El Salvador,SV,Davenport IA-Rock Island-Moline IL,682
+Jijel Province,18,Equatorial Guinea,GQ,Evansville IN,649
+Khenchela Province,40,Eritrea,ER,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,632
+Laghouat Province,3,Estonia,EE,Peoria-Bloomington IL,675
+M'Sila Province,28,Eswatini,SZ,Quincy IL-Hannibal MO-Keokuk IA,717
+Mascara Province,29,Ethiopia,ET,Rockford IL,610
+Médéa Province,26,Falkland Islands (Islas Malvinas),FK,St. Louis MO,609
+Mila Province,43,Faroe Islands,FO,Terre Haute IN,581
+Mostaganem Province,27,Fiji,FJ,Chicago IL,602
+Naâma Province,45,Finland,FI,Cincinnati OH,515
+Oran Province,31,France,FR,Evansville IN,649
+Ouargla Province,30,French Guiana,GF,Ft. Wayne IN,509
+Oum El Bouaghi Province,4,French Polynesia,PF,Indianapolis IN,527
+Province of Tamanrasset,11,French Southern Territories,TF,Lafayette IN,582
+Relizane Province,48,Gabon,GA,Louisville KY,529
+Saïda Province,20,Gambia,GM,South Bend-Elkhart IN,588
+Setif,19,Georgia,GE,Terre Haute IN,581
+Sidi-Bel-Abbes,22,Germany,DE,Cedar Rapids-Waterloo-Iowa City & Dubuque IA,637
+Skikda Province,21,Ghana,GH,Davenport IA-Rock Island-Moline IL,682
+Souk Ahras Province,41,Gibraltar,GI,Des Moines-Ames IA,679
+Tebessa,12,Greece,GR,Omaha NE,652
+Tiaret Province,14,Greenland,GL,Ottumwa IA-Kirksville MO,631
+Tindouf Province,37,Grenada,GD,Rochester MN-Mason City IA-Austin MN,611
+Tipaza Province,42,Guadeloupe,GP,Sioux City IA,624
+Tissemsilt,38,Guam,GU,Joplin MO-Pittsburg KS,603
+Tizi Ouzou Province,15,Guatemala,GT,Kansas City MO,616
+Tlemcen Province,13,Guernsey,GG,St. Joseph MO,638
+Andorra la Vella,7,Guinea,GN,Topeka KS,605
+Canillo,2,Guinea-Bissau,GW,Wichita-Hutchinson KS,678
+Encamp,3,Guyana,GY,Bowling Green KY,736
+Escaldes-Engordany,8,Haiti,HT,Charleston-Huntington WV,564
+La Massana,4,Heard & McDonald Islands,HM,Cincinnati OH,515
+Ordino,5,Honduras,HN,Evansville IN,649
+Sant Julià de Lòria,6,Hong Kong,HK,Knoxville TN,557
+Bengo Province,BGO,Hungary,HU,Lexington KY,541
+Benguela Province,BGU,Iceland,IS,Louisville KY,529
+Bié Province,BIE,India,IN,Nashville TN,659
+Cabinda Province,CAB,Indonesia,ID,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,632
+Cuando Cubango Province,CCU,Iran,IR,Tri-Cities TN-VA,531
+Cuanza Norte Province,CNO,Iraq,IQ,Alexandria LA,644
+Cuanza Sul,CUS,Ireland,IE,Baton Rouge LA,716
+Cunene,CNN,Isle of Man,IM,Lafayette LA,642
+Huambo Province,HUA,Israel,IL,Lake Charles LA,643
+Huila Province,HUI,Italy,IT,Monroe LA-El Dorado AR,628
+Luanda Province,LUA,Jamaica,JM,New Orleans LA,622
+Lunda Norte,LNO,Japan,JP,Shreveport LA,612
+Lunda Sul Province,LSU,Jersey,JE,Bangor ME,537
+Malanje Province,MAL,Jordan,JO,Portland-Auburn ME,500
+Moxico Province,MOX,Kazakhstan,KZ,Presque Isle ME,552
+Namibe Province,NAM,Kenya,KE,Baltimore MD,512
+Uíge Province,UIG,Kiribati,KI,Salisbury MD,576
+Zaire Province,ZAI,Kosovo,XK,Washington DC (Hagerstown MD),511
+Barbuda,10,Kuwait,KW,Boston MA-Manchester NH,506
+Redonda,11,Kyrgyzstan,KG,Providence RI-New Bedford MA,521
+Saint George,3,Laos,LA,Springfield-Holyoke MA,543
+Saint John,4,Latvia,LV,Alpena MI,583
+Saint Mary,5,Lebanon,LB,Detroit MI,505
+Saint Paul,6,Lesotho,LS,Flint-Saginaw-Bay City MI,513
+Saint Peter,7,Liberia,LR,Grand Rapids-Kalamazoo-Battle Creek MI,563
+Saint Philip,8,Libya,LY,Lansing MI,551
+Autonomous City of Buenos Aires,C,Liechtenstein,LI,Marquette MI,553
+Buenos Aires Province,B,Lithuania,LT,South Bend-Elkhart IN,588
+Catamarca Province,K,Luxembourg,LU,Toledo OH,547
+Chaco Province,H,Macao,MO,Traverse City-Cadillac MI,540
+Chubut Province,U,Madagascar,MG,Duluth MN-Superior WI,676
+Cordoba,X,Malawi,MW,Fargo-Valley City ND,724
+Corrientes Province,W,Malaysia,MY,La Crosse-Eau Claire WI,702
+Entre Rios,E,Maldives,MV,Mankato MN,737
+Formosa Province,P,Mali,ML,Minneapolis-St. Paul MN,613
+Jujuy,Y,Malta,MT,Rochester MN-Mason City IA-Austin MN,611
+La Pampa Province,L,Marshall Islands,MH,Baton Rouge LA,716
+La Rioja Province,F,Martinique,MQ,Biloxi-Gulfport MS,746
+Mendoza Province,M,Mauritania,MR,Columbus-Tupelo-West Point MS,673
+Misiones Province,N,Mauritius,MU,Greenwood-Greenville MS,647
+Neuquen,Q,Mayotte,YT,Hattiesburg-Laurel MS,710
+Río Negro,R,Mexico,MX,Jackson MS,718
+Salta Province,A,Micronesia,FM,Memphis TN,640
+San Juan Province,J,Moldova,MD,Meridian MS,711
+San Luis Province,D,Monaco,MC,Columbia-Jefferson City MO,604
+Santa Cruz Province,Z,Mongolia,MN,Joplin MO-Pittsburg KS,603
+Santa Fe Province,S,Montenegro,ME,Kansas City MO,616
+Santiago del Estero Province,G,Montserrat,MS,Ottumwa IA-Kirksville MO,631
+Tierra del Fuego Province,V,Morocco,MA,Paducah KY-Cape Girardeau MO-Harrisburg-Mount Vernon IL,632
+Tucumán,T,Mozambique,MZ,Quincy IL-Hannibal MO-Keokuk IA,717
+Aragatsotn Province,AG,Myanmar (Burma),MM,Springfield MO,619
+Ararat Province,AR,Namibia,NA,St. Joseph MO,638
+Armavir Province,AV,Nauru,NR,St. Louis MO,609
+Gegharkunik Province,GR,Nepal,NP,"Billings\, MT",756
+Kotayk Province,KT,Netherlands,NL,Butte-Bozeman MT,754
+Lori Province,LO,New Caledonia,NC,Glendive MT,798
+Shirak Province,SH,New Zealand,NZ,Great Falls MT,755
+Syunik Province,SU,Nicaragua,NI,Helena MT,766
+Tavush Province,TV,Niger,NE,Minot-Bismarck-Dickinson(Williston) ND,687
+Vayots Dzor Province,VD,Nigeria,NG,Missoula MT,762
+Yerevan,ER,Niue,NU,Cheyenne WY-Scottsbluff NE,759
+Australian Capital Territory,ACT,Norfolk Island,NF,Denver CO,751
+New South Wales,NSW,North Korea,KP,Lincoln & Hastings-Kearney NE,722
+Northern Territory,NT,North Macedonia,MK,North Platte NE,740
+Queensland,QLD,Northern Mariana Islands,MP,Omaha NE,652
+South Australia,SA,Norway,NO,Sioux City IA,624
+Tasmania,TAS,Oman,OM,Sioux Falls(Mitchell) SD,725
+Victoria,VIC,Pakistan,PK,Las Vegas NV,839
+Western Australia,WA,Palau,PW,Reno NV,811
+Burgenland,1,Palestine,PS,Salt Lake City UT,770
+Carinthia,2,Panama,PA,Boston MA-Manchester NH,506
+Lower Austria,3,Papua New Guinea,PG,Burlington VT-Plattsburgh NY,523
+Salzburg,5,Paraguay,PY,Portland-Auburn ME,500
+Styria,6,Peru,PE,New York NY,501
+Tyrol,7,Philippines,PH,Philadelphia PA,504
+Upper Austria,4,Pitcairn Islands,PN,Albuquerque-Santa Fe NM,790
+Vienna,9,Poland,PL,Amarillo TX,634
+Vorarlberg,8,Portugal,PT,El Paso TX,765
+Nakhchivan Autonomous Republic,NX,Puerto Rico,PR,Albany-Schenectady-Troy NY,532
+Acklins,AK,Qatar,QA,Binghamton NY,502
+Berry Islands,BY,Réunion,RE,Buffalo NY,514
+Bimini,BI,Romania,RO,Burlington VT-Plattsburgh NY,523
+Black Point,BP,Russia,RU,Elmira NY,565
+Cat Island,CI,Rwanda,RW,New York NY,501
+Central Abaco,CO,Samoa,WS,Rochester NY,538
+Central Andros,CS,San Marino,SM,Syracuse NY,555
+Central Eleuthera,CE,São Tomé & Príncipe,ST,Utica NY,526
+Crooked Island and Long Cay,CK,Saudi Arabia,SA,Watertown NY,549
+East Grand Bahama,EG,Senegal,SN,Charlotte NC,517
+Exuma,EX,Serbia,RS,Florence-Myrtle Beach SC,570
+Freeport,FP,Seychelles,SC,Greensboro-High Point-Winston Salem NC,518
+Grand Cay,GC,Sierra Leone,SL,Greenville-New Bern-Washington NC,545
+Harbour Island,HI,Singapore,SG,Greenville-Spartanburg SC-Asheville NC-Anderson SC,567
+Hope Town,HT,Sint Maarten,SX,Norfolk-Portsmouth-Newport News VA,544
+Inagua,IN,Slovakia,SK,Raleigh-Durham (Fayetteville) NC,560
+Long Island,LI,Slovenia,SI,Wilmington NC,550
+Mangrove Cay,MC,Solomon Islands,SB,Fargo-Valley City ND,724
+Mayaguana,MG,Somalia,SO,Minot-Bismarck-Dickinson(Williston) ND,687
+Moore's Island,MI,South Africa,ZA,Charleston-Huntington WV,564
+North Abaco,NO,South Georgia & South Sandwich Islands,GS,Cincinnati OH,515
+North Andros,NS,South Korea,KR,Cleveland-Akron (Canton) OH,510
+North Eleuthera,NE,South Sudan,SS,Columbus OH,535
+Ragged Island,RI,Spain,ES,Dayton OH,542
+Rum Cay,RC,Sri Lanka,LK,Ft. Wayne IN,509
+San Salvador,SS,St. Barthélemy,BL,Lima OH,558
+South Abaco,SO,St. Helena,SH,Parkersburg WV,597
+South Andros,SA,St. Kitts & Nevis,KN,Toledo OH,547
+South Eleuthera,SE,St. Lucia,LC,Wheeling WV-Steubenville OH,554
+Spanish Wells,SW,St. Martin,MF,Youngstown OH,536
+West Grand Bahama,WG,St. Pierre & Miquelon,PM,Zanesville OH,596
+Capital Governorate,13,St. Vincent & Grenadines,VC,Amarillo TX,634
+Central Governorate,16,Sudan,SD,Ft. Smith-Fayetteville-Springdale-Rogers AR,670
+Muharraq Governorate,15,Suriname,SR,Oklahoma City OK,650
+Northern Governorate,17,Svalbard & Jan Mayen,SJ,Sherman TX-Ada OK,657
+Southern Governorate,14,Sweden,SE,Tulsa OK,671
+Barisal Division,A,Switzerland,CH,Wichita Falls TX & Lawton OK,627
+Chittagong Division,B,Syria,SY,Bend OR,821
+Dhaka Division,C,Taiwan,TW,Boise ID,757
+Khulna Division,D,Tajikistan,TJ,Eugene OR,801
+Rajshahi Division,E,Tanzania,TZ,Medford-Klamath Falls OR,813
+Rangpur Division,F,Thailand,TH,Portland OR,820
+Sylhet Division,G,Timor-Leste,TL,Yakima-Pasco-Richland-Kennewick WA,810
+Christ Church,1,Togo,TG,Buffalo NY,514
+Saint Andrew,2,Tokelau,TK,Elmira NY,565
+Saint George,3,Tonga,TO,Erie PA,516
+Saint James,4,Trinidad & Tobago,TT,Harrisburg-Lancaster-Lebanon-York PA,566
+Saint John,5,Tunisia,TN,Johnstown-Altoona PA,574
+Saint Joseph,6,Turkey,TR,Philadelphia PA,504
+Saint Lucy,7,Turkmenistan,TM,Pittsburgh PA,508
+Saint Michael,8,Turks & Caicos Islands,TC,Wilkes Barre-Scranton PA,577
+Saint Peter,9,Tuvalu,TV,Youngstown OH,536
+Saint Philip,10,U.S. Outlying Islands,UM,Augusta GA,520
+Saint Thomas Parish,11,U.S. Virgin Islands,VI,Charleston SC,519
+Brest Region,BR,Uganda,UG,Charlotte NC,517
+Gomel Region,HO,Ukraine,UA,Columbia SC,546
+Hrodna Region,HR,United Arab Emirates,AE,Florence-Myrtle Beach SC,570
+Minsk Region,MI,United Kingdom,GB,Greenville-Spartanburg SC-Asheville NC-Anderson SC,567
+Mogilev Region,MA,United States,US,Savannah GA,507
+Vitebsk Region,VI,Uruguay,UY,Rapid City SD,764
+Brussels,BRU,Uzbekistan,UZ,Sioux Falls(Mitchell) SD,725
+Flanders,VLG,Vanuatu,VU,Chattanooga TN,575
+Walloon Region,WAL,Vatican City,VA,Jackson TN,639
+Belize,BZ,Venezuela,VE,Knoxville TN,557
+Cayo,CY,Vietnam,VN,Memphis TN,640
+Corozal,CZL,Wallis & Futuna,WF,Nashville TN,659
+Orange Walk,OW,Western Sahara,EH,Tri-Cities TN-VA,531
+Stann Creek,SC,Yemen,YE,Abilene-Sweetwater TX,662
+Toledo,TOL,Zambia,ZM,Amarillo TX,634
+Alibori,AL,Zimbabwe,ZW,Austin TX,635
+Atakora,AK,NULL,NULL,Beaumont-Port Arthur TX,692
+Atlantique,AQ,NULL,NULL,Corpus Christi TX,600
+Borgou,BO,NULL,NULL,Dallas-Ft. Worth TX,623
+Collines,CO,NULL,NULL,El Paso TX,765
+Donga,DO,NULL,NULL,Harlingen-Weslaco-Brownsville-McAllen TX,636
+Kouffo,KO,NULL,NULL,Houston TX,618
+Littoral,LI,NULL,NULL,Laredo TX,749
+Mono,MO,NULL,NULL,Lubbock TX,651
+Oueme,OU,NULL,NULL,Odessa-Midland TX,633
+Plateau,PL,NULL,NULL,San Angelo TX,661
+Zou,ZO,NULL,NULL,San Antonio TX,641
+Bumthang,33,NULL,NULL,Sherman TX-Ada OK,657
+Chhukha,12,NULL,NULL,Shreveport LA,612
+Dagana,22,NULL,NULL,Tyler-Longview(Lufkin & Nacogdoches) TX,709
+Gasa,GA,NULL,NULL,Victoria TX,626
+Haa,13,NULL,NULL,Waco-Temple-Bryan TX,625
+Lhuntse,44,NULL,NULL,Wichita Falls TX & Lawton OK,627
+Mongar,42,NULL,NULL,Burlington VT-Plattsburgh NY,523
+Paro,11,NULL,NULL,Bluefield-Beckley-Oak Hill WV,559
+Pemagatshel,43,NULL,NULL,Charlottesville VA,584
+Punakha,23,NULL,NULL,Harrisonburg VA,569
+Samdrup Jongkhar,45,NULL,NULL,Norfolk-Portsmouth-Newport News VA,544
+Samtse,14,NULL,NULL,Richmond-Petersburg VA,556
+Sarpang,31,NULL,NULL,Roanoke-Lynchburg VA,573
+Thimphu,15,NULL,NULL,Tri-Cities TN-VA,531
+Trashigang,41,NULL,NULL,Washington DC (Hagerstown MD),511
+Trashiyangtse,TY,NULL,NULL,Portland OR,820
+Trongsa,32,NULL,NULL,Seattle-Tacoma WA,819
+Tsirang,21,NULL,NULL,Spokane WA,881
+Wangdue Phodrang,24,NULL,NULL,Yakima-Pasco-Richland-Kennewick WA,810
+Zhemgang,34,NULL,NULL,Bluefield-Beckley-Oak Hill WV,559
+Beni Department,B,NULL,NULL,Charleston-Huntington WV,564
+Chuquisaca Department,H,NULL,NULL,Clarksburg-Weston WV,598
+Cochabamba Department,C,NULL,NULL,Harrisonburg VA,569
+La Paz Department,L,NULL,NULL,Parkersburg WV,597
+Oruro Department,O,NULL,NULL,Washington DC (Hagerstown MD),511
+Pando Department,N,NULL,NULL,Wheeling WV-Steubenville OH,554
+Potosi Department,P,NULL,NULL,Duluth MN-Superior WI,676
+Santa Cruz,S,NULL,NULL,Green Bay-Appleton WI,658
+Tarija Department,T,NULL,NULL,La Crosse-Eau Claire WI,702
+Brčko Distrikt,BRC,NULL,NULL,Madison WI,669
+Federation of Bosnia and Herzegovina,BIH,NULL,NULL,Milwaukee WI,617
+Republika Srpska,SRP,NULL,NULL,Minneapolis-St. Paul MN,613
+Central,CE,NULL,NULL,Wausau-Rhinelander WI,705
+Ghanzi,GH,NULL,NULL,"Billings\, MT",756
+Kgalagadi,KG,NULL,NULL,Casper-Riverton WY,767
+Kgatleng,KL,NULL,NULL,Cheyenne WY-Scottsbluff NE,759
+Kweneng,KW,NULL,NULL,Denver CO,751
+North West,NW,NULL,NULL,Idaho Falls-Pocatello ID,758
+North-East,NE,NULL,NULL,Rapid City SD,764
+South-East,SE,NULL,NULL,Salt Lake City UT,770
+Southern,SO,NULL,NULL,NULL,NULL
+Federal District,DF,NULL,NULL,NULL,NULL
+State of Acre,AC,NULL,NULL,NULL,NULL
+State of Alagoas,AL,NULL,NULL,NULL,NULL
+State of Amapá,AP,NULL,NULL,NULL,NULL
+State of Amazonas,AM,NULL,NULL,NULL,NULL
+State of Bahia,BA,NULL,NULL,NULL,NULL
+State of Ceará,CE,NULL,NULL,NULL,NULL
+State of Espírito Santo,ES,NULL,NULL,NULL,NULL
+State of Goiás,GO,NULL,NULL,NULL,NULL
+State of Maranhão,MA,NULL,NULL,NULL,NULL
+State of Mato Grosso,MT,NULL,NULL,NULL,NULL
+State of Mato Grosso do Sul,MS,NULL,NULL,NULL,NULL
+State of Minas Gerais,MG,NULL,NULL,NULL,NULL
+State of Pará,PA,NULL,NULL,NULL,NULL
+State of Paraíba,PB,NULL,NULL,NULL,NULL
+State of Paraná,PR,NULL,NULL,NULL,NULL
+State of Pernambuco,PE,NULL,NULL,NULL,NULL
+State of Piauí,PI,NULL,NULL,NULL,NULL
+State of Rio de Janeiro,RJ,NULL,NULL,NULL,NULL
+State of Rio Grande do Norte,RN,NULL,NULL,NULL,NULL
+State of Rio Grande do Sul,RS,NULL,NULL,NULL,NULL
+State of Rondônia,RO,NULL,NULL,NULL,NULL
+State of Roraima,RR,NULL,NULL,NULL,NULL
+State of Santa Catarina,SC,NULL,NULL,NULL,NULL
+State of São Paulo,SP,NULL,NULL,NULL,NULL
+State of Sergipe,SE,NULL,NULL,NULL,NULL
+State of Tocantins,TO,NULL,NULL,NULL,NULL
+Belait,BE,NULL,NULL,NULL,NULL
+Brunei-Muara,BM,NULL,NULL,NULL,NULL
+Temburong,TE,NULL,NULL,NULL,NULL
+Tutong,TU,NULL,NULL,NULL,NULL
+Blagoevgrad Province,1,NULL,NULL,NULL,NULL
+Burgas,2,NULL,NULL,NULL,NULL
+Dobrich Province,8,NULL,NULL,NULL,NULL
+Gabrovo,7,NULL,NULL,NULL,NULL
+Haskovo Province,26,NULL,NULL,NULL,NULL
+Jambol,28,NULL,NULL,NULL,NULL
+Kardzhali Province,9,NULL,NULL,NULL,NULL
+Kyustendil Province,10,NULL,NULL,NULL,NULL
+Lovec,11,NULL,NULL,NULL,NULL
+Montana Province,12,NULL,NULL,NULL,NULL
+Pazardzik,13,NULL,NULL,NULL,NULL
+Pernik,14,NULL,NULL,NULL,NULL
+Pleven Province,15,NULL,NULL,NULL,NULL
+Plovdiv Province,16,NULL,NULL,NULL,NULL
+Razgrad,17,NULL,NULL,NULL,NULL
+Ruse,18,NULL,NULL,NULL,NULL
+Shumen Province,27,NULL,NULL,NULL,NULL
+Silistra,19,NULL,NULL,NULL,NULL
+Sliven Province,20,NULL,NULL,NULL,NULL
+Smoljan,21,NULL,NULL,NULL,NULL
+Sofia City Province,22,NULL,NULL,NULL,NULL
+Sofia Province,23,NULL,NULL,NULL,NULL
+Stara Zagora,24,NULL,NULL,NULL,NULL
+Targovishte Province,25,NULL,NULL,NULL,NULL
+Varna,3,NULL,NULL,NULL,NULL
+Veliko Tarnovo Province,4,NULL,NULL,NULL,NULL
+Vidin,5,NULL,NULL,NULL,NULL
+Vraca,6,NULL,NULL,NULL,NULL
+Boucle du Mouhoun,1,NULL,NULL,NULL,NULL
+Cascades,2,NULL,NULL,NULL,NULL
+Centre,3,NULL,NULL,NULL,NULL
+Centre Est,4,NULL,NULL,NULL,NULL
+Centre-Nord,5,NULL,NULL,NULL,NULL
+Centre-Ouest,6,NULL,NULL,NULL,NULL
+Centre-Sud,7,NULL,NULL,NULL,NULL
+Est,8,NULL,NULL,NULL,NULL
+Hauts-Bassins,9,NULL,NULL,NULL,NULL
+Nord,10,NULL,NULL,NULL,NULL
+Plateau-Central Region,11,NULL,NULL,NULL,NULL
+Sahel,12,NULL,NULL,NULL,NULL
+Sud-Ouest,13,NULL,NULL,NULL,NULL
+Bubanza,BB,NULL,NULL,NULL,NULL
+Bujumbura Mairie,BM,NULL,NULL,NULL,NULL
+Bujumbura Rural,BL,NULL,NULL,NULL,NULL
+Bururi,BR,NULL,NULL,NULL,NULL
+Cankuzo,CA,NULL,NULL,NULL,NULL
+Cibitoke,CI,NULL,NULL,NULL,NULL
+Gitega,GI,NULL,NULL,NULL,NULL
+Karuzi,KR,NULL,NULL,NULL,NULL
+Kayanza,KY,NULL,NULL,NULL,NULL
+Kirundo,KI,NULL,NULL,NULL,NULL
+Makamba,MA,NULL,NULL,NULL,NULL
+Muramvya,MU,NULL,NULL,NULL,NULL
+Muyinga,MY,NULL,NULL,NULL,NULL
+Mwaro,MW,NULL,NULL,NULL,NULL
+Ngozi,NG,NULL,NULL,NULL,NULL
+Rutana,RT,NULL,NULL,NULL,NULL
+Ruyigi,RY,NULL,NULL,NULL,NULL
+Banteay Meanchey,1,NULL,NULL,NULL,NULL
+Battambang,2,NULL,NULL,NULL,NULL
+Kampong Cham,3,NULL,NULL,NULL,NULL
+Kampong Chhnang,4,NULL,NULL,NULL,NULL
+Kampong Speu​,5,NULL,NULL,NULL,NULL
+Kampong Thom,6,NULL,NULL,NULL,NULL
+Kampot,7,NULL,NULL,NULL,NULL
+Kandal,8,NULL,NULL,NULL,NULL
+Kep,23,NULL,NULL,NULL,NULL
+Koh Kong,9,NULL,NULL,NULL,NULL
+Kratie,10,NULL,NULL,NULL,NULL
+Mondulkiri,11,NULL,NULL,NULL,NULL
+Oddar Meancheay,22,NULL,NULL,NULL,NULL
+Pailin,24,NULL,NULL,NULL,NULL
+Phnom Penh,12,NULL,NULL,NULL,NULL
+Preah Sihanouk,18,NULL,NULL,NULL,NULL
+Preah Vihear,13,NULL,NULL,NULL,NULL
+Prey Veng,14,NULL,NULL,NULL,NULL
+Pursat,15,NULL,NULL,NULL,NULL
+Ratanakiri,16,NULL,NULL,NULL,NULL
+Siem Reap,17,NULL,NULL,NULL,NULL
+Stung Treng,19,NULL,NULL,NULL,NULL
+Svay Rieng,20,NULL,NULL,NULL,NULL
+Takeo,21,NULL,NULL,NULL,NULL
+Tbong Khmum,25,NULL,NULL,NULL,NULL
+Adamawa Region,AD,NULL,NULL,NULL,NULL
+Centre,CE,NULL,NULL,NULL,NULL
+East,ES,NULL,NULL,NULL,NULL
+Extreme North,EN,NULL,NULL,NULL,NULL
+Littoral,LT,NULL,NULL,NULL,NULL
+North,NO,NULL,NULL,NULL,NULL
+Northwest,NW,NULL,NULL,NULL,NULL
+South,SU,NULL,NULL,NULL,NULL
+Southwest,SW,NULL,NULL,NULL,NULL
+West,OU,NULL,NULL,NULL,NULL
+Alberta,AB,NULL,NULL,NULL,NULL
+British Columbia,BC,NULL,NULL,NULL,NULL
+Manitoba,MB,NULL,NULL,NULL,NULL
+New Brunswick,NB,NULL,NULL,NULL,NULL
+Newfoundland and Labrador,NL,NULL,NULL,NULL,NULL
+Northwest Territories,NT,NULL,NULL,NULL,NULL
+Nova Scotia,NS,NULL,NULL,NULL,NULL
+Nunavut,NU,NULL,NULL,NULL,NULL
+Ontario,ON,NULL,NULL,NULL,NULL
+Prince Edward Island,PE,NULL,NULL,NULL,NULL
+Québec,QC,NULL,NULL,NULL,NULL
+Saskatchewan,SK,NULL,NULL,NULL,NULL
+Yukon Territory,YT,NULL,NULL,NULL,NULL
+Boa Vista,BV,NULL,NULL,NULL,NULL
+Brava,BR,NULL,NULL,NULL,NULL
+Maio,MA,NULL,NULL,NULL,NULL
+Mosteiros,MO,NULL,NULL,NULL,NULL
+Paul,PA,NULL,NULL,NULL,NULL
+Porto Novo,PN,NULL,NULL,NULL,NULL
+Praia,PR,NULL,NULL,NULL,NULL
+Ribeira Brava,RB,NULL,NULL,NULL,NULL
+Ribeira Grande,RG,NULL,NULL,NULL,NULL
+Ribeira Grande de Santiago,RS,NULL,NULL,NULL,NULL
+Sal,SL,NULL,NULL,NULL,NULL
+Santa Catarina,CA,NULL,NULL,NULL,NULL
+Santa Catarina do Fogo,CF,NULL,NULL,NULL,NULL
+Santa Cruz,CR,NULL,NULL,NULL,NULL
+Sao Domingos,SD,NULL,NULL,NULL,NULL
+Sao Filipe,SF,NULL,NULL,NULL,NULL
+Sao Lourenco dos Orgaos,SO,NULL,NULL,NULL,NULL
+Sao Miguel,SM,NULL,NULL,NULL,NULL
+Sao Salvador do Mundo,SS,NULL,NULL,NULL,NULL
+Sao Vicente,SV,NULL,NULL,NULL,NULL
+Tarrafal,TA,NULL,NULL,NULL,NULL
+Tarrafal de Sao Nicolau,TS,NULL,NULL,NULL,NULL
+Bonaire,BO,NULL,NULL,NULL,NULL
+Saba,SA,NULL,NULL,NULL,NULL
+Sint Eustatius,SE,NULL,NULL,NULL,NULL
+Bamingui-Bangoran,BB,NULL,NULL,NULL,NULL
+Bangui,BGF,NULL,NULL,NULL,NULL
+Basse-Kotto,BK,NULL,NULL,NULL,NULL
+Haut-Mbomou,HM,NULL,NULL,NULL,NULL
+Haute-Kotto,HK,NULL,NULL,NULL,NULL
+Kemo,KG,NULL,NULL,NULL,NULL
+Lobaye,LB,NULL,NULL,NULL,NULL
+Mambere-Kadei,HS,NULL,NULL,NULL,NULL
+Mbomou,MB,NULL,NULL,NULL,NULL
+Nana-Grebizi,KB,NULL,NULL,NULL,NULL
+Nana-Mambéré,NM,NULL,NULL,NULL,NULL
+Ombella-M'Poko,MP,NULL,NULL,NULL,NULL
+Ouaka,UK,NULL,NULL,NULL,NULL
+Ouham,AC,NULL,NULL,NULL,NULL
+Ouham-Pendé,OP,NULL,NULL,NULL,NULL
+Sangha-Mbare,SE,NULL,NULL,NULL,NULL
+Vakaga,VK,NULL,NULL,NULL,NULL
+Bahr El Gazel,BG,NULL,NULL,NULL,NULL
+Batha,BA,NULL,NULL,NULL,NULL
+Borkou,BO,NULL,NULL,NULL,NULL
+Chari-Baguirmi,CB,NULL,NULL,NULL,NULL
+Ennedi,EN,NULL,NULL,NULL,NULL
+Guera,GR,NULL,NULL,NULL,NULL
+Hadjer-Lamis,HL,NULL,NULL,NULL,NULL
+Kanem,KA,NULL,NULL,NULL,NULL
+Lac,LC,NULL,NULL,NULL,NULL
+Logone Occidental,LO,NULL,NULL,NULL,NULL
+Logone Oriental,LR,NULL,NULL,NULL,NULL
+Mandoul,MA,NULL,NULL,NULL,NULL
+Mayo-Kebbi Est,ME,NULL,NULL,NULL,NULL
+Mayo-Kebbi Ouest,MO,NULL,NULL,NULL,NULL
+Moyen-Chari,MC,NULL,NULL,NULL,NULL
+N'Djamena,ND,NULL,NULL,NULL,NULL
+Ouaddai,OD,NULL,NULL,NULL,NULL
+Sila,SI,NULL,NULL,NULL,NULL
+Tandjile,TA,NULL,NULL,NULL,NULL
+Tibesti,TI,NULL,NULL,NULL,NULL
+Wadi Fira,WF,NULL,NULL,NULL,NULL
+سلمات,SA,NULL,NULL,NULL,NULL
+Antofagasta Region,AN,NULL,NULL,NULL,NULL
+Araucania,AR,NULL,NULL,NULL,NULL
+Arica y Parinacota Region,AP,NULL,NULL,NULL,NULL
+Atacama Region,AT,NULL,NULL,NULL,NULL
+Bío Bío Region,BI,NULL,NULL,NULL,NULL
+Coquimbo Region,CO,NULL,NULL,NULL,NULL
+Los Lagos Region,LL,NULL,NULL,NULL,NULL
+Los Ríos Region,LR,NULL,NULL,NULL,NULL
+Magallanes y la Antártica Chilena Region,MA,NULL,NULL,NULL,NULL
+Maule Region,ML,NULL,NULL,NULL,NULL
+O'Higgins Region,LI,NULL,NULL,NULL,NULL
+Santiago Metropolitan Region,RM,NULL,NULL,NULL,NULL
+Tarapacá Region,TA,NULL,NULL,NULL,NULL
+Valparaiso Region,VS,NULL,NULL,NULL,NULL
+XI Región,AI,NULL,NULL,NULL,NULL
+Anhui,34,NULL,NULL,NULL,NULL
+Beijing,11,NULL,NULL,NULL,NULL
+Chongqing,50,NULL,NULL,NULL,NULL
+Fujian,35,NULL,NULL,NULL,NULL
+Gansu,62,NULL,NULL,NULL,NULL
+Guangdong,44,NULL,NULL,NULL,NULL
+Guangxi,45,NULL,NULL,NULL,NULL
+Guizhou,52,NULL,NULL,NULL,NULL
+Hainan,46,NULL,NULL,NULL,NULL
+Hebei,13,NULL,NULL,NULL,NULL
+Heilongjiang,23,NULL,NULL,NULL,NULL
+Henan,41,NULL,NULL,NULL,NULL
+Hubei,42,NULL,NULL,NULL,NULL
+Hunan,43,NULL,NULL,NULL,NULL
+Inner Mongolia,15,NULL,NULL,NULL,NULL
+Jiangsu,32,NULL,NULL,NULL,NULL
+Jiangxi,36,NULL,NULL,NULL,NULL
+Jilin,22,NULL,NULL,NULL,NULL
+Liaoning,21,NULL,NULL,NULL,NULL
+Ningxia,64,NULL,NULL,NULL,NULL
+Qinghai,63,NULL,NULL,NULL,NULL
+Shaanxi,61,NULL,NULL,NULL,NULL
+Shandong,37,NULL,NULL,NULL,NULL
+Shanghai,31,NULL,NULL,NULL,NULL
+Shanxi,14,NULL,NULL,NULL,NULL
+Sichuan,51,NULL,NULL,NULL,NULL
+Tianjin,12,NULL,NULL,NULL,NULL
+Tibet,54,NULL,NULL,NULL,NULL
+Xinjiang,65,NULL,NULL,NULL,NULL
+Yunnan,53,NULL,NULL,NULL,NULL
+Zhejiang,33,NULL,NULL,NULL,NULL
+Amazonas Department,AMA,NULL,NULL,NULL,NULL
+Antioquia,ANT,NULL,NULL,NULL,NULL
+Arauca,ARA,NULL,NULL,NULL,NULL
+Atlantico,ATL,NULL,NULL,NULL,NULL
+Bogota,DC,NULL,NULL,NULL,NULL
+Bolivar,BOL,NULL,NULL,NULL,NULL
+Boyaca,BOY,NULL,NULL,NULL,NULL
+Caldas,CAL,NULL,NULL,NULL,NULL
+Caquetá,CAQ,NULL,NULL,NULL,NULL
+Casanare,CAS,NULL,NULL,NULL,NULL
+Cauca Department,CAU,NULL,NULL,NULL,NULL
+Cesar,CES,NULL,NULL,NULL,NULL
+Choco,CHO,NULL,NULL,NULL,NULL
+Cordoba,COR,NULL,NULL,NULL,NULL
+Cundinamarca,CUN,NULL,NULL,NULL,NULL
+Guainia,GUA,NULL,NULL,NULL,NULL
+Guaviare,GUV,NULL,NULL,NULL,NULL
+Huila,HUI,NULL,NULL,NULL,NULL
+La Guajira,LAG,NULL,NULL,NULL,NULL
+Magdalena,MAG,NULL,NULL,NULL,NULL
+Meta,MET,NULL,NULL,NULL,NULL
+Narino,NAR,NULL,NULL,NULL,NULL
+North Santander,NSA,NULL,NULL,NULL,NULL
+Putumayo,PUT,NULL,NULL,NULL,NULL
+Quindio,QUI,NULL,NULL,NULL,NULL
+Risaralda,RIS,NULL,NULL,NULL,NULL
+San Andrés and Providencia,SAP,NULL,NULL,NULL,NULL
+Santander Department,SAN,NULL,NULL,NULL,NULL
+Sucre,SUC,NULL,NULL,NULL,NULL
+Tolima,TOL,NULL,NULL,NULL,NULL
+Valle del Cauca,VAC,NULL,NULL,NULL,NULL
+Vaupes,VAU,NULL,NULL,NULL,NULL
+Vichada,VID,NULL,NULL,NULL,NULL
+Mwali,M,NULL,NULL,NULL,NULL
+Ngazidja,G,NULL,NULL,NULL,NULL
+Nzwani,A,NULL,NULL,NULL,NULL
+Bouenza,11,NULL,NULL,NULL,NULL
+Brazzaville,BZV,NULL,NULL,NULL,NULL
+Cuvette,8,NULL,NULL,NULL,NULL
+Cuvette-Ouest,15,NULL,NULL,NULL,NULL
+Kouilou,5,NULL,NULL,NULL,NULL
+Lekoumou,2,NULL,NULL,NULL,NULL
+Likouala,7,NULL,NULL,NULL,NULL
+Niari,9,NULL,NULL,NULL,NULL
+Plateaux,14,NULL,NULL,NULL,NULL
+Pointe Noire,16,NULL,NULL,NULL,NULL
+Pool,12,NULL,NULL,NULL,NULL
+Sangha,13,NULL,NULL,NULL,NULL
+Bandundu,BN,NULL,NULL,NULL,NULL
+Bas Congo,BC,NULL,NULL,NULL,NULL
+Equator,EQ,NULL,NULL,NULL,NULL
+Kasai Occidental,KW,NULL,NULL,NULL,NULL
+Kasai Oriental,KE,NULL,NULL,NULL,NULL
+Katanga,KA,NULL,NULL,NULL,NULL
+Kinshasa,KN,NULL,NULL,NULL,NULL
+Maniema,MA,NULL,NULL,NULL,NULL
+North-Kivu,NK,NULL,NULL,NULL,NULL
+Orientale,OR,NULL,NULL,NULL,NULL
+South-Kivu,SK,NULL,NULL,NULL,NULL
+Alajuela,A,NULL,NULL,NULL,NULL
+Guanacaste Province,G,NULL,NULL,NULL,NULL
+Heredia Province,H,NULL,NULL,NULL,NULL
+Limón Province,L,NULL,NULL,NULL,NULL
+Provincia de Cartago,C,NULL,NULL,NULL,NULL
+Puntarenas Province,P,NULL,NULL,NULL,NULL
+San José Province,SJ,NULL,NULL,NULL,NULL
+Agnebi,16,NULL,NULL,NULL,NULL
+Bafing,17,NULL,NULL,NULL,NULL
+Bas-Sassandra,9,NULL,NULL,NULL,NULL
+Denguele,10,NULL,NULL,NULL,NULL
+Dix-Huit Montagnes,6,NULL,NULL,NULL,NULL
+Fromager,18,NULL,NULL,NULL,NULL
+Haut-Sassandra,2,NULL,NULL,NULL,NULL
+Lacs,7,NULL,NULL,NULL,NULL
+Lagunes,1,NULL,NULL,NULL,NULL
+Marahoue,12,NULL,NULL,NULL,NULL
+Moyen-Cavally,19,NULL,NULL,NULL,NULL
+Moyen-Comoe,5,NULL,NULL,NULL,NULL
+Nzi-Comoe,11,NULL,NULL,NULL,NULL
+Savanes,3,NULL,NULL,NULL,NULL
+Sud-Bandama,15,NULL,NULL,NULL,NULL
+Sud-Comoe,13,NULL,NULL,NULL,NULL
+Vallee du Bandama,4,NULL,NULL,NULL,NULL
+Worodougou,14,NULL,NULL,NULL,NULL
+Zanzan,8,NULL,NULL,NULL,NULL
+Bjelovar-Bilogora County,7,NULL,NULL,NULL,NULL
+Brod-Posavina County,12,NULL,NULL,NULL,NULL
+City of Zagreb,21,NULL,NULL,NULL,NULL
+Dubrovnik-Neretva County,19,NULL,NULL,NULL,NULL
+Istria County,18,NULL,NULL,NULL,NULL
+Karlovac County,4,NULL,NULL,NULL,NULL
+Koprivnica-Križevci County,6,NULL,NULL,NULL,NULL
+Krapina-Zagorje County,2,NULL,NULL,NULL,NULL
+Lika-Senj County,9,NULL,NULL,NULL,NULL
+Međimurje County,20,NULL,NULL,NULL,NULL
+Osijek-Baranja County,14,NULL,NULL,NULL,NULL
+Požega-Slavonia County,11,NULL,NULL,NULL,NULL
+Primorje-Gorski Kotar County,8,NULL,NULL,NULL,NULL
+Šibenik-Knin County,15,NULL,NULL,NULL,NULL
+Sisak-Moslavina County,3,NULL,NULL,NULL,NULL
+Split-Dalmatia County,17,NULL,NULL,NULL,NULL
+Varaždin County,5,NULL,NULL,NULL,NULL
+Virovitica-Podravina County,10,NULL,NULL,NULL,NULL
+Vukovar-Srijem County,16,NULL,NULL,NULL,NULL
+Zadar County,13,NULL,NULL,NULL,NULL
+Zagreb County,1,NULL,NULL,NULL,NULL
+Artemisa Province,15,NULL,NULL,NULL,NULL
+Camaguey,9,NULL,NULL,NULL,NULL
+Ciego de Avila,8,NULL,NULL,NULL,NULL
+Cienfuegos,6,NULL,NULL,NULL,NULL
+Granma,12,NULL,NULL,NULL,NULL
+Guantanamo,14,NULL,NULL,NULL,NULL
+Havana,3,NULL,NULL,NULL,NULL
+Holguin,11,NULL,NULL,NULL,NULL
+Isla de la Juventud,99,NULL,NULL,NULL,NULL
+Las Tunas,10,NULL,NULL,NULL,NULL
+Matanzas,4,NULL,NULL,NULL,NULL
+Mayabeque,16,NULL,NULL,NULL,NULL
+Pinar del Rio,1,NULL,NULL,NULL,NULL
+Sancti Spiritus,7,NULL,NULL,NULL,NULL
+Santiago de Cuba,13,NULL,NULL,NULL,NULL
+Villa Clara,5,NULL,NULL,NULL,NULL
+Famagusta,4,NULL,NULL,NULL,NULL
+Girne,6,NULL,NULL,NULL,NULL
+Larnaca,3,NULL,NULL,NULL,NULL
+Limassol,2,NULL,NULL,NULL,NULL
+Nicosia District,1,NULL,NULL,NULL,NULL
+Paphos,5,NULL,NULL,NULL,NULL
+Central Bohemian Region,ST,NULL,NULL,NULL,NULL
+Hradec Králové Region,KR,NULL,NULL,NULL,NULL
+Karlovy Vary Region,KA,NULL,NULL,NULL,NULL
+Liberec Region,LI,NULL,NULL,NULL,NULL
+Moravian-Silesian Region,MO,NULL,NULL,NULL,NULL
+Olomouc Region,OL,NULL,NULL,NULL,NULL
+Pardubice Region,PA,NULL,NULL,NULL,NULL
+Plzeň Region,PL,NULL,NULL,NULL,NULL
+Prague,PR,NULL,NULL,NULL,NULL
+South Bohemian Region,JC,NULL,NULL,NULL,NULL
+South Moravian Region,JM,NULL,NULL,NULL,NULL
+Ústí nad Labem Region,US,NULL,NULL,NULL,NULL
+Vysocina Region,VY,NULL,NULL,NULL,NULL
+Zlin Region,ZL,NULL,NULL,NULL,NULL
+Capital Region of Denmark,84,NULL,NULL,NULL,NULL
+Central Denmark Region,82,NULL,NULL,NULL,NULL
+North Denmark Region,81,NULL,NULL,NULL,NULL
+Region Syddanmark,83,NULL,NULL,NULL,NULL
+Region Zealand,85,NULL,NULL,NULL,NULL
+Ali Sabieh,AS,NULL,NULL,NULL,NULL
+Arta,AR,NULL,NULL,NULL,NULL
+Dikhil,DI,NULL,NULL,NULL,NULL
+Djibouti,DJ,NULL,NULL,NULL,NULL
+Obock,OB,NULL,NULL,NULL,NULL
+Tadjourah,TA,NULL,NULL,NULL,NULL
+Saint Andrew Parish,2,NULL,NULL,NULL,NULL
+Saint David Parish,3,NULL,NULL,NULL,NULL
+Saint George Parish,4,NULL,NULL,NULL,NULL
+Saint John Parish,5,NULL,NULL,NULL,NULL
+Saint Joseph Parish,6,NULL,NULL,NULL,NULL
+Saint Luke Parish,7,NULL,NULL,NULL,NULL
+Saint Mark Parish,8,NULL,NULL,NULL,NULL
+Saint Patrick Parish,9,NULL,NULL,NULL,NULL
+Saint Paul Parish,10,NULL,NULL,NULL,NULL
+Saint Peter Parish,11,NULL,NULL,NULL,NULL
+Azua Province,2,NULL,NULL,NULL,NULL
+Baoruco Province,3,NULL,NULL,NULL,NULL
+Barahona Province,4,NULL,NULL,NULL,NULL
+Dajabón Province,5,NULL,NULL,NULL,NULL
+Distrito Nacional,1,NULL,NULL,NULL,NULL
+Duarte Province,6,NULL,NULL,NULL,NULL
+El Seibo Province,8,NULL,NULL,NULL,NULL
+Elías Piña Province,7,NULL,NULL,NULL,NULL
+Espaillat Province,9,NULL,NULL,NULL,NULL
+Hato Mayor Province,30,NULL,NULL,NULL,NULL
+Hermanas Mirabal Province,19,NULL,NULL,NULL,NULL
+Independencia Province,10,NULL,NULL,NULL,NULL
+La Altagracia Province,11,NULL,NULL,NULL,NULL
+La Romana Province,12,NULL,NULL,NULL,NULL
+La Vega Province,13,NULL,NULL,NULL,NULL
+María Trinidad Sánchez Province,14,NULL,NULL,NULL,NULL
+Monseñor Nouel Province,28,NULL,NULL,NULL,NULL
+Monte Cristi Province,15,NULL,NULL,NULL,NULL
+Monte Plata Province,29,NULL,NULL,NULL,NULL
+Pedernales Province,16,NULL,NULL,NULL,NULL
+Peravia Province,17,NULL,NULL,NULL,NULL
+Puerto Plata Province,18,NULL,NULL,NULL,NULL
+Samaná Province,20,NULL,NULL,NULL,NULL
+San Cristóbal Province,21,NULL,NULL,NULL,NULL
+San José de Ocoa Province,31,NULL,NULL,NULL,NULL
+San Juan Province,22,NULL,NULL,NULL,NULL
+San Pedro de Macorís Province,23,NULL,NULL,NULL,NULL
+Sánchez Ramírez Province,24,NULL,NULL,NULL,NULL
+Santiago Province,25,NULL,NULL,NULL,NULL
+Santiago Rodríguez Province,26,NULL,NULL,NULL,NULL
+Santo Domingo Province,32,NULL,NULL,NULL,NULL
+Valverde Province,27,NULL,NULL,NULL,NULL
+Azuay,A,NULL,NULL,NULL,NULL
+Bolívar Province,B,NULL,NULL,NULL,NULL
+Cañar Province,F,NULL,NULL,NULL,NULL
+Carchi Province,C,NULL,NULL,NULL,NULL
+Chimborazo Province,H,NULL,NULL,NULL,NULL
+Cotopaxi Province,X,NULL,NULL,NULL,NULL
+El Oro,O,NULL,NULL,NULL,NULL
+Esmeraldas Province,E,NULL,NULL,NULL,NULL
+Galápagos Islands,W,NULL,NULL,NULL,NULL
+Guayas,G,NULL,NULL,NULL,NULL
+Imbabura Province,I,NULL,NULL,NULL,NULL
+Loja,L,NULL,NULL,NULL,NULL
+Los Ríos Province,R,NULL,NULL,NULL,NULL
+Manabí Province,M,NULL,NULL,NULL,NULL
+Morona-Santiago Province,S,NULL,NULL,NULL,NULL
+Orellana Province,D,NULL,NULL,NULL,NULL
+Pastaza Province,Y,NULL,NULL,NULL,NULL
+Pichincha,P,NULL,NULL,NULL,NULL
+Provincia de Napo,N,NULL,NULL,NULL,NULL
+Santa Elena Province,SE,NULL,NULL,NULL,NULL
+Santo Domingo de los Tsáchilas Province,SD,NULL,NULL,NULL,NULL
+Sucumbíos Province,U,NULL,NULL,NULL,NULL
+Tungurahua,T,NULL,NULL,NULL,NULL
+Zamora-Chinchipe Province,Z,NULL,NULL,NULL,NULL
+Al Qalyubia Governorate,KB,NULL,NULL,NULL,NULL
+Alexandria Governorate,ALX,NULL,NULL,NULL,NULL
+Ash Sharqia Governorate,SHR,NULL,NULL,NULL,NULL
+Assiut Governorate,AST,NULL,NULL,NULL,NULL
+Aswan Governorate,ASN,NULL,NULL,NULL,NULL
+Beni Suef Governorate,BNS,NULL,NULL,NULL,NULL
+Cairo Governorate,C,NULL,NULL,NULL,NULL
+Dakahlia Governorate,DK,NULL,NULL,NULL,NULL
+Damietta Governorate,DT,NULL,NULL,NULL,NULL
+El Beheira Governorate,BH,NULL,NULL,NULL,NULL
+Faiyum Governorate,FYM,NULL,NULL,NULL,NULL
+Gharbia Governorate,GH,NULL,NULL,NULL,NULL
+Giza Governorate,GZ,NULL,NULL,NULL,NULL
+Ismailia Governorate,IS,NULL,NULL,NULL,NULL
+Kafr El Sheikh Governorate,KFS,NULL,NULL,NULL,NULL
+Luxor Governorate,LX,NULL,NULL,NULL,NULL
+Matrouh Governorate,MT,NULL,NULL,NULL,NULL
+Menia Governorate,MN,NULL,NULL,NULL,NULL
+Menofia Governorate,MNF,NULL,NULL,NULL,NULL
+New Valley Governorate,WAD,NULL,NULL,NULL,NULL
+North Sinai Governorate,SIN,NULL,NULL,NULL,NULL
+Port Said Governorate,PTS,NULL,NULL,NULL,NULL
+Qena Governorate,KN,NULL,NULL,NULL,NULL
+Red Sea Governorate,BA,NULL,NULL,NULL,NULL
+Sohag Governorate,SHG,NULL,NULL,NULL,NULL
+South Sinai Governorate,JS,NULL,NULL,NULL,NULL
+Suez Governorate,SUZ,NULL,NULL,NULL,NULL
+Ahuachapan,AH,NULL,NULL,NULL,NULL
+Cabanas,CA,NULL,NULL,NULL,NULL
+Chalatenango,CH,NULL,NULL,NULL,NULL
+Cuscatlan,CU,NULL,NULL,NULL,NULL
+La Libertad,LI,NULL,NULL,NULL,NULL
+La Paz,PA,NULL,NULL,NULL,NULL
+La Union,UN,NULL,NULL,NULL,NULL
+Morazan,MO,NULL,NULL,NULL,NULL
+San Miguel,SM,NULL,NULL,NULL,NULL
+San Salvador,SS,NULL,NULL,NULL,NULL
+San Vicente,SV,NULL,NULL,NULL,NULL
+Santa Ana,SA,NULL,NULL,NULL,NULL
+Sonsonate,SO,NULL,NULL,NULL,NULL
+Usulutan,US,NULL,NULL,NULL,NULL
+Annobón,AN,NULL,NULL,NULL,NULL
+Bioko Norte,BN,NULL,NULL,NULL,NULL
+Bioko Sur,BS,NULL,NULL,NULL,NULL
+Centro Sur,CS,NULL,NULL,NULL,NULL
+Kie-Ntem,KN,NULL,NULL,NULL,NULL
+Litoral,LI,NULL,NULL,NULL,NULL
+Wele-Nzas,WN,NULL,NULL,NULL,NULL
+Anseba,AN,NULL,NULL,NULL,NULL
+Central,MA,NULL,NULL,NULL,NULL
+Gash-Barka,GB,NULL,NULL,NULL,NULL
+Northern Red Sea,SK,NULL,NULL,NULL,NULL
+Southern,DU,NULL,NULL,NULL,NULL
+Southern Red Sea,DK,NULL,NULL,NULL,NULL
+Harju County,37,NULL,NULL,NULL,NULL
+Hiiu County,39,NULL,NULL,NULL,NULL
+Ida-Viru County,44,NULL,NULL,NULL,NULL
+Järva County,51,NULL,NULL,NULL,NULL
+Jõgeva County,49,NULL,NULL,NULL,NULL
+Lääne County,57,NULL,NULL,NULL,NULL
+Lääne-Viru County,59,NULL,NULL,NULL,NULL
+Pärnu County,67,NULL,NULL,NULL,NULL
+Põlva County,65,NULL,NULL,NULL,NULL
+Rapla County,70,NULL,NULL,NULL,NULL
+Saare County,74,NULL,NULL,NULL,NULL
+Tartu County,78,NULL,NULL,NULL,NULL
+Valga County,82,NULL,NULL,NULL,NULL
+Viljandi County,84,NULL,NULL,NULL,NULL
+Võru County,86,NULL,NULL,NULL,NULL
+Hhohho,HH,NULL,NULL,NULL,NULL
+Lubombo,LU,NULL,NULL,NULL,NULL
+Manzini,MA,NULL,NULL,NULL,NULL
+Shiselweni,SH,NULL,NULL,NULL,NULL
+Addis Ababa,AA,NULL,NULL,NULL,NULL
+Afar,AF,NULL,NULL,NULL,NULL
+Amhara,AM,NULL,NULL,NULL,NULL
+Benishangul-Gumuz,BE,NULL,NULL,NULL,NULL
+Dire Dawa,DD,NULL,NULL,NULL,NULL
+Gambella,GA,NULL,NULL,NULL,NULL
+Harari,HA,NULL,NULL,NULL,NULL
+Oromia,OR,NULL,NULL,NULL,NULL
+Somali,SO,NULL,NULL,NULL,NULL
+"Southern Nations\, Nationalities\, and People's Region",SN,NULL,NULL,NULL,NULL
+Tigray,TI,NULL,NULL,NULL,NULL
+Central Division,C,NULL,NULL,NULL,NULL
+Eastern Division,E,NULL,NULL,NULL,NULL
+Northern Division,N,NULL,NULL,NULL,NULL
+Rotuma,R,NULL,NULL,NULL,NULL
+Western Division,W,NULL,NULL,NULL,NULL
+Central Finland,8,NULL,NULL,NULL,NULL
+Central Ostrobothnia,7,NULL,NULL,NULL,NULL
+Kainuu,5,NULL,NULL,NULL,NULL
+Kymenlaakso,9,NULL,NULL,NULL,NULL
+Lapland,10,NULL,NULL,NULL,NULL
+North Karelia,13,NULL,NULL,NULL,NULL
+Northern Ostrobothnia,14,NULL,NULL,NULL,NULL
+Northern Savonia,15,NULL,NULL,NULL,NULL
+Ostrobothnia,12,NULL,NULL,NULL,NULL
+Päijänne Tavastia,16,NULL,NULL,NULL,NULL
+Pirkanmaa,11,NULL,NULL,NULL,NULL
+Satakunta,17,NULL,NULL,NULL,NULL
+South Karelia,2,NULL,NULL,NULL,NULL
+Southern Ostrobothnia,3,NULL,NULL,NULL,NULL
+Southern Savonia,4,NULL,NULL,NULL,NULL
+Southwest Finland,19,NULL,NULL,NULL,NULL
+Tavastia Proper,6,NULL,NULL,NULL,NULL
+Uusimaa,18,NULL,NULL,NULL,NULL
+Alsace,A,NULL,NULL,NULL,NULL
+Aquitaine,B,NULL,NULL,NULL,NULL
+Auvergne,C,NULL,NULL,NULL,NULL
+Brittany,E,NULL,NULL,NULL,NULL
+Burgundy,D,NULL,NULL,NULL,NULL
+Centre-Val de Loire,F,NULL,NULL,NULL,NULL
+Champagne-Ardenne,G,NULL,NULL,NULL,NULL
+Corsica,H,NULL,NULL,NULL,NULL
+Franche-Comté,I,NULL,NULL,NULL,NULL
+Île-de-France,J,NULL,NULL,NULL,NULL
+Languedoc-Roussillon,K,NULL,NULL,NULL,NULL
+Limousin,L,NULL,NULL,NULL,NULL
+Lorraine,M,NULL,NULL,NULL,NULL
+Lower Normandy,P,NULL,NULL,NULL,NULL
+Midi-Pyrénées,N,NULL,NULL,NULL,NULL
+Nord-Pas-de-Calais,O,NULL,NULL,NULL,NULL
+Pays de la Loire,R,NULL,NULL,NULL,NULL
+Picardy,S,NULL,NULL,NULL,NULL
+Poitou-Charentes,T,NULL,NULL,NULL,NULL
+Provence-Alpes-Côte d'Azur,U,NULL,NULL,NULL,NULL
+Rhone-Alpes,V,NULL,NULL,NULL,NULL
+Upper Normandy,Q,NULL,NULL,NULL,NULL
+Estuaire,1,NULL,NULL,NULL,NULL
+Haut-Ogooue,2,NULL,NULL,NULL,NULL
+Moyen-Ogooue,3,NULL,NULL,NULL,NULL
+Ngounie,4,NULL,NULL,NULL,NULL
+Nyanga,5,NULL,NULL,NULL,NULL
+Ogooue-Ivindo,6,NULL,NULL,NULL,NULL
+Ogooue-Lolo,7,NULL,NULL,NULL,NULL
+Ogooue-Maritime,8,NULL,NULL,NULL,NULL
+Woleu-Ntem,9,NULL,NULL,NULL,NULL
+Banjul,B,NULL,NULL,NULL,NULL
+Central River,M,NULL,NULL,NULL,NULL
+Lower River,L,NULL,NULL,NULL,NULL
+North Bank Division,N,NULL,NULL,NULL,NULL
+Upper River,U,NULL,NULL,NULL,NULL
+West Coast Region,W,NULL,NULL,NULL,NULL
+Abkhazia,AB,NULL,NULL,NULL,NULL
+Adjara,AJ,NULL,NULL,NULL,NULL
+Guria,GU,NULL,NULL,NULL,NULL
+Imereti,IM,NULL,NULL,NULL,NULL
+Kakheti,KA,NULL,NULL,NULL,NULL
+Kvemo Kartli,KK,NULL,NULL,NULL,NULL
+Mtskheta-Mtianeti,MM,NULL,NULL,NULL,NULL
+Racha-Lechkhumi and Lower Svaneti,RL,NULL,NULL,NULL,NULL
+Samegrelo-Upper Svaneti,SZ,NULL,NULL,NULL,NULL
+Samtskhe-Javakheti,SJ,NULL,NULL,NULL,NULL
+Shida Kartli,SK,NULL,NULL,NULL,NULL
+Tbilisi,TB,NULL,NULL,NULL,NULL
+Baden-Württemberg,BW,NULL,NULL,NULL,NULL
+Bavaria,BY,NULL,NULL,NULL,NULL
+Berlin,BE,NULL,NULL,NULL,NULL
+Brandenburg,BB,NULL,NULL,NULL,NULL
+Bremen,HB,NULL,NULL,NULL,NULL
+Hamburg,HH,NULL,NULL,NULL,NULL
+Hesse,HE,NULL,NULL,NULL,NULL
+Lower Saxony,NI,NULL,NULL,NULL,NULL
+Mecklenburg-Vorpommern,MV,NULL,NULL,NULL,NULL
+North Rhine-Westphalia,NW,NULL,NULL,NULL,NULL
+Rhineland-Palatinate,RP,NULL,NULL,NULL,NULL
+Saarland,SL,NULL,NULL,NULL,NULL
+Saxony,SN,NULL,NULL,NULL,NULL
+Saxony-Anhalt,ST,NULL,NULL,NULL,NULL
+Schleswig-Holstein,SH,NULL,NULL,NULL,NULL
+Thuringia,TH,NULL,NULL,NULL,NULL
+Ashanti Region,AH,NULL,NULL,NULL,NULL
+Brong-Ahafo Region,BA,NULL,NULL,NULL,NULL
+Central,CP,NULL,NULL,NULL,NULL
+Eastern Region,EP,NULL,NULL,NULL,NULL
+Greater Accra Region,AA,NULL,NULL,NULL,NULL
+Northern Region,NP,NULL,NULL,NULL,NULL
+Upper East Region,UE,NULL,NULL,NULL,NULL
+Upper West Region,UW,NULL,NULL,NULL,NULL
+Volta Region,TV,NULL,NULL,NULL,NULL
+Western Region,WP,NULL,NULL,NULL,NULL
+Kujalleq,KU,NULL,NULL,NULL,NULL
+Qaasuitsup,QA,NULL,NULL,NULL,NULL
+Qeqqata,QE,NULL,NULL,NULL,NULL
+Sermersooq,SM,NULL,NULL,NULL,NULL
+Carriacou and Petite Martinique,10,NULL,NULL,NULL,NULL
+Saint Andrew,1,NULL,NULL,NULL,NULL
+Saint David,2,NULL,NULL,NULL,NULL
+Saint George,3,NULL,NULL,NULL,NULL
+Saint John,4,NULL,NULL,NULL,NULL
+Saint Mark,5,NULL,NULL,NULL,NULL
+Saint Patrick,6,NULL,NULL,NULL,NULL
+Alta Verapaz,AV,NULL,NULL,NULL,NULL
+Baja Verapaz Department,BV,NULL,NULL,NULL,NULL
+Chimaltenango Department,CM,NULL,NULL,NULL,NULL
+Chiquimula Department,CQ,NULL,NULL,NULL,NULL
+El Progreso Department,PR,NULL,NULL,NULL,NULL
+Escuintla,ES,NULL,NULL,NULL,NULL
+Guatemala Department,GU,NULL,NULL,NULL,NULL
+Huehuetenango Department,HU,NULL,NULL,NULL,NULL
+Izabal Department,IZ,NULL,NULL,NULL,NULL
+Jalapa Department,JA,NULL,NULL,NULL,NULL
+Jutiapa Department,JU,NULL,NULL,NULL,NULL
+Petén Department,PE,NULL,NULL,NULL,NULL
+Quetzaltenango Department,QZ,NULL,NULL,NULL,NULL
+Quiché Department,QC,NULL,NULL,NULL,NULL
+Retalhuleu Department,RE,NULL,NULL,NULL,NULL
+Sacatepequez,SA,NULL,NULL,NULL,NULL
+San Marcos Department,SM,NULL,NULL,NULL,NULL
+Santa Rosa Department,SR,NULL,NULL,NULL,NULL
+Sololá Department,SO,NULL,NULL,NULL,NULL
+Suchitepequez,SU,NULL,NULL,NULL,NULL
+Totonicapán Department,TO,NULL,NULL,NULL,NULL
+Zacapa Department,ZA,NULL,NULL,NULL,NULL
+Boké,B,NULL,NULL,NULL,NULL
+Conakry,C,NULL,NULL,NULL,NULL
+Faranah,F,NULL,NULL,NULL,NULL
+Kankan,K,NULL,NULL,NULL,NULL
+Kindia,D,NULL,NULL,NULL,NULL
+Labé,L,NULL,NULL,NULL,NULL
+Mamou,M,NULL,NULL,NULL,NULL
+Nzérékoré,N,NULL,NULL,NULL,NULL
+Bafata,BA,NULL,NULL,NULL,NULL
+Biombo,BM,NULL,NULL,NULL,NULL
+Bissau,BS,NULL,NULL,NULL,NULL
+Bolama,BL,NULL,NULL,NULL,NULL
+Cacheu,CA,NULL,NULL,NULL,NULL
+Gabu,GA,NULL,NULL,NULL,NULL
+Oio,OI,NULL,NULL,NULL,NULL
+Quinara,QU,NULL,NULL,NULL,NULL
+Tombali Region,TO,NULL,NULL,NULL,NULL
+Barima-Waini,BA,NULL,NULL,NULL,NULL
+Cuyuni-Mazaruni,CU,NULL,NULL,NULL,NULL
+Demerara-Mahaica,DE,NULL,NULL,NULL,NULL
+East Berbice-Corentyne,EB,NULL,NULL,NULL,NULL
+Essequibo Islands-West Demerara,ES,NULL,NULL,NULL,NULL
+Mahaica-Berbice,MA,NULL,NULL,NULL,NULL
+Pomeroon-Supenaam,PM,NULL,NULL,NULL,NULL
+Potaro-Siparuni,PT,NULL,NULL,NULL,NULL
+Upper Demerara-Berbice,UD,NULL,NULL,NULL,NULL
+Upper Takutu-Upper Essequibo,UT,NULL,NULL,NULL,NULL
+Artibonite,AR,NULL,NULL,NULL,NULL
+Centre,CE,NULL,NULL,NULL,NULL
+Grand'Anse,GA,NULL,NULL,NULL,NULL
+Nippes,NI,NULL,NULL,NULL,NULL
+Nord,ND,NULL,NULL,NULL,NULL
+Nord-Est,NE,NULL,NULL,NULL,NULL
+Nord-Ouest,NO,NULL,NULL,NULL,NULL
+Ouest,OU,NULL,NULL,NULL,NULL
+Sud,SD,NULL,NULL,NULL,NULL
+Sud-Est,SE,NULL,NULL,NULL,NULL
+Atlantida,AT,NULL,NULL,NULL,NULL
+Bay Islands,IB,NULL,NULL,NULL,NULL
+Choluteca,CH,NULL,NULL,NULL,NULL
+Colon,CL,NULL,NULL,NULL,NULL
+Comayagua,CM,NULL,NULL,NULL,NULL
+Copan,CP,NULL,NULL,NULL,NULL
+Cortés,CR,NULL,NULL,NULL,NULL
+El Paraiso,EP,NULL,NULL,NULL,NULL
+Francisco Morazan,FM,NULL,NULL,NULL,NULL
+Gracias a Dios,GD,NULL,NULL,NULL,NULL
+Intibuca,IN,NULL,NULL,NULL,NULL
+La Paz,LP,NULL,NULL,NULL,NULL
+Lempira,LE,NULL,NULL,NULL,NULL
+Ocotepeque,OC,NULL,NULL,NULL,NULL
+Olancho,OL,NULL,NULL,NULL,NULL
+Santa Barbara,SB,NULL,NULL,NULL,NULL
+Valle,VA,NULL,NULL,NULL,NULL
+Yoro,YO,NULL,NULL,NULL,NULL
+Bács-Kiskun,BK,NULL,NULL,NULL,NULL
+Baranya,BA,NULL,NULL,NULL,NULL
+Békés County,BE,NULL,NULL,NULL,NULL
+Borsod-Abaúj-Zemplén,BZ,NULL,NULL,NULL,NULL
+Budapest,BU,NULL,NULL,NULL,NULL
+Csongrád,CS,NULL,NULL,NULL,NULL
+Fejér,FE,NULL,NULL,NULL,NULL
+Gyor-Moson-Sopron,GS,NULL,NULL,NULL,NULL
+Hajdú-Bihar,HB,NULL,NULL,NULL,NULL
+Heves County,HE,NULL,NULL,NULL,NULL
+Jász-Nagykun-Szolnok,JN,NULL,NULL,NULL,NULL
+Komárom-Esztergom,KE,NULL,NULL,NULL,NULL
+Nógrád County,NO,NULL,NULL,NULL,NULL
+Pest County,PE,NULL,NULL,NULL,NULL
+Somogy County,SO,NULL,NULL,NULL,NULL
+Szabolcs-Szatmár-Bereg,SZ,NULL,NULL,NULL,NULL
+Tolna County,TO,NULL,NULL,NULL,NULL
+Vas County,VA,NULL,NULL,NULL,NULL
+Veszprém,VE,NULL,NULL,NULL,NULL
+Zala County,ZA,NULL,NULL,NULL,NULL
+Capital Region,1,NULL,NULL,NULL,NULL
+Eastern Region,7,NULL,NULL,NULL,NULL
+Northeast,6,NULL,NULL,NULL,NULL
+Northwestern Region,5,NULL,NULL,NULL,NULL
+South,8,NULL,NULL,NULL,NULL
+Southern Peninsula Region,2,NULL,NULL,NULL,NULL
+Western Region,3,NULL,NULL,NULL,NULL
+Westfjords Region,4,NULL,NULL,NULL,NULL
+Andaman and Nicobar Islands,AN,NULL,NULL,NULL,NULL
+Andhra Pradesh,AP,NULL,NULL,NULL,NULL
+Arunachal Pradesh,AR,NULL,NULL,NULL,NULL
+Assam,AS,NULL,NULL,NULL,NULL
+Bihar,BR,NULL,NULL,NULL,NULL
+Chandigarh,CH,NULL,NULL,NULL,NULL
+Chhattisgarh,CT,NULL,NULL,NULL,NULL
+Dadra and Nagar Haveli,DN,NULL,NULL,NULL,NULL
+Daman and Diu,DD,NULL,NULL,NULL,NULL
+Delhi,DL,NULL,NULL,NULL,NULL
+Goa,GA,NULL,NULL,NULL,NULL
+Gujarat,GJ,NULL,NULL,NULL,NULL
+Haryana,HR,NULL,NULL,NULL,NULL
+Himachal Pradesh,HP,NULL,NULL,NULL,NULL
+Jammu and Kashmir,JK,NULL,NULL,NULL,NULL
+Jharkhand,JH,NULL,NULL,NULL,NULL
+Karnataka,KA,NULL,NULL,NULL,NULL
+Kerala,KL,NULL,NULL,NULL,NULL
+Lakshadweep,LD,NULL,NULL,NULL,NULL
+Madhya Pradesh,MP,NULL,NULL,NULL,NULL
+Maharashtra,MH,NULL,NULL,NULL,NULL
+Manipur,MN,NULL,NULL,NULL,NULL
+Meghalaya,ML,NULL,NULL,NULL,NULL
+Mizoram,MZ,NULL,NULL,NULL,NULL
+Nagaland,NL,NULL,NULL,NULL,NULL
+Odisha,OR,NULL,NULL,NULL,NULL
+Puducherry,PY,NULL,NULL,NULL,NULL
+Punjab,PB,NULL,NULL,NULL,NULL
+Rajasthan,RJ,NULL,NULL,NULL,NULL
+Sikkim,SK,NULL,NULL,NULL,NULL
+Tamil Nadu,TN,NULL,NULL,NULL,NULL
+Telangana,TG,NULL,NULL,NULL,NULL
+Tripura,TR,NULL,NULL,NULL,NULL
+Uttar Pradesh,UP,NULL,NULL,NULL,NULL
+Uttarakhand,UT,NULL,NULL,NULL,NULL
+West Bengal,WB,NULL,NULL,NULL,NULL
+Aceh,AC,NULL,NULL,NULL,NULL
+Bali,BA,NULL,NULL,NULL,NULL
+Bangka Belitung Islands,BB,NULL,NULL,NULL,NULL
+Banten,BT,NULL,NULL,NULL,NULL
+Bengkulu,BE,NULL,NULL,NULL,NULL
+Central Java,JT,NULL,NULL,NULL,NULL
+Central Kalimantan,KT,NULL,NULL,NULL,NULL
+Central Sulawesi,ST,NULL,NULL,NULL,NULL
+East Java,JI,NULL,NULL,NULL,NULL
+East Kalimantan,KI,NULL,NULL,NULL,NULL
+East Nusa Tenggara,NT,NULL,NULL,NULL,NULL
+Gorontalo,GO,NULL,NULL,NULL,NULL
+Jambi,JA,NULL,NULL,NULL,NULL
+Lampung,LA,NULL,NULL,NULL,NULL
+Maluku,MA,NULL,NULL,NULL,NULL
+North Kalimantan,KU,NULL,NULL,NULL,NULL
+North Maluku,MU,NULL,NULL,NULL,NULL
+North Sulawesi,SA,NULL,NULL,NULL,NULL
+North Sumatra,SU,NULL,NULL,NULL,NULL
+Papua,PA,NULL,NULL,NULL,NULL
+Riau,RI,NULL,NULL,NULL,NULL
+Riau Islands,KR,NULL,NULL,NULL,NULL
+South East Sulawesi,SG,NULL,NULL,NULL,NULL
+South Kalimantan,KS,NULL,NULL,NULL,NULL
+South Sulawesi,SN,NULL,NULL,NULL,NULL
+South Sumatra,SS,NULL,NULL,NULL,NULL
+Special Capital Region of Jakarta,JK,NULL,NULL,NULL,NULL
+Special Region of Yogyakarta,YO,NULL,NULL,NULL,NULL
+West Java,JB,NULL,NULL,NULL,NULL
+West Kalimantan,KB,NULL,NULL,NULL,NULL
+West Nusa Tenggara,NB,NULL,NULL,NULL,NULL
+West Papua,PB,NULL,NULL,NULL,NULL
+West Sulawesi,SR,NULL,NULL,NULL,NULL
+West Sumatra,SB,NULL,NULL,NULL,NULL
+Alborz,32,NULL,NULL,NULL,NULL
+Ardabil,3,NULL,NULL,NULL,NULL
+Bushehr,6,NULL,NULL,NULL,NULL
+Chaharmahal and Bakhtiari,8,NULL,NULL,NULL,NULL
+East Azerbaijan,1,NULL,NULL,NULL,NULL
+Fars,14,NULL,NULL,NULL,NULL
+Gilan,19,NULL,NULL,NULL,NULL
+Golestan,27,NULL,NULL,NULL,NULL
+Hamadan,24,NULL,NULL,NULL,NULL
+Hormozgan,23,NULL,NULL,NULL,NULL
+Ilam,5,NULL,NULL,NULL,NULL
+Isfahan,4,NULL,NULL,NULL,NULL
+Kerman,15,NULL,NULL,NULL,NULL
+Kermanshah,17,NULL,NULL,NULL,NULL
+Khorasan Razavi,30,NULL,NULL,NULL,NULL
+Khuzestan,10,NULL,NULL,NULL,NULL
+Kohgiluyeh Va Boyer Ahmad,18,NULL,NULL,NULL,NULL
+Kurdistan,16,NULL,NULL,NULL,NULL
+Lorestan,20,NULL,NULL,NULL,NULL
+Markazi,22,NULL,NULL,NULL,NULL
+Mazandaran,21,NULL,NULL,NULL,NULL
+North Khorasan,31,NULL,NULL,NULL,NULL
+Qazvin,28,NULL,NULL,NULL,NULL
+Qom,26,NULL,NULL,NULL,NULL
+Semnan,12,NULL,NULL,NULL,NULL
+Sistan and Baluchestan,13,NULL,NULL,NULL,NULL
+South Khorasan,29,NULL,NULL,NULL,NULL
+Tehran,7,NULL,NULL,NULL,NULL
+West Azerbaijan,2,NULL,NULL,NULL,NULL
+Yazd,25,NULL,NULL,NULL,NULL
+Zanjan,11,NULL,NULL,NULL,NULL
+Al Anbar,AN,NULL,NULL,NULL,NULL
+Al Muthanna,MU,NULL,NULL,NULL,NULL
+Al-Qadisiyyah,QA,NULL,NULL,NULL,NULL
+An-Najaf,NA,NULL,NULL,NULL,NULL
+Babil,BB,NULL,NULL,NULL,NULL
+Baghdad,BG,NULL,NULL,NULL,NULL
+Basrah,BA,NULL,NULL,NULL,NULL
+Dhi Qar,DQ,NULL,NULL,NULL,NULL
+Diyala,DI,NULL,NULL,NULL,NULL
+Duhok,DA,NULL,NULL,NULL,NULL
+Erbil,AR,NULL,NULL,NULL,NULL
+Karbala,KA,NULL,NULL,NULL,NULL
+Kirkuk,TS,NULL,NULL,NULL,NULL
+Maysan,MA,NULL,NULL,NULL,NULL
+Ninawa,NI,NULL,NULL,NULL,NULL
+Salah Al-Din,SD,NULL,NULL,NULL,NULL
+Sulaymaniyah,SU,NULL,NULL,NULL,NULL
+Wasit,WA,NULL,NULL,NULL,NULL
+Center District,M,NULL,NULL,NULL,NULL
+Haifa District,HA,NULL,NULL,NULL,NULL
+Jerusalem District,JM,NULL,NULL,NULL,NULL
+North District,Z,NULL,NULL,NULL,NULL
+South District,D,NULL,NULL,NULL,NULL
+Tel Aviv District,TA,NULL,NULL,NULL,NULL
+Abruzzo,65,NULL,NULL,NULL,NULL
+Aosta,23,NULL,NULL,NULL,NULL
+Apulia,75,NULL,NULL,NULL,NULL
+Basilicata,77,NULL,NULL,NULL,NULL
+Calabria,78,NULL,NULL,NULL,NULL
+Campania,72,NULL,NULL,NULL,NULL
+Emilia-Romagna,45,NULL,NULL,NULL,NULL
+Friuli-Venezia Giulia,36,NULL,NULL,NULL,NULL
+Lazio,62,NULL,NULL,NULL,NULL
+Liguria,42,NULL,NULL,NULL,NULL
+Lombardy,25,NULL,NULL,NULL,NULL
+Marche,57,NULL,NULL,NULL,NULL
+Molise,67,NULL,NULL,NULL,NULL
+Piedmont,21,NULL,NULL,NULL,NULL
+Sardinia,88,NULL,NULL,NULL,NULL
+Sicily,82,NULL,NULL,NULL,NULL
+Trentino-Alto Adige/South Tyrol,32,NULL,NULL,NULL,NULL
+Tuscany,52,NULL,NULL,NULL,NULL
+Umbria,55,NULL,NULL,NULL,NULL
+Veneto,34,NULL,NULL,NULL,NULL
+Clarendon Parish,13,NULL,NULL,NULL,NULL
+Hanover Parish,9,NULL,NULL,NULL,NULL
+Kingston Parish,1,NULL,NULL,NULL,NULL
+Manchester Parish,12,NULL,NULL,NULL,NULL
+Portland Parish,4,NULL,NULL,NULL,NULL
+Saint Andrew Parish,2,NULL,NULL,NULL,NULL
+Saint Ann Parish,6,NULL,NULL,NULL,NULL
+Saint Catherine Parish,14,NULL,NULL,NULL,NULL
+Saint Elizabeth Parish,11,NULL,NULL,NULL,NULL
+Saint James Parish,8,NULL,NULL,NULL,NULL
+Saint Mary Parish,5,NULL,NULL,NULL,NULL
+Saint Thomas Parish,3,NULL,NULL,NULL,NULL
+Trelawny Parish,7,NULL,NULL,NULL,NULL
+Westmoreland Parish,10,NULL,NULL,NULL,NULL
+Aichi Prefecture,23,NULL,NULL,NULL,NULL
+Akita Prefecture,5,NULL,NULL,NULL,NULL
+Aomori Prefecture,2,NULL,NULL,NULL,NULL
+Chiba Prefecture,12,NULL,NULL,NULL,NULL
+Ehime Prefecture,38,NULL,NULL,NULL,NULL
+Fukui Prefecture,18,NULL,NULL,NULL,NULL
+Fukuoka Prefecture,40,NULL,NULL,NULL,NULL
+Fukushima Prefecture,7,NULL,NULL,NULL,NULL
+Gifu Prefecture,21,NULL,NULL,NULL,NULL
+Gunma Prefecture,10,NULL,NULL,NULL,NULL
+Hiroshima Prefecture,34,NULL,NULL,NULL,NULL
+Hokkaido Prefecture,1,NULL,NULL,NULL,NULL
+Hyogo Prefecture,28,NULL,NULL,NULL,NULL
+Ibaraki Prefecture,8,NULL,NULL,NULL,NULL
+Ishikawa Prefecture,17,NULL,NULL,NULL,NULL
+Iwate Prefecture,3,NULL,NULL,NULL,NULL
+Kagawa Prefecture,37,NULL,NULL,NULL,NULL
+Kagoshima Prefecture,46,NULL,NULL,NULL,NULL
+Kanagawa Prefecture,14,NULL,NULL,NULL,NULL
+Kochi Prefecture,39,NULL,NULL,NULL,NULL
+Kumamoto Prefecture,43,NULL,NULL,NULL,NULL
+Kyoto Prefecture,26,NULL,NULL,NULL,NULL
+Mie Prefecture,24,NULL,NULL,NULL,NULL
+Miyagi Prefecture,4,NULL,NULL,NULL,NULL
+Miyazaki Prefecture,45,NULL,NULL,NULL,NULL
+Nagano Prefecture,20,NULL,NULL,NULL,NULL
+Nagasaki Prefecture,42,NULL,NULL,NULL,NULL
+Nara Prefecture,29,NULL,NULL,NULL,NULL
+Niigata Prefecture,15,NULL,NULL,NULL,NULL
+Oita Prefecture,44,NULL,NULL,NULL,NULL
+Okayama Prefecture,33,NULL,NULL,NULL,NULL
+Okinawa Prefecture,47,NULL,NULL,NULL,NULL
+Osaka Prefecture,27,NULL,NULL,NULL,NULL
+Saga Prefecture,41,NULL,NULL,NULL,NULL
+Saitama Prefecture,11,NULL,NULL,NULL,NULL
+Shiga Prefecture,25,NULL,NULL,NULL,NULL
+Shimane Prefecture,32,NULL,NULL,NULL,NULL
+Shizuoka Prefecture,22,NULL,NULL,NULL,NULL
+Tochigi Prefecture,9,NULL,NULL,NULL,NULL
+Tokushima Prefecture,36,NULL,NULL,NULL,NULL
+Tokyo,13,NULL,NULL,NULL,NULL
+Tottori Prefecture,31,NULL,NULL,NULL,NULL
+Toyama Prefecture,16,NULL,NULL,NULL,NULL
+Wakayama Prefecture,30,NULL,NULL,NULL,NULL
+Yamagata Prefecture,6,NULL,NULL,NULL,NULL
+Yamaguchi Prefecture,35,NULL,NULL,NULL,NULL
+Yamanashi Prefecture,19,NULL,NULL,NULL,NULL
+Ajloun Governorate,AJ,NULL,NULL,NULL,NULL
+Amman Governorate,AM,NULL,NULL,NULL,NULL
+Aqaba Governorate,AQ,NULL,NULL,NULL,NULL
+Balqa Governorate,BA,NULL,NULL,NULL,NULL
+Irbid Governorate,IR,NULL,NULL,NULL,NULL
+Jerash Governorate,JA,NULL,NULL,NULL,NULL
+Karak Governorate,KA,NULL,NULL,NULL,NULL
+Ma'an Governorate,MN,NULL,NULL,NULL,NULL
+Madaba Governorate,MD,NULL,NULL,NULL,NULL
+Mafraq Governorate,MA,NULL,NULL,NULL,NULL
+Tafilah Governorate,AT,NULL,NULL,NULL,NULL
+Zarqa Governorate,AZ,NULL,NULL,NULL,NULL
+Akmola Region,AKM,NULL,NULL,NULL,NULL
+Aktobe Region,AKT,NULL,NULL,NULL,NULL
+Almaty Region,ALM,NULL,NULL,NULL,NULL
+Atyrau Province,ATY,NULL,NULL,NULL,NULL
+East Kazakhstan Region,VOS,NULL,NULL,NULL,NULL
+Jambyl Province,ZHA,NULL,NULL,NULL,NULL
+Karagandy Region,KAR,NULL,NULL,NULL,NULL
+Kostanay Region,KUS,NULL,NULL,NULL,NULL
+Kyzylorda Province,KZY,NULL,NULL,NULL,NULL
+Mangystau Region,MAN,NULL,NULL,NULL,NULL
+North Kazakhstan Province,SEV,NULL,NULL,NULL,NULL
+Pavlodar Province,PAV,NULL,NULL,NULL,NULL
+South Kazakhstan Region,YUZ,NULL,NULL,NULL,NULL
+West Kazakhstan Province,ZAP,NULL,NULL,NULL,NULL
+Gilbert Islands,G,NULL,NULL,NULL,NULL
+Line Islands,L,NULL,NULL,NULL,NULL
+Phoenix Islands,P,NULL,NULL,NULL,NULL
+Al Ahmadi Governorate,AH,NULL,NULL,NULL,NULL
+Al Asimah Governate,KU,NULL,NULL,NULL,NULL
+Al Farwaniyah Governorate,FA,NULL,NULL,NULL,NULL
+Al Jahra Governorate,JA,NULL,NULL,NULL,NULL
+Hawalli Governorate,HA,NULL,NULL,NULL,NULL
+Mubarak Al-Kabeer Governorate,MU,NULL,NULL,NULL,NULL
+Batken Province,B,NULL,NULL,NULL,NULL
+Chuy Province,C,NULL,NULL,NULL,NULL
+Dzhalal-Abadskaya,J,NULL,NULL,NULL,NULL
+Naryn Province,N,NULL,NULL,NULL,NULL
+Osh Province,O,NULL,NULL,NULL,NULL
+Talas,T,NULL,NULL,NULL,NULL
+Ysyk Kol Province,Y,NULL,NULL,NULL,NULL
+Attapeu,AT,NULL,NULL,NULL,NULL
+Bokeo,BK,NULL,NULL,NULL,NULL
+Bolikhamsai,BL,NULL,NULL,NULL,NULL
+Champasak,CH,NULL,NULL,NULL,NULL
+Houaphan,HO,NULL,NULL,NULL,NULL
+Khammouane,KH,NULL,NULL,NULL,NULL
+Louangphabang,LP,NULL,NULL,NULL,NULL
+Luang Namtha,LM,NULL,NULL,NULL,NULL
+Oudomxay,OU,NULL,NULL,NULL,NULL
+Phongsaly,PH,NULL,NULL,NULL,NULL
+Salavan,SL,NULL,NULL,NULL,NULL
+Savannakhet,SV,NULL,NULL,NULL,NULL
+Sayabouly,XA,NULL,NULL,NULL,NULL
+Vientiane,VI,NULL,NULL,NULL,NULL
+Vientiane Prefecture,VT,NULL,NULL,NULL,NULL
+Xekong,XE,NULL,NULL,NULL,NULL
+Xiangkhouang,XI,NULL,NULL,NULL,NULL
+Ādaži Municipality,11,NULL,NULL,NULL,NULL
+Aglona Municipality,1,NULL,NULL,NULL,NULL
+Aizkraukle Municipality,2,NULL,NULL,NULL,NULL
+Aizpute Municipality,3,NULL,NULL,NULL,NULL
+Aknīste Municipality,4,NULL,NULL,NULL,NULL
+Aloja Municipality,5,NULL,NULL,NULL,NULL
+Alsunga Municipality,6,NULL,NULL,NULL,NULL
+Alūksne Municipality,7,NULL,NULL,NULL,NULL
+Amata Municipality,8,NULL,NULL,NULL,NULL
+Ape Municipality,9,NULL,NULL,NULL,NULL
+Auce Municipality,10,NULL,NULL,NULL,NULL
+Babīte Municipality,12,NULL,NULL,NULL,NULL
+Baldone Municipality,13,NULL,NULL,NULL,NULL
+Baltinava Municipality,14,NULL,NULL,NULL,NULL
+Balvi Municipality,15,NULL,NULL,NULL,NULL
+Bauska Municipality,16,NULL,NULL,NULL,NULL
+Beverīna Municipality,17,NULL,NULL,NULL,NULL
+Brocēni Municipality,18,NULL,NULL,NULL,NULL
+Burtnieki Municipality,19,NULL,NULL,NULL,NULL
+Carnikava Municipality,20,NULL,NULL,NULL,NULL
+Cēsis Municipality,22,NULL,NULL,NULL,NULL
+Cesvaine Municipality,21,NULL,NULL,NULL,NULL
+Cibla Municipality,23,NULL,NULL,NULL,NULL
+Dagdas novads,24,NULL,NULL,NULL,NULL
+Daugavpils,DGV,NULL,NULL,NULL,NULL
+Daugavpils Municipality,25,NULL,NULL,NULL,NULL
+Dobele Municipality,26,NULL,NULL,NULL,NULL
+Dundaga Municipality,27,NULL,NULL,NULL,NULL
+Durbe Municipality,28,NULL,NULL,NULL,NULL
+Engure Municipality,29,NULL,NULL,NULL,NULL
+Ērgļi Municipality,30,NULL,NULL,NULL,NULL
+Garkalne Municipality,31,NULL,NULL,NULL,NULL
+Grobiņa Municipality,32,NULL,NULL,NULL,NULL
+Gulbene Municipality,33,NULL,NULL,NULL,NULL
+Iecava Municipality,34,NULL,NULL,NULL,NULL
+Ikšķile Municipality,35,NULL,NULL,NULL,NULL
+Ilūkste Municipality,36,NULL,NULL,NULL,NULL
+Inčukalna novads,37,NULL,NULL,NULL,NULL
+Jaunjelgava Municipality,38,NULL,NULL,NULL,NULL
+Jaunpiebalga Municipality,39,NULL,NULL,NULL,NULL
+Jaunpils Municipality,40,NULL,NULL,NULL,NULL
+Jēkabpils,JKB,NULL,NULL,NULL,NULL
+Jēkabpils Municipality,42,NULL,NULL,NULL,NULL
+Jelgava,JEL,NULL,NULL,NULL,NULL
+Jelgava Municipality,41,NULL,NULL,NULL,NULL
+Jūrmala,JUR,NULL,NULL,NULL,NULL
+Kandava Municipality,43,NULL,NULL,NULL,NULL
+Kārsava Municipality,44,NULL,NULL,NULL,NULL
+Ķegums Municipality,51,NULL,NULL,NULL,NULL
+Ķekava Municipality,52,NULL,NULL,NULL,NULL
+Kocēni Municipality,45,NULL,NULL,NULL,NULL
+Koknese Municipality,46,NULL,NULL,NULL,NULL
+Krāslava Municipality,47,NULL,NULL,NULL,NULL
+Krimulda Municipality,48,NULL,NULL,NULL,NULL
+Krustpils Municipality,49,NULL,NULL,NULL,NULL
+Kuldīga Municipality,50,NULL,NULL,NULL,NULL
+Lielvārde Municipality,53,NULL,NULL,NULL,NULL
+Liepājas pilsēta,LPX,NULL,NULL,NULL,NULL
+Līgatne Municipality,55,NULL,NULL,NULL,NULL
+Limbaži Municipality,54,NULL,NULL,NULL,NULL
+Līvāni Municipality,56,NULL,NULL,NULL,NULL
+Lubāna Municipality,57,NULL,NULL,NULL,NULL
+Ludza Municipality,58,NULL,NULL,NULL,NULL
+Madona Municipality,59,NULL,NULL,NULL,NULL
+Mālpils Municipality,61,NULL,NULL,NULL,NULL
+Mārupe Municipality,62,NULL,NULL,NULL,NULL
+Mazsalaca Municipality,60,NULL,NULL,NULL,NULL
+Mērsrags Municipality,63,NULL,NULL,NULL,NULL
+Naukšēni Municipality,64,NULL,NULL,NULL,NULL
+Nereta Municipality,65,NULL,NULL,NULL,NULL
+Nīca Municipality,66,NULL,NULL,NULL,NULL
+Ogre Municipality,67,NULL,NULL,NULL,NULL
+Olaines novads,68,NULL,NULL,NULL,NULL
+Ozolnieki Municipality,69,NULL,NULL,NULL,NULL
+Pārgauja Municipality,70,NULL,NULL,NULL,NULL
+Pāvilosta Municipality,71,NULL,NULL,NULL,NULL
+Pļaviņas Municipality,72,NULL,NULL,NULL,NULL
+Preiļi Municipality,73,NULL,NULL,NULL,NULL
+Priekule Municipality,74,NULL,NULL,NULL,NULL
+Priekuļi Municipality,75,NULL,NULL,NULL,NULL
+Rauna Municipality,76,NULL,NULL,NULL,NULL
+Rēzekne Municipality,REZ,NULL,NULL,NULL,NULL
+Rēzekne Municipality,77,NULL,NULL,NULL,NULL
+Riebiņi Municipality,78,NULL,NULL,NULL,NULL
+Riga,RIX,NULL,NULL,NULL,NULL
+Roja Municipality,79,NULL,NULL,NULL,NULL
+Ropaži Municipality,80,NULL,NULL,NULL,NULL
+Rucava Municipality,81,NULL,NULL,NULL,NULL
+Rugāji Municipality,82,NULL,NULL,NULL,NULL
+Rūjiena Municipality,84,NULL,NULL,NULL,NULL
+Rundāle Municipality,83,NULL,NULL,NULL,NULL
+Sala Municipality,85,NULL,NULL,NULL,NULL
+Salacgrīva Municipality,86,NULL,NULL,NULL,NULL
+Salaspils Municipality,87,NULL,NULL,NULL,NULL
+Saldus Municipality,88,NULL,NULL,NULL,NULL
+Saulkrasti Municipality,89,NULL,NULL,NULL,NULL
+Sēja Municipality,90,NULL,NULL,NULL,NULL
+Sigulda Municipality,91,NULL,NULL,NULL,NULL
+Skrīveri Municipality,92,NULL,NULL,NULL,NULL
+Skrunda Municipality,93,NULL,NULL,NULL,NULL
+Smiltene Municipality,94,NULL,NULL,NULL,NULL
+Stopiņi Municipality,95,NULL,NULL,NULL,NULL
+Strenči Municipality,96,NULL,NULL,NULL,NULL
+Talsi Municipality,97,NULL,NULL,NULL,NULL
+Tērvete Municipality,98,NULL,NULL,NULL,NULL
+Tukums Municipality,99,NULL,NULL,NULL,NULL
+Vaiņode Municipality,100,NULL,NULL,NULL,NULL
+Valka Municipality,101,NULL,NULL,NULL,NULL
+Valmiera,VMR,NULL,NULL,NULL,NULL
+Varakļāni Municipality,102,NULL,NULL,NULL,NULL
+Vārkava Municipality,103,NULL,NULL,NULL,NULL
+Vecpiebalga Municipality,104,NULL,NULL,NULL,NULL
+Vecumnieki Municipality,105,NULL,NULL,NULL,NULL
+Ventspils,VEN,NULL,NULL,NULL,NULL
+Ventspils Municipality,106,NULL,NULL,NULL,NULL
+Viesīte Municipality,107,NULL,NULL,NULL,NULL
+Viļaka Municipality,108,NULL,NULL,NULL,NULL
+Viļāni Municipality,109,NULL,NULL,NULL,NULL
+Zilupe Municipality,110,NULL,NULL,NULL,NULL
+Beirut,BA,NULL,NULL,NULL,NULL
+Beqaa,BI,NULL,NULL,NULL,NULL
+Mount Lebanon,JL,NULL,NULL,NULL,NULL
+Nabatiyeh,NA,NULL,NULL,NULL,NULL
+North,AS,NULL,NULL,NULL,NULL
+South,JA,NULL,NULL,NULL,NULL
+Berea,D,NULL,NULL,NULL,NULL
+Butha-Buthe,B,NULL,NULL,NULL,NULL
+Leribe,C,NULL,NULL,NULL,NULL
+Mafeteng,E,NULL,NULL,NULL,NULL
+Maseru,A,NULL,NULL,NULL,NULL
+Mohale's Hoek,F,NULL,NULL,NULL,NULL
+Mokhotlong,J,NULL,NULL,NULL,NULL
+Qacha's Nek,H,NULL,NULL,NULL,NULL
+Quthing,G,NULL,NULL,NULL,NULL
+Thaba-Tseka,K,NULL,NULL,NULL,NULL
+Bomi,BM,NULL,NULL,NULL,NULL
+Bong,BG,NULL,NULL,NULL,NULL
+Gbarpolu,GP,NULL,NULL,NULL,NULL
+Grand Bassa,GB,NULL,NULL,NULL,NULL
+Grand Cape Mount,CM,NULL,NULL,NULL,NULL
+Grand Gedeh,GG,NULL,NULL,NULL,NULL
+Grand Kru,GK,NULL,NULL,NULL,NULL
+Lofa,LO,NULL,NULL,NULL,NULL
+Margibi,MG,NULL,NULL,NULL,NULL
+Maryland,MY,NULL,NULL,NULL,NULL
+Montserrado,MO,NULL,NULL,NULL,NULL
+Nimba,NI,NULL,NULL,NULL,NULL
+River Cess,RI,NULL,NULL,NULL,NULL
+River Gee,RG,NULL,NULL,NULL,NULL
+Sinoe,SI,NULL,NULL,NULL,NULL
+Al Butnan,BU,NULL,NULL,NULL,NULL
+Al Jabal al Akhdar,JA,NULL,NULL,NULL,NULL
+Al Jabal al Gharbi,JG,NULL,NULL,NULL,NULL
+Al Jafara,JI,NULL,NULL,NULL,NULL
+Al Jufrah,JU,NULL,NULL,NULL,NULL
+Al Kufrah,KF,NULL,NULL,NULL,NULL
+Al Marj,MJ,NULL,NULL,NULL,NULL
+Al Murqub,MB,NULL,NULL,NULL,NULL
+Al Wahat,WA,NULL,NULL,NULL,NULL
+An Nuqat al Khams,NQ,NULL,NULL,NULL,NULL
+Az Zawiyah,ZA,NULL,NULL,NULL,NULL
+Banghazi,BA,NULL,NULL,NULL,NULL
+Darnah,DR,NULL,NULL,NULL,NULL
+Ghat,GT,NULL,NULL,NULL,NULL
+Misratah,MI,NULL,NULL,NULL,NULL
+Murzuq,MQ,NULL,NULL,NULL,NULL
+Nalut,NL,NULL,NULL,NULL,NULL
+Sabha,SB,NULL,NULL,NULL,NULL
+Surt,SR,NULL,NULL,NULL,NULL
+Tripoli,TB,NULL,NULL,NULL,NULL
+Wadi Al Hayaa,WD,NULL,NULL,NULL,NULL
+Wadi Ash-Shati,WS,NULL,NULL,NULL,NULL
+Balzers,1,NULL,NULL,NULL,NULL
+Eschen,2,NULL,NULL,NULL,NULL
+Gamprin,3,NULL,NULL,NULL,NULL
+Mauren,4,NULL,NULL,NULL,NULL
+Planken,5,NULL,NULL,NULL,NULL
+Ruggell,6,NULL,NULL,NULL,NULL
+Schaan,7,NULL,NULL,NULL,NULL
+Schellenberg,8,NULL,NULL,NULL,NULL
+Triesen,9,NULL,NULL,NULL,NULL
+Triesenberg,10,NULL,NULL,NULL,NULL
+Vaduz,11,NULL,NULL,NULL,NULL
+Alytus County,AL,NULL,NULL,NULL,NULL
+Kaunas County,KU,NULL,NULL,NULL,NULL
+Klaipėda County,KL,NULL,NULL,NULL,NULL
+Marijampolė County,MR,NULL,NULL,NULL,NULL
+Panevėžys County,PN,NULL,NULL,NULL,NULL
+Šiauliai County,SA,NULL,NULL,NULL,NULL
+Tauragė County,TA,NULL,NULL,NULL,NULL
+Telšiai County,TE,NULL,NULL,NULL,NULL
+Utena County,UT,NULL,NULL,NULL,NULL
+Vilnius County,VL,NULL,NULL,NULL,NULL
+Diekirch,D,NULL,NULL,NULL,NULL
+Grevenmacher,G,NULL,NULL,NULL,NULL
+Luxembourg District,L,NULL,NULL,NULL,NULL
+Antananarivo,T,NULL,NULL,NULL,NULL
+Antsiranana,D,NULL,NULL,NULL,NULL
+Fianarantsoa,F,NULL,NULL,NULL,NULL
+Mahajanga,M,NULL,NULL,NULL,NULL
+Toamasina,A,NULL,NULL,NULL,NULL
+Toliara,U,NULL,NULL,NULL,NULL
+Central Region,C,NULL,NULL,NULL,NULL
+Northern Region,N,NULL,NULL,NULL,NULL
+Southern Region,S,NULL,NULL,NULL,NULL
+Federal Territory of Kuala Lumpur,14,NULL,NULL,NULL,NULL
+Johor,1,NULL,NULL,NULL,NULL
+Kedah,2,NULL,NULL,NULL,NULL
+Kelantan,3,NULL,NULL,NULL,NULL
+Labuan Federal Territory,15,NULL,NULL,NULL,NULL
+Malacca,4,NULL,NULL,NULL,NULL
+Negeri Sembilan,5,NULL,NULL,NULL,NULL
+Pahang,6,NULL,NULL,NULL,NULL
+Penang,7,NULL,NULL,NULL,NULL
+Perak,8,NULL,NULL,NULL,NULL
+Perlis,9,NULL,NULL,NULL,NULL
+Putrajaya,16,NULL,NULL,NULL,NULL
+Sabah,12,NULL,NULL,NULL,NULL
+Sarawak,13,NULL,NULL,NULL,NULL
+Selangor,10,NULL,NULL,NULL,NULL
+Terengganu,11,NULL,NULL,NULL,NULL
+Central Province,CE,NULL,NULL,NULL,NULL
+Male,MLE,NULL,NULL,NULL,NULL
+North Central Province,NC,NULL,NULL,NULL,NULL
+North Province,NO,NULL,NULL,NULL,NULL
+South Central Province,SC,NULL,NULL,NULL,NULL
+South Province,SU,NULL,NULL,NULL,NULL
+Upper North Province,UN,NULL,NULL,NULL,NULL
+Upper South Province,US,NULL,NULL,NULL,NULL
+Bamako,BKO,NULL,NULL,NULL,NULL
+Gao,7,NULL,NULL,NULL,NULL
+Kayes,1,NULL,NULL,NULL,NULL
+Kidal,8,NULL,NULL,NULL,NULL
+Koulikoro,2,NULL,NULL,NULL,NULL
+Mopti,5,NULL,NULL,NULL,NULL
+Segou,4,NULL,NULL,NULL,NULL
+Sikasso,3,NULL,NULL,NULL,NULL
+Tombouctou,6,NULL,NULL,NULL,NULL
+Ailinglaplap Atoll,ALL,NULL,NULL,NULL,NULL
+Ailuk Atoll,ALK,NULL,NULL,NULL,NULL
+Arno Atoll,ARN,NULL,NULL,NULL,NULL
+Aur Atoll,AUR,NULL,NULL,NULL,NULL
+Ebon,EBO,NULL,NULL,NULL,NULL
+Enewetak Atoll,ENI,NULL,NULL,NULL,NULL
+Jabat Island,JAB,NULL,NULL,NULL,NULL
+Jaluit Atoll,JAL,NULL,NULL,NULL,NULL
+Kili Island,KIL,NULL,NULL,NULL,NULL
+Kwajalein Atoll,KWA,NULL,NULL,NULL,NULL
+Lae Atoll,LAE,NULL,NULL,NULL,NULL
+Lib Island,LIB,NULL,NULL,NULL,NULL
+Likiep Atoll,LIK,NULL,NULL,NULL,NULL
+Majuro Atoll,MAJ,NULL,NULL,NULL,NULL
+Maloelap Atoll,MAL,NULL,NULL,NULL,NULL
+Mejit Island,MEJ,NULL,NULL,NULL,NULL
+Mili Atoll,MIL,NULL,NULL,NULL,NULL
+Namorik Atoll,NMK,NULL,NULL,NULL,NULL
+Namu Atoll,NMU,NULL,NULL,NULL,NULL
+Rongelap Atoll,RON,NULL,NULL,NULL,NULL
+Ujae Atoll,UJA,NULL,NULL,NULL,NULL
+Utirik Atoll,UTI,NULL,NULL,NULL,NULL
+Wotho Atoll,WTH,NULL,NULL,NULL,NULL
+Wotje Atoll,WTJ,NULL,NULL,NULL,NULL
+Adrar,7,NULL,NULL,NULL,NULL
+Assaba,3,NULL,NULL,NULL,NULL
+Brakna,5,NULL,NULL,NULL,NULL
+Dakhlet Nouadhibou,8,NULL,NULL,NULL,NULL
+Gorgol,4,NULL,NULL,NULL,NULL
+Guidimaka,10,NULL,NULL,NULL,NULL
+Hodh Ech Chargui,1,NULL,NULL,NULL,NULL
+Hodh El Gharbi,2,NULL,NULL,NULL,NULL
+Inchiri,12,NULL,NULL,NULL,NULL
+Nouakchott,NKC,NULL,NULL,NULL,NULL
+Tagant,9,NULL,NULL,NULL,NULL
+Tiris Zemmour,11,NULL,NULL,NULL,NULL
+Trarza,6,NULL,NULL,NULL,NULL
+Agalega Islands,AG,NULL,NULL,NULL,NULL
+Black River,BL,NULL,NULL,NULL,NULL
+Cargados Carajos,CC,NULL,NULL,NULL,NULL
+Flacq,FL,NULL,NULL,NULL,NULL
+Grand Port,GP,NULL,NULL,NULL,NULL
+Moka,MO,NULL,NULL,NULL,NULL
+Pamplemousses,PA,NULL,NULL,NULL,NULL
+Plaines Wilhems,PW,NULL,NULL,NULL,NULL
+Port Louis,PL,NULL,NULL,NULL,NULL
+Rivière du Rempart,RR,NULL,NULL,NULL,NULL
+Rodrigues,RO,NULL,NULL,NULL,NULL
+Savanne,SA,NULL,NULL,NULL,NULL
+Aguascalientes,AGU,NULL,NULL,NULL,NULL
+Baja California,BCN,NULL,NULL,NULL,NULL
+Baja California Sur,BCS,NULL,NULL,NULL,NULL
+Campeche,CAM,NULL,NULL,NULL,NULL
+Chiapas,CHP,NULL,NULL,NULL,NULL
+Chihuahua,CHH,NULL,NULL,NULL,NULL
+Coahuila,COA,NULL,NULL,NULL,NULL
+Colima,COL,NULL,NULL,NULL,NULL
+Durango,DUR,NULL,NULL,NULL,NULL
+Guanajuato,GUA,NULL,NULL,NULL,NULL
+Guerrero,GRO,NULL,NULL,NULL,NULL
+Hidalgo,HID,NULL,NULL,NULL,NULL
+Jalisco,JAL,NULL,NULL,NULL,NULL
+Mexico City,DIF,NULL,NULL,NULL,NULL
+Michoacán,MIC,NULL,NULL,NULL,NULL
+Morelos,MOR,NULL,NULL,NULL,NULL
+Nayarit,NAY,NULL,NULL,NULL,NULL
+Nuevo Leon,NLE,NULL,NULL,NULL,NULL
+Oaxaca,OAX,NULL,NULL,NULL,NULL
+Puebla,PUE,NULL,NULL,NULL,NULL
+Querétaro,QUE,NULL,NULL,NULL,NULL
+Quintana Roo,ROO,NULL,NULL,NULL,NULL
+San Luis Potosi,SLP,NULL,NULL,NULL,NULL
+Sinaloa,SIN,NULL,NULL,NULL,NULL
+Sonora,SON,NULL,NULL,NULL,NULL
+State of Mexico,MEX,NULL,NULL,NULL,NULL
+Tabasco,TAB,NULL,NULL,NULL,NULL
+Tamaulipas,TAM,NULL,NULL,NULL,NULL
+Tlaxcala,TLA,NULL,NULL,NULL,NULL
+Veracruz,VER,NULL,NULL,NULL,NULL
+Yucatan,YUC,NULL,NULL,NULL,NULL
+Zacatecas,ZAC,NULL,NULL,NULL,NULL
+Chuuk,TRK,NULL,NULL,NULL,NULL
+Kosrae,KSA,NULL,NULL,NULL,NULL
+Pohnpei,PNI,NULL,NULL,NULL,NULL
+Yap,YAP,NULL,NULL,NULL,NULL
+Anenii Noi,AN,NULL,NULL,NULL,NULL
+Balti,BA,NULL,NULL,NULL,NULL
+Basarabeasca District,BS,NULL,NULL,NULL,NULL
+Bender,BD,NULL,NULL,NULL,NULL
+Briceni,BR,NULL,NULL,NULL,NULL
+Cahul,CA,NULL,NULL,NULL,NULL
+Calarasi,CL,NULL,NULL,NULL,NULL
+Cantemir,CT,NULL,NULL,NULL,NULL
+Causeni,CS,NULL,NULL,NULL,NULL
+Chisinau,CU,NULL,NULL,NULL,NULL
+Cimișlia,CM,NULL,NULL,NULL,NULL
+Criuleni,CR,NULL,NULL,NULL,NULL
+Donduseni,DO,NULL,NULL,NULL,NULL
+Drochia,DR,NULL,NULL,NULL,NULL
+Dubasari,DU,NULL,NULL,NULL,NULL
+Edineţ District,ED,NULL,NULL,NULL,NULL
+Falesti,FA,NULL,NULL,NULL,NULL
+Floresti,FL,NULL,NULL,NULL,NULL
+Gagauzia,GA,NULL,NULL,NULL,NULL
+Glodeni,GL,NULL,NULL,NULL,NULL
+Hincesti,HI,NULL,NULL,NULL,NULL
+Ialoveni,IA,NULL,NULL,NULL,NULL
+Leova,LE,NULL,NULL,NULL,NULL
+Nisporeni,NI,NULL,NULL,NULL,NULL
+Ocnita,OC,NULL,NULL,NULL,NULL
+Orhei,OR,NULL,NULL,NULL,NULL
+Rezina,RE,NULL,NULL,NULL,NULL
+Riscani,RI,NULL,NULL,NULL,NULL
+Singerei,SI,NULL,NULL,NULL,NULL
+Soldanesti,SD,NULL,NULL,NULL,NULL
+Soroca,SO,NULL,NULL,NULL,NULL
+Stefan Voda,SV,NULL,NULL,NULL,NULL
+Straseni,ST,NULL,NULL,NULL,NULL
+Taraclia,TA,NULL,NULL,NULL,NULL
+Telenești District,TE,NULL,NULL,NULL,NULL
+Transnistria,SN,NULL,NULL,NULL,NULL
+Ungheni,UN,NULL,NULL,NULL,NULL
+Arkhangai,73,NULL,NULL,NULL,NULL
+Bayan-Ulgii,71,NULL,NULL,NULL,NULL
+Bayankhongor,69,NULL,NULL,NULL,NULL
+Bulgan,67,NULL,NULL,NULL,NULL
+Darkhan-Uul,37,NULL,NULL,NULL,NULL
+Dornod,61,NULL,NULL,NULL,NULL
+Dornogovi,63,NULL,NULL,NULL,NULL
+Dundgovi,59,NULL,NULL,NULL,NULL
+Govi-Altai,65,NULL,NULL,NULL,NULL
+Govisumber,64,NULL,NULL,NULL,NULL
+Khentii,39,NULL,NULL,NULL,NULL
+Khovd,43,NULL,NULL,NULL,NULL
+Khuvsgul,41,NULL,NULL,NULL,NULL
+Orkhon,35,NULL,NULL,NULL,NULL
+Selenge,49,NULL,NULL,NULL,NULL
+Sukhbaatar,51,NULL,NULL,NULL,NULL
+Tov,47,NULL,NULL,NULL,NULL
+Ulaanbaatar,1,NULL,NULL,NULL,NULL
+Umnugovi,53,NULL,NULL,NULL,NULL
+Uvs,46,NULL,NULL,NULL,NULL
+Uvurkhangai,55,NULL,NULL,NULL,NULL
+Zavkhan,57,NULL,NULL,NULL,NULL
+Andrijevica,1,NULL,NULL,NULL,NULL
+Bar,2,NULL,NULL,NULL,NULL
+Berane,3,NULL,NULL,NULL,NULL
+Bijelo Polje,4,NULL,NULL,NULL,NULL
+Budva,5,NULL,NULL,NULL,NULL
+Cetinje,6,NULL,NULL,NULL,NULL
+Danilovgrad,7,NULL,NULL,NULL,NULL
+Herceg Novi,8,NULL,NULL,NULL,NULL
+Kolasin,9,NULL,NULL,NULL,NULL
+Kotor,10,NULL,NULL,NULL,NULL
+Mojkovac,11,NULL,NULL,NULL,NULL
+Niksic,12,NULL,NULL,NULL,NULL
+Plav,13,NULL,NULL,NULL,NULL
+Pljevlja,14,NULL,NULL,NULL,NULL
+Pluzine,15,NULL,NULL,NULL,NULL
+Podgorica,16,NULL,NULL,NULL,NULL
+Rozaje,17,NULL,NULL,NULL,NULL
+Savnik,18,NULL,NULL,NULL,NULL
+Tivat,19,NULL,NULL,NULL,NULL
+Ulcinj,20,NULL,NULL,NULL,NULL
+Zabljak,21,NULL,NULL,NULL,NULL
+Chaouia-Ouardigha,9,NULL,NULL,NULL,NULL
+Doukkala-Abda,10,NULL,NULL,NULL,NULL
+Fes-Boulemane,5,NULL,NULL,NULL,NULL
+Gharb-Chrarda-Beni Hssen,2,NULL,NULL,NULL,NULL
+Grand Casablanca,8,NULL,NULL,NULL,NULL
+Guelmim-Es Semara,14,NULL,NULL,NULL,NULL
+Laayoune-Boujdour-Sakia El Hamra,15,NULL,NULL,NULL,NULL
+Marrakesh-Tensift-El Haouz,11,NULL,NULL,NULL,NULL
+Meknes-Tafilalet,6,NULL,NULL,NULL,NULL
+Oriental,4,NULL,NULL,NULL,NULL
+Rabat-Sale-Zemmour-Zaer,7,NULL,NULL,NULL,NULL
+Souss-Massa-Draa,13,NULL,NULL,NULL,NULL
+Tadla-Azilal,12,NULL,NULL,NULL,NULL
+Tangier-Tetouan,1,NULL,NULL,NULL,NULL
+Taza-Al Hoceima-Taounate,3,NULL,NULL,NULL,NULL
+Cabo Delgado Province,P,NULL,NULL,NULL,NULL
+Gaza Province,G,NULL,NULL,NULL,NULL
+Inhambane Province,I,NULL,NULL,NULL,NULL
+Manica Province,B,NULL,NULL,NULL,NULL
+Maputo City,MPM,NULL,NULL,NULL,NULL
+Maputo Province,L,NULL,NULL,NULL,NULL
+Nampula Province,N,NULL,NULL,NULL,NULL
+Niassa Province,A,NULL,NULL,NULL,NULL
+Sofala Province,S,NULL,NULL,NULL,NULL
+Tete Province,T,NULL,NULL,NULL,NULL
+Zambezia Province,Q,NULL,NULL,NULL,NULL
+Ayeyarwady,7,NULL,NULL,NULL,NULL
+Bago Region,2,NULL,NULL,NULL,NULL
+Chin State,14,NULL,NULL,NULL,NULL
+Kachin,11,NULL,NULL,NULL,NULL
+Kayah,12,NULL,NULL,NULL,NULL
+Kayin State,13,NULL,NULL,NULL,NULL
+Magway Region,3,NULL,NULL,NULL,NULL
+Mandalay Region,4,NULL,NULL,NULL,NULL
+Mon State,15,NULL,NULL,NULL,NULL
+Naypyidaw Union Territory,18,NULL,NULL,NULL,NULL
+Rakhine,16,NULL,NULL,NULL,NULL
+Sagaing Region,1,NULL,NULL,NULL,NULL
+Shan,17,NULL,NULL,NULL,NULL
+Tanintharyi Region,5,NULL,NULL,NULL,NULL
+Yangon Region,6,NULL,NULL,NULL,NULL
+Erongo,ER,NULL,NULL,NULL,NULL
+Hardap Region,HA,NULL,NULL,NULL,NULL
+Karas Region,KA,NULL,NULL,NULL,NULL
+Kavango Region,OK,NULL,NULL,NULL,NULL
+Khomas Region,KH,NULL,NULL,NULL,NULL
+Kunene Region,KU,NULL,NULL,NULL,NULL
+Ohangwena,OW,NULL,NULL,NULL,NULL
+Omaheke Region,OH,NULL,NULL,NULL,NULL
+Omusati Region,OS,NULL,NULL,NULL,NULL
+Oshana Region,ON,NULL,NULL,NULL,NULL
+Oshikoto Region,OT,NULL,NULL,NULL,NULL
+Otjozondjupa Region,OD,NULL,NULL,NULL,NULL
+Zambezi Region,CA,NULL,NULL,NULL,NULL
+Aiwo,1,NULL,NULL,NULL,NULL
+Anabar,2,NULL,NULL,NULL,NULL
+Anetan,3,NULL,NULL,NULL,NULL
+Anibare,4,NULL,NULL,NULL,NULL
+Baiti,5,NULL,NULL,NULL,NULL
+Boe,6,NULL,NULL,NULL,NULL
+Buada,7,NULL,NULL,NULL,NULL
+Denigomodu,8,NULL,NULL,NULL,NULL
+Ewa,9,NULL,NULL,NULL,NULL
+Ijuw,10,NULL,NULL,NULL,NULL
+Meneng,11,NULL,NULL,NULL,NULL
+Nibok,12,NULL,NULL,NULL,NULL
+Uaboe,13,NULL,NULL,NULL,NULL
+Yaren,14,NULL,NULL,NULL,NULL
+Central Region,1,NULL,NULL,NULL,NULL
+Eastern Region,4,NULL,NULL,NULL,NULL
+Far-Western Region,5,NULL,NULL,NULL,NULL
+Mid-Western Region,2,NULL,NULL,NULL,NULL
+Western Region,3,NULL,NULL,NULL,NULL
+Drenthe,DR,NULL,NULL,NULL,NULL
+Flevoland,FL,NULL,NULL,NULL,NULL
+Friesland,FR,NULL,NULL,NULL,NULL
+Gelderland,GE,NULL,NULL,NULL,NULL
+Groningen,GR,NULL,NULL,NULL,NULL
+Limburg,LI,NULL,NULL,NULL,NULL
+North Brabant,NB,NULL,NULL,NULL,NULL
+North Holland,NH,NULL,NULL,NULL,NULL
+Overijssel,OV,NULL,NULL,NULL,NULL
+South Holland,ZH,NULL,NULL,NULL,NULL
+Utrecht,UT,NULL,NULL,NULL,NULL
+Zeeland,ZE,NULL,NULL,NULL,NULL
+Auckland,AUK,NULL,NULL,NULL,NULL
+Bay Of Plenty,BOP,NULL,NULL,NULL,NULL
+Canterbury,CAN,NULL,NULL,NULL,NULL
+Chatham Islands,CIT,NULL,NULL,NULL,NULL
+Gisborne,GIS,NULL,NULL,NULL,NULL
+Hawke's Bay,HKB,NULL,NULL,NULL,NULL
+Manawatu-Wanganui,MWT,NULL,NULL,NULL,NULL
+Marlborough,MBH,NULL,NULL,NULL,NULL
+Nelson,NSN,NULL,NULL,NULL,NULL
+Northland,NTL,NULL,NULL,NULL,NULL
+Otago,OTA,NULL,NULL,NULL,NULL
+Southland,STL,NULL,NULL,NULL,NULL
+Taranaki,TKI,NULL,NULL,NULL,NULL
+Tasman,TAS,NULL,NULL,NULL,NULL
+Waikato,WKO,NULL,NULL,NULL,NULL
+Wellington,WGN,NULL,NULL,NULL,NULL
+West Coast,WTC,NULL,NULL,NULL,NULL
+Autonomous Region of the Northern Atlantic,AN,NULL,NULL,NULL,NULL
+Autonomous Region of the Southern Atlantic,AS,NULL,NULL,NULL,NULL
+Boaco,BO,NULL,NULL,NULL,NULL
+Carazo,CA,NULL,NULL,NULL,NULL
+Chinandega,CI,NULL,NULL,NULL,NULL
+Chontales,CO,NULL,NULL,NULL,NULL
+Esteli,ES,NULL,NULL,NULL,NULL
+Granada,GR,NULL,NULL,NULL,NULL
+Jinotega,JI,NULL,NULL,NULL,NULL
+Leon,LE,NULL,NULL,NULL,NULL
+Madriz,MD,NULL,NULL,NULL,NULL
+Managua,MN,NULL,NULL,NULL,NULL
+Masaya,MS,NULL,NULL,NULL,NULL
+Matagalpa,MT,NULL,NULL,NULL,NULL
+Nueva Segovia,NS,NULL,NULL,NULL,NULL
+Rio San Juan,SJ,NULL,NULL,NULL,NULL
+Rivas,RI,NULL,NULL,NULL,NULL
+Agadez,1,NULL,NULL,NULL,NULL
+Diffa,2,NULL,NULL,NULL,NULL
+Dosso,3,NULL,NULL,NULL,NULL
+Maradi,4,NULL,NULL,NULL,NULL
+Niamey,8,NULL,NULL,NULL,NULL
+Tahoua,5,NULL,NULL,NULL,NULL
+Tillaberi,6,NULL,NULL,NULL,NULL
+Zinder,7,NULL,NULL,NULL,NULL
+Abia,AB,NULL,NULL,NULL,NULL
+Adamawa,AD,NULL,NULL,NULL,NULL
+Akwa Ibom,AK,NULL,NULL,NULL,NULL
+Anambra,AN,NULL,NULL,NULL,NULL
+Bauchi,BA,NULL,NULL,NULL,NULL
+Bayelsa,BY,NULL,NULL,NULL,NULL
+Benue,BE,NULL,NULL,NULL,NULL
+Borno,BO,NULL,NULL,NULL,NULL
+Cross River,CR,NULL,NULL,NULL,NULL
+Delta,DE,NULL,NULL,NULL,NULL
+Ebonyi,EB,NULL,NULL,NULL,NULL
+Edo,ED,NULL,NULL,NULL,NULL
+Ekiti,EK,NULL,NULL,NULL,NULL
+Enugu,EN,NULL,NULL,NULL,NULL
+Federal Capital Territory,FC,NULL,NULL,NULL,NULL
+Gombe,GO,NULL,NULL,NULL,NULL
+Imo,IM,NULL,NULL,NULL,NULL
+Jigawa,JI,NULL,NULL,NULL,NULL
+Kaduna,KD,NULL,NULL,NULL,NULL
+Kano,KN,NULL,NULL,NULL,NULL
+Katsina,KT,NULL,NULL,NULL,NULL
+Kebbi,KE,NULL,NULL,NULL,NULL
+Kogi,KO,NULL,NULL,NULL,NULL
+Kwara,KW,NULL,NULL,NULL,NULL
+Lagos,LA,NULL,NULL,NULL,NULL
+Nasarawa,NA,NULL,NULL,NULL,NULL
+Niger,NI,NULL,NULL,NULL,NULL
+Ogun State,OG,NULL,NULL,NULL,NULL
+Ondo,ON,NULL,NULL,NULL,NULL
+Osun,OS,NULL,NULL,NULL,NULL
+Oyo,OY,NULL,NULL,NULL,NULL
+Plateau,PL,NULL,NULL,NULL,NULL
+Rivers,RI,NULL,NULL,NULL,NULL
+Sokoto,SO,NULL,NULL,NULL,NULL
+Taraba,TA,NULL,NULL,NULL,NULL
+Yobe,YO,NULL,NULL,NULL,NULL
+Zamfara,ZA,NULL,NULL,NULL,NULL
+Toi,TOI,NULL,NULL,NULL,NULL
+Chagang,4,NULL,NULL,NULL,NULL
+Kangwon,7,NULL,NULL,NULL,NULL
+North Hamgyong,9,NULL,NULL,NULL,NULL
+North Hwanghae,6,NULL,NULL,NULL,NULL
+North Pyongan,3,NULL,NULL,NULL,NULL
+Pyongyang,1,NULL,NULL,NULL,NULL
+Rason,13,NULL,NULL,NULL,NULL
+Ryanggang,10,NULL,NULL,NULL,NULL
+South Hamgyong,8,NULL,NULL,NULL,NULL
+South Hwanghae,5,NULL,NULL,NULL,NULL
+South Pyongan,2,NULL,NULL,NULL,NULL
+Bosilovo,7,NULL,NULL,NULL,NULL
+Brvenitsa,8,NULL,NULL,NULL,NULL
+Centar Zhupa,78,NULL,NULL,NULL,NULL
+Chashka,80,NULL,NULL,NULL,NULL
+Delchevo,23,NULL,NULL,NULL,NULL
+Dojran,26,NULL,NULL,NULL,NULL
+Gostivar,19,NULL,NULL,NULL,NULL
+Makedonska Kamenitsa,51,NULL,NULL,NULL,NULL
+Mogila,53,NULL,NULL,NULL,NULL
+Municipality of Arachinovo,2,NULL,NULL,NULL,NULL
+Municipality of Berovo,3,NULL,NULL,NULL,NULL
+Municipality of Bitola,4,NULL,NULL,NULL,NULL
+Municipality of Bogdanci,5,NULL,NULL,NULL,NULL
+Municipality of Bogovinje,6,NULL,NULL,NULL,NULL
+Municipality of Cheshinovo-Obleshevo,81,NULL,NULL,NULL,NULL
+Municipality of Chucher Sandevo,82,NULL,NULL,NULL,NULL
+Municipality of Debar,21,NULL,NULL,NULL,NULL
+Municipality of Debarca,22,NULL,NULL,NULL,NULL
+Municipality of Demir Hisar,25,NULL,NULL,NULL,NULL
+Municipality of Demir Kapija,24,NULL,NULL,NULL,NULL
+Municipality of Dolneni,27,NULL,NULL,NULL,NULL
+Municipality of Gevgelija,18,NULL,NULL,NULL,NULL
+Municipality of Gradsko,20,NULL,NULL,NULL,NULL
+Municipality of Ilinden,34,NULL,NULL,NULL,NULL
+Municipality of Jegunovce,35,NULL,NULL,NULL,NULL
+Municipality of Karbinci,37,NULL,NULL,NULL,NULL
+Municipality of Kavadarci,36,NULL,NULL,NULL,NULL
+Municipality of Kichevo,40,NULL,NULL,NULL,NULL
+Municipality of Kochani,42,NULL,NULL,NULL,NULL
+Municipality of Konche,41,NULL,NULL,NULL,NULL
+Municipality of Kratovo,43,NULL,NULL,NULL,NULL
+Municipality of Kriva Palanka,44,NULL,NULL,NULL,NULL
+Municipality of Krivogashtani,45,NULL,NULL,NULL,NULL
+Municipality of Krushevo,46,NULL,NULL,NULL,NULL
+Municipality of Kumanovo,47,NULL,NULL,NULL,NULL
+Municipality of Lipkovo,48,NULL,NULL,NULL,NULL
+Municipality of Lozovo,49,NULL,NULL,NULL,NULL
+Municipality of Makedonski Brod,52,NULL,NULL,NULL,NULL
+Municipality of Mavrovo and Rostusha,50,NULL,NULL,NULL,NULL
+Municipality of Negotino,54,NULL,NULL,NULL,NULL
+Municipality of Novatsi,55,NULL,NULL,NULL,NULL
+Municipality of Novo Selo,56,NULL,NULL,NULL,NULL
+Municipality of Pehchevo,60,NULL,NULL,NULL,NULL
+Municipality of Petrovets,59,NULL,NULL,NULL,NULL
+Municipality of Plasnitsa,61,NULL,NULL,NULL,NULL
+Municipality of Prilep,62,NULL,NULL,NULL,NULL
+Municipality of Rankovtse,65,NULL,NULL,NULL,NULL
+Municipality of Resen,66,NULL,NULL,NULL,NULL
+Municipality of Rosoman,67,NULL,NULL,NULL,NULL
+Municipality of Shtip,83,NULL,NULL,NULL,NULL
+Municipality of Sopishte,70,NULL,NULL,NULL,NULL
+Municipality of Struga,72,NULL,NULL,NULL,NULL
+Municipality of Vasilevo,11,NULL,NULL,NULL,NULL
+Municipality of Veles,13,NULL,NULL,NULL,NULL
+Municipality of Vevchani,12,NULL,NULL,NULL,NULL
+Municipality of Vinica,14,NULL,NULL,NULL,NULL
+Municipality of Zajas,31,NULL,NULL,NULL,NULL
+Municipality of Zhelino,30,NULL,NULL,NULL,NULL
+Municipality of Zrnovci,33,NULL,NULL,NULL,NULL
+Ohrid,58,NULL,NULL,NULL,NULL
+Probishtip,63,NULL,NULL,NULL,NULL
+Radovish,64,NULL,NULL,NULL,NULL
+Skopje,85,NULL,NULL,NULL,NULL
+Staro Nagorichane,71,NULL,NULL,NULL,NULL
+Strumitsa,73,NULL,NULL,NULL,NULL
+Studenichani,74,NULL,NULL,NULL,NULL
+Sveti Nikole,69,NULL,NULL,NULL,NULL
+Tearce,75,NULL,NULL,NULL,NULL
+Tetovo,76,NULL,NULL,NULL,NULL
+Valandovo,10,NULL,NULL,NULL,NULL
+Vrapchishte,16,NULL,NULL,NULL,NULL
+Zelenikovo,32,NULL,NULL,NULL,NULL
+Akershus,2,NULL,NULL,NULL,NULL
+Aust-Agder,9,NULL,NULL,NULL,NULL
+Buskerud,6,NULL,NULL,NULL,NULL
+Finnmark,20,NULL,NULL,NULL,NULL
+Hedmark,4,NULL,NULL,NULL,NULL
+Hordaland,12,NULL,NULL,NULL,NULL
+Møre og Romsdal,15,NULL,NULL,NULL,NULL
+Nord-Trondelag,17,NULL,NULL,NULL,NULL
+Nordland,18,NULL,NULL,NULL,NULL
+Oppland,5,NULL,NULL,NULL,NULL
+Oslo,3,NULL,NULL,NULL,NULL
+Ostfold,1,NULL,NULL,NULL,NULL
+Rogaland,11,NULL,NULL,NULL,NULL
+Sogn og Fjordane,14,NULL,NULL,NULL,NULL
+Sor-Trondelag,16,NULL,NULL,NULL,NULL
+Telemark,8,NULL,NULL,NULL,NULL
+Troms,19,NULL,NULL,NULL,NULL
+Vest-Agder,10,NULL,NULL,NULL,NULL
+Vestfold,7,NULL,NULL,NULL,NULL
+Ad Dakhiliyah ‍Governorate,DA,NULL,NULL,NULL,NULL
+Ad Dhahirah Governorate,ZA,NULL,NULL,NULL,NULL
+Al Batinah North Governorate,BS,NULL,NULL,NULL,NULL
+Al Batinah South Governorate,BJ,NULL,NULL,NULL,NULL
+Al Buraymi Governorate,BU,NULL,NULL,NULL,NULL
+Al Wusta Governorate,WU,NULL,NULL,NULL,NULL
+Ash Sharqiyah North Governorate,SS,NULL,NULL,NULL,NULL
+Ash Sharqiyah South Governorate,SJ,NULL,NULL,NULL,NULL
+Dhofar Governorate,ZU,NULL,NULL,NULL,NULL
+Musandam Governorate,MU,NULL,NULL,NULL,NULL
+Muscat Governorate,MA,NULL,NULL,NULL,NULL
+Azad Jammu and Kashmir,JK,NULL,NULL,NULL,NULL
+Balochistan,BA,NULL,NULL,NULL,NULL
+Federally Administered Tribal Areas,TA,NULL,NULL,NULL,NULL
+Gilgit-Baltistan,GB,NULL,NULL,NULL,NULL
+Islamabad Capital Territory,IS,NULL,NULL,NULL,NULL
+Khyber Pakhtunkhwa,KP,NULL,NULL,NULL,NULL
+Punjab,PB,NULL,NULL,NULL,NULL
+Sindh,SD,NULL,NULL,NULL,NULL
+Aimeliik,2,NULL,NULL,NULL,NULL
+Airai,4,NULL,NULL,NULL,NULL
+Angaur,10,NULL,NULL,NULL,NULL
+Hatohobei,50,NULL,NULL,NULL,NULL
+Kayangel,100,NULL,NULL,NULL,NULL
+Koror,150,NULL,NULL,NULL,NULL
+Melekeok,212,NULL,NULL,NULL,NULL
+Ngaraard,214,NULL,NULL,NULL,NULL
+Ngarchelong,218,NULL,NULL,NULL,NULL
+Ngardmau,222,NULL,NULL,NULL,NULL
+Ngaremlengui,227,NULL,NULL,NULL,NULL
+Ngatpang,224,NULL,NULL,NULL,NULL
+Ngchesar,226,NULL,NULL,NULL,NULL
+Ngiwal,228,NULL,NULL,NULL,NULL
+Peleliu,350,NULL,NULL,NULL,NULL
+Sonsorol,370,NULL,NULL,NULL,NULL
+Bocas del Toro Province,1,NULL,NULL,NULL,NULL
+Chiriquí Province,4,NULL,NULL,NULL,NULL
+Coclé Province,2,NULL,NULL,NULL,NULL
+Colón Province,3,NULL,NULL,NULL,NULL
+Darién Province,5,NULL,NULL,NULL,NULL
+Emberá-Wounaan Comarca,EM,NULL,NULL,NULL,NULL
+Guna Yala,KY,NULL,NULL,NULL,NULL
+Herrera Province,6,NULL,NULL,NULL,NULL
+Los Santos Province,7,NULL,NULL,NULL,NULL
+Ngäbe-Buglé Comarca,NB,NULL,NULL,NULL,NULL
+Panama,8,NULL,NULL,NULL,NULL
+Veraguas Province,9,NULL,NULL,NULL,NULL
+Autonomous Region of Bougainville,NSB,NULL,NULL,NULL,NULL
+Central Province,CPM,NULL,NULL,NULL,NULL
+Chimbu Province,CPK,NULL,NULL,NULL,NULL
+East New Britain Province,EBR,NULL,NULL,NULL,NULL
+East Sepik Province,ESW,NULL,NULL,NULL,NULL
+Eastern Highlands Province,EHG,NULL,NULL,NULL,NULL
+Enga Province,EPW,NULL,NULL,NULL,NULL
+Gulf Province,GPK,NULL,NULL,NULL,NULL
+Jiwaka Province,JWK,NULL,NULL,NULL,NULL
+Madang Province,MPM,NULL,NULL,NULL,NULL
+Manus Province,MRL,NULL,NULL,NULL,NULL
+Milne Bay Province,MBA,NULL,NULL,NULL,NULL
+Morobe Province,MPL,NULL,NULL,NULL,NULL
+National Capital District,NCD,NULL,NULL,NULL,NULL
+New Ireland Province,NIK,NULL,NULL,NULL,NULL
+Northern Province,NPP,NULL,NULL,NULL,NULL
+Southern Highlands Province,SHM,NULL,NULL,NULL,NULL
+West New Britain Province,WBK,NULL,NULL,NULL,NULL
+West Sepik Province,SAN,NULL,NULL,NULL,NULL
+Western Highlands Province,WHM,NULL,NULL,NULL,NULL
+Western Province,WPD,NULL,NULL,NULL,NULL
+Alto Paraguay,16,NULL,NULL,NULL,NULL
+Alto Parana,10,NULL,NULL,NULL,NULL
+Amambay Department,13,NULL,NULL,NULL,NULL
+Asunción,ASU,NULL,NULL,NULL,NULL
+Boqueron,19,NULL,NULL,NULL,NULL
+Caaguazu,5,NULL,NULL,NULL,NULL
+Caazapa,6,NULL,NULL,NULL,NULL
+Canindeyu,14,NULL,NULL,NULL,NULL
+Central,11,NULL,NULL,NULL,NULL
+Concepcion,1,NULL,NULL,NULL,NULL
+Cordillera,3,NULL,NULL,NULL,NULL
+Guaira,4,NULL,NULL,NULL,NULL
+Itapua,7,NULL,NULL,NULL,NULL
+Misiones,8,NULL,NULL,NULL,NULL
+Neembucu,12,NULL,NULL,NULL,NULL
+Paraguari,9,NULL,NULL,NULL,NULL
+Presidente Hayes Department,15,NULL,NULL,NULL,NULL
+San Pedro,2,NULL,NULL,NULL,NULL
+Amazonas,AMA,NULL,NULL,NULL,NULL
+Ancash,ANC,NULL,NULL,NULL,NULL
+Apurimac,APU,NULL,NULL,NULL,NULL
+Arequipa,ARE,NULL,NULL,NULL,NULL
+Ayacucho,AYA,NULL,NULL,NULL,NULL
+Cajamarca,CAJ,NULL,NULL,NULL,NULL
+Callao,CAL,NULL,NULL,NULL,NULL
+Cusco,CUS,NULL,NULL,NULL,NULL
+Huancavelica,HUV,NULL,NULL,NULL,NULL
+Huanuco,HUC,NULL,NULL,NULL,NULL
+Ica,ICA,NULL,NULL,NULL,NULL
+Junin,JUN,NULL,NULL,NULL,NULL
+La Libertad,LAL,NULL,NULL,NULL,NULL
+Lambayeque,LAM,NULL,NULL,NULL,NULL
+Lima Region,LIM,NULL,NULL,NULL,NULL
+Loreto,LOR,NULL,NULL,NULL,NULL
+Madre de Dios,MDD,NULL,NULL,NULL,NULL
+Moquegua,MOQ,NULL,NULL,NULL,NULL
+Pasco,PAS,NULL,NULL,NULL,NULL
+Piura,PIU,NULL,NULL,NULL,NULL
+Puno,PUN,NULL,NULL,NULL,NULL
+San Martin,SAM,NULL,NULL,NULL,NULL
+Tacna,TAC,NULL,NULL,NULL,NULL
+Tumbes,TUM,NULL,NULL,NULL,NULL
+Ucayali,UCA,NULL,NULL,NULL,NULL
+Autonomous Region in Muslim Mindanao,14,NULL,NULL,NULL,NULL
+Bicol,5,NULL,NULL,NULL,NULL
+Cagayan Valley,2,NULL,NULL,NULL,NULL
+Calabarzon,40,NULL,NULL,NULL,NULL
+Caraga,13,NULL,NULL,NULL,NULL
+Central Luzon,3,NULL,NULL,NULL,NULL
+Central Visayas,7,NULL,NULL,NULL,NULL
+Cordillera Administrative Region,15,NULL,NULL,NULL,NULL
+Davao Region,11,NULL,NULL,NULL,NULL
+Eastern Visayas,8,NULL,NULL,NULL,NULL
+Ilocos Region,1,NULL,NULL,NULL,NULL
+Metro Manila,0,NULL,NULL,NULL,NULL
+MIMAROPA,41,NULL,NULL,NULL,NULL
+Northern Mindanao,10,NULL,NULL,NULL,NULL
+Region XII,12,NULL,NULL,NULL,NULL
+Western Visayas,6,NULL,NULL,NULL,NULL
+Zamboanga Peninsula,9,NULL,NULL,NULL,NULL
+Greater Poland Voivodeship,WP,NULL,NULL,NULL,NULL
+Kuyavian-Pomeranian Voivodeship,KP,NULL,NULL,NULL,NULL
+Lesser Poland Voivodeship,MA,NULL,NULL,NULL,NULL
+Łódź Voivodeship,LD,NULL,NULL,NULL,NULL
+Lower Silesian Voivodeship,DS,NULL,NULL,NULL,NULL
+Lublin Voivodeship,LU,NULL,NULL,NULL,NULL
+Lubusz Voivodeship,LB,NULL,NULL,NULL,NULL
+Masovian Voivodeship,MZ,NULL,NULL,NULL,NULL
+Opole Voivodeship,OP,NULL,NULL,NULL,NULL
+Podkarpackie Voivodeship,PK,NULL,NULL,NULL,NULL
+Podlaskie Voivodeship,PD,NULL,NULL,NULL,NULL
+Pomeranian Voivodeship,PM,NULL,NULL,NULL,NULL
+Silesian Voivodeship,SL,NULL,NULL,NULL,NULL
+Swietokrzyskie,SK,NULL,NULL,NULL,NULL
+Warmian-Masurian Voivodeship,WN,NULL,NULL,NULL,NULL
+West Pomeranian Voivodeship,ZP,NULL,NULL,NULL,NULL
+Aveiro District,1,NULL,NULL,NULL,NULL
+Azores,20,NULL,NULL,NULL,NULL
+Beja District,2,NULL,NULL,NULL,NULL
+Braga,3,NULL,NULL,NULL,NULL
+Bragança District,4,NULL,NULL,NULL,NULL
+Castelo Branco District,5,NULL,NULL,NULL,NULL
+Coimbra District,6,NULL,NULL,NULL,NULL
+Évora District,7,NULL,NULL,NULL,NULL
+Faro District,8,NULL,NULL,NULL,NULL
+Guarda District,9,NULL,NULL,NULL,NULL
+Leiria District,10,NULL,NULL,NULL,NULL
+Lisbon,11,NULL,NULL,NULL,NULL
+Madeira,30,NULL,NULL,NULL,NULL
+Portalegre District,12,NULL,NULL,NULL,NULL
+Porto District,13,NULL,NULL,NULL,NULL
+Santarém District,14,NULL,NULL,NULL,NULL
+Setubal,15,NULL,NULL,NULL,NULL
+Viana do Castelo District,16,NULL,NULL,NULL,NULL
+Vila Real District,17,NULL,NULL,NULL,NULL
+Viseu District,18,NULL,NULL,NULL,NULL
+Al Daayen,ZA,NULL,NULL,NULL,NULL
+Al Khor,KH,NULL,NULL,NULL,NULL
+Al Rayyan Municipality,RA,NULL,NULL,NULL,NULL
+Al Wakrah Municipality,WA,NULL,NULL,NULL,NULL
+Doha,DA,NULL,NULL,NULL,NULL
+Madinat ash Shamal,MS,NULL,NULL,NULL,NULL
+Umm Salal Municipality,US,NULL,NULL,NULL,NULL
+Alba County,AB,NULL,NULL,NULL,NULL
+Arad County,AR,NULL,NULL,NULL,NULL
+Argeș County,AG,NULL,NULL,NULL,NULL
+Bacău County,BC,NULL,NULL,NULL,NULL
+Bihor County,BH,NULL,NULL,NULL,NULL
+Bistrița-Năsăud County,BN,NULL,NULL,NULL,NULL
+Botoșani County,BT,NULL,NULL,NULL,NULL
+Brăila County,BR,NULL,NULL,NULL,NULL
+Brașov County,BV,NULL,NULL,NULL,NULL
+Bucharest,B,NULL,NULL,NULL,NULL
+Buzău County,BZ,NULL,NULL,NULL,NULL
+Călărași County,CL,NULL,NULL,NULL,NULL
+Caraș-Severin County,CS,NULL,NULL,NULL,NULL
+Cluj County,CJ,NULL,NULL,NULL,NULL
+Constanța County,CT,NULL,NULL,NULL,NULL
+Covasna County,CV,NULL,NULL,NULL,NULL
+Dâmbovița County,DB,NULL,NULL,NULL,NULL
+Dolj County,DJ,NULL,NULL,NULL,NULL
+Galați,GL,NULL,NULL,NULL,NULL
+Giurgiu County,GR,NULL,NULL,NULL,NULL
+Gorj County,GJ,NULL,NULL,NULL,NULL
+Harghita County,HR,NULL,NULL,NULL,NULL
+Hunedoara County,HD,NULL,NULL,NULL,NULL
+Ialomița County,IL,NULL,NULL,NULL,NULL
+Iași County,IS,NULL,NULL,NULL,NULL
+Ilfov County,IF,NULL,NULL,NULL,NULL
+Maramureș County,MM,NULL,NULL,NULL,NULL
+Mehedinți County,MH,NULL,NULL,NULL,NULL
+Mureș County,MS,NULL,NULL,NULL,NULL
+Neamț County,NT,NULL,NULL,NULL,NULL
+Olt County,OT,NULL,NULL,NULL,NULL
+Prahova,PH,NULL,NULL,NULL,NULL
+Sălaj,SJ,NULL,NULL,NULL,NULL
+Satu Mare County,SM,NULL,NULL,NULL,NULL
+Sibiu,SB,NULL,NULL,NULL,NULL
+Suceava County,SV,NULL,NULL,NULL,NULL
+Teleorman County,TR,NULL,NULL,NULL,NULL
+Timiș County,TM,NULL,NULL,NULL,NULL
+Tulcea County,TL,NULL,NULL,NULL,NULL
+Vâlcea County,VL,NULL,NULL,NULL,NULL
+Vaslui County,VS,NULL,NULL,NULL,NULL
+Vrancea County,VN,NULL,NULL,NULL,NULL
+Adygea,AD,NULL,NULL,NULL,NULL
+Altai Krai,ALT,NULL,NULL,NULL,NULL
+Altai Republic,AL,NULL,NULL,NULL,NULL
+Amur Oblast,AMU,NULL,NULL,NULL,NULL
+Arkhangelsk Oblast,ARK,NULL,NULL,NULL,NULL
+Astrakhan Oblast,AST,NULL,NULL,NULL,NULL
+Belgorod Oblast,BEL,NULL,NULL,NULL,NULL
+Bryansk Oblast,BRY,NULL,NULL,NULL,NULL
+Buryatia,BU,NULL,NULL,NULL,NULL
+Chechnya,CE,NULL,NULL,NULL,NULL
+Chelyabinsk Oblast,CHE,NULL,NULL,NULL,NULL
+Chukotka Autonomous Okrug,CHU,NULL,NULL,NULL,NULL
+Chuvashia Republic,CU,NULL,NULL,NULL,NULL
+Dagestan Republic,DA,NULL,NULL,NULL,NULL
+Ingushetia,IN,NULL,NULL,NULL,NULL
+Irkutsk Oblast,IRK,NULL,NULL,NULL,NULL
+Ivanovo Oblast,IVA,NULL,NULL,NULL,NULL
+Jewish Autonomous Oblast,YEV,NULL,NULL,NULL,NULL
+Kabardino-Balkaria,KB,NULL,NULL,NULL,NULL
+Kaliningrad Oblast,KGD,NULL,NULL,NULL,NULL
+Kalmykia,KL,NULL,NULL,NULL,NULL
+Kaluga Oblast,KLU,NULL,NULL,NULL,NULL
+Kamchatka Krai,KAM,NULL,NULL,NULL,NULL
+Karachay-Cherkessia,KC,NULL,NULL,NULL,NULL
+Kemerovo Oblast,KEM,NULL,NULL,NULL,NULL
+Khabarovsk Krai,KHA,NULL,NULL,NULL,NULL
+Khanty-Mansi Autonomous Okrug,KHM,NULL,NULL,NULL,NULL
+Kirov Oblast,KIR,NULL,NULL,NULL,NULL
+Komi Republic,KO,NULL,NULL,NULL,NULL
+Kostroma Oblast,KOS,NULL,NULL,NULL,NULL
+Krasnodar Krai,KDA,NULL,NULL,NULL,NULL
+Krasnoyarsk Krai,KYA,NULL,NULL,NULL,NULL
+Kurgan Oblast,KGN,NULL,NULL,NULL,NULL
+Kursk Oblast,KRS,NULL,NULL,NULL,NULL
+Leningrad Oblast,LEN,NULL,NULL,NULL,NULL
+Lipetsk Oblast,LIP,NULL,NULL,NULL,NULL
+Magadan Oblast,MAG,NULL,NULL,NULL,NULL
+Mari El Republic,ME,NULL,NULL,NULL,NULL
+Mordovia,MO,NULL,NULL,NULL,NULL
+Moscow,MOW,NULL,NULL,NULL,NULL
+Moscow Oblast,MOS,NULL,NULL,NULL,NULL
+Murmansk Oblast,MUR,NULL,NULL,NULL,NULL
+Nenets Autonomous Okrug,NEN,NULL,NULL,NULL,NULL
+Nizhny Novgorod Oblast,NIZ,NULL,NULL,NULL,NULL
+North Ossetia–Alania,SE,NULL,NULL,NULL,NULL
+Novgorod Oblast,NGR,NULL,NULL,NULL,NULL
+Novosibirsk Oblast,NVS,NULL,NULL,NULL,NULL
+Omsk Oblast,OMS,NULL,NULL,NULL,NULL
+Orenburg Oblast,ORE,NULL,NULL,NULL,NULL
+Oryol Oblast,ORL,NULL,NULL,NULL,NULL
+Penza Oblast,PNZ,NULL,NULL,NULL,NULL
+Perm Krai,PER,NULL,NULL,NULL,NULL
+Primorsky Krai,PRI,NULL,NULL,NULL,NULL
+Pskov Oblast,PSK,NULL,NULL,NULL,NULL
+Republic of Bashkortostan,BA,NULL,NULL,NULL,NULL
+Republic of Karelia,KR,NULL,NULL,NULL,NULL
+Republic of Khakassia,KK,NULL,NULL,NULL,NULL
+Rostov Oblast,ROS,NULL,NULL,NULL,NULL
+Ryazan Oblast,RYA,NULL,NULL,NULL,NULL
+Saint Petersburg,SPE,NULL,NULL,NULL,NULL
+Sakha Republic,SA,NULL,NULL,NULL,NULL
+Sakhalin Oblast,SAK,NULL,NULL,NULL,NULL
+Samara Oblast,SAM,NULL,NULL,NULL,NULL
+Saratov Oblast,SAR,NULL,NULL,NULL,NULL
+Smolensk Oblast,SMO,NULL,NULL,NULL,NULL
+Stavropol Krai,STA,NULL,NULL,NULL,NULL
+Sverdlovsk Oblast,SVE,NULL,NULL,NULL,NULL
+Tambov Oblast,TAM,NULL,NULL,NULL,NULL
+Tatarstan,TA,NULL,NULL,NULL,NULL
+Tomsk Oblast,TOM,NULL,NULL,NULL,NULL
+Tula Oblast,TUL,NULL,NULL,NULL,NULL
+Tuva,TY,NULL,NULL,NULL,NULL
+Tver Oblast,TVE,NULL,NULL,NULL,NULL
+Tyumen Oblast,TYU,NULL,NULL,NULL,NULL
+Udmurt Republic,UD,NULL,NULL,NULL,NULL
+Ulyanovsk Oblast,ULY,NULL,NULL,NULL,NULL
+Vladimir Oblast,VLA,NULL,NULL,NULL,NULL
+Volgograd Oblast,VGG,NULL,NULL,NULL,NULL
+Vologda Oblast,VLG,NULL,NULL,NULL,NULL
+Voronezh Oblast,VOR,NULL,NULL,NULL,NULL
+Yamalo-Nenets Autonomous Okrug,YAN,NULL,NULL,NULL,NULL
+Yaroslavl Oblast,YAR,NULL,NULL,NULL,NULL
+Zabaykalsky Krai,ZAB,NULL,NULL,NULL,NULL
+Eastern Province,2,NULL,NULL,NULL,NULL
+Kigali,1,NULL,NULL,NULL,NULL
+Northern Province,3,NULL,NULL,NULL,NULL
+Southern Province,5,NULL,NULL,NULL,NULL
+Western Province,4,NULL,NULL,NULL,NULL
+A'ana,AA,NULL,NULL,NULL,NULL
+Aiga-i-le-Tai,AL,NULL,NULL,NULL,NULL
+Atua,AT,NULL,NULL,NULL,NULL
+Fa'asaleleaga,FA,NULL,NULL,NULL,NULL
+Gaga'emauga,GE,NULL,NULL,NULL,NULL
+Gaga'ifomauga,GI,NULL,NULL,NULL,NULL
+Palauli,PA,NULL,NULL,NULL,NULL
+Satupa'itea,SA,NULL,NULL,NULL,NULL
+Tuamasaga,TU,NULL,NULL,NULL,NULL
+Va'a-o-Fonoti,VF,NULL,NULL,NULL,NULL
+Vaisigano,VS,NULL,NULL,NULL,NULL
+Acquaviva,1,NULL,NULL,NULL,NULL
+Borgo Maggiore,6,NULL,NULL,NULL,NULL
+Chiesanuova,2,NULL,NULL,NULL,NULL
+Domagnano,3,NULL,NULL,NULL,NULL
+Faetano,4,NULL,NULL,NULL,NULL
+Fiorentino,5,NULL,NULL,NULL,NULL
+Montegiardino,8,NULL,NULL,NULL,NULL
+San Marino,7,NULL,NULL,NULL,NULL
+Serravalle,9,NULL,NULL,NULL,NULL
+Principe,P,NULL,NULL,NULL,NULL
+Sao Tome,S,NULL,NULL,NULL,NULL
+Al Bahah Province,11,NULL,NULL,NULL,NULL
+Al Jowf,12,NULL,NULL,NULL,NULL
+Al Madinah Province,3,NULL,NULL,NULL,NULL
+Al Qassim,5,NULL,NULL,NULL,NULL
+Aseer Province,14,NULL,NULL,NULL,NULL
+Eastern Province,4,NULL,NULL,NULL,NULL
+Hail Province,6,NULL,NULL,NULL,NULL
+Jazan,9,NULL,NULL,NULL,NULL
+Makkah Province,2,NULL,NULL,NULL,NULL
+Najran,10,NULL,NULL,NULL,NULL
+Northern Borders Province,8,NULL,NULL,NULL,NULL
+Riyadh Province,1,NULL,NULL,NULL,NULL
+Tabuk Province,7,NULL,NULL,NULL,NULL
+Dakar,DK,NULL,NULL,NULL,NULL
+Diourbel Region,DB,NULL,NULL,NULL,NULL
+Fatick Region,FK,NULL,NULL,NULL,NULL
+Kaffrine Region,KA,NULL,NULL,NULL,NULL
+Kaolack Region,KL,NULL,NULL,NULL,NULL
+Kédougou Region,KE,NULL,NULL,NULL,NULL
+Kolda Region,KD,NULL,NULL,NULL,NULL
+Louga Region,LG,NULL,NULL,NULL,NULL
+Matam Region,MT,NULL,NULL,NULL,NULL
+Saint-Louis Region,SL,NULL,NULL,NULL,NULL
+Sédhiou Region,SE,NULL,NULL,NULL,NULL
+Tambacounda Region,TC,NULL,NULL,NULL,NULL
+Thiès Region,TH,NULL,NULL,NULL,NULL
+Ziguinchor,ZG,NULL,NULL,NULL,NULL
+Vojvodina,VO,NULL,NULL,NULL,NULL
+Anse Aux Pins,1,NULL,NULL,NULL,NULL
+Anse Boileau,2,NULL,NULL,NULL,NULL
+Anse Etoile,3,NULL,NULL,NULL,NULL
+Anse Royale,5,NULL,NULL,NULL,NULL
+Au Cap,4,NULL,NULL,NULL,NULL
+Baie Lazare,6,NULL,NULL,NULL,NULL
+Baie Sainte Anne,7,NULL,NULL,NULL,NULL
+Beau Vallon,8,NULL,NULL,NULL,NULL
+Bel Air,9,NULL,NULL,NULL,NULL
+Bel Ombre,10,NULL,NULL,NULL,NULL
+Cascade,11,NULL,NULL,NULL,NULL
+Glacis,12,NULL,NULL,NULL,NULL
+Grand Anse Mahe,13,NULL,NULL,NULL,NULL
+Grand Anse Praslin,14,NULL,NULL,NULL,NULL
+La Digue,15,NULL,NULL,NULL,NULL
+La Riviere Anglaise,16,NULL,NULL,NULL,NULL
+Les Mamelles,24,NULL,NULL,NULL,NULL
+Mont Buxton,17,NULL,NULL,NULL,NULL
+Mont Fleuri,18,NULL,NULL,NULL,NULL
+Plaisance,19,NULL,NULL,NULL,NULL
+Pointe La Rue,20,NULL,NULL,NULL,NULL
+Port Glaud,21,NULL,NULL,NULL,NULL
+Roche Caiman,25,NULL,NULL,NULL,NULL
+Saint Louis,22,NULL,NULL,NULL,NULL
+Takamaka,23,NULL,NULL,NULL,NULL
+Eastern Province,E,NULL,NULL,NULL,NULL
+Northern Province,N,NULL,NULL,NULL,NULL
+Southern Province,S,NULL,NULL,NULL,NULL
+Western Area,W,NULL,NULL,NULL,NULL
+Banská Bystrica Region,BC,NULL,NULL,NULL,NULL
+Bratislava Region,BL,NULL,NULL,NULL,NULL
+Košice Region,KI,NULL,NULL,NULL,NULL
+Nitra Region,NI,NULL,NULL,NULL,NULL
+Prešov Region,PV,NULL,NULL,NULL,NULL
+Trenčín Region,TC,NULL,NULL,NULL,NULL
+Trnava Region,TA,NULL,NULL,NULL,NULL
+Žilina Region,ZI,NULL,NULL,NULL,NULL
+Capital Territory,CT,NULL,NULL,NULL,NULL
+Central Province,CE,NULL,NULL,NULL,NULL
+Choiseul Province,CH,NULL,NULL,NULL,NULL
+Guadalcanal Province,GU,NULL,NULL,NULL,NULL
+Isabel Province,IS,NULL,NULL,NULL,NULL
+Makira-Ulawa,MK,NULL,NULL,NULL,NULL
+Malaita Province,ML,NULL,NULL,NULL,NULL
+Rennell and Bellona Province,RB,NULL,NULL,NULL,NULL
+Temotu Province,TE,NULL,NULL,NULL,NULL
+Western Province,WE,NULL,NULL,NULL,NULL
+Awdal,AW,NULL,NULL,NULL,NULL
+Bakool,BK,NULL,NULL,NULL,NULL
+Banaadir,BN,NULL,NULL,NULL,NULL
+Bari,BR,NULL,NULL,NULL,NULL
+Bay,BY,NULL,NULL,NULL,NULL
+Galguduud,GA,NULL,NULL,NULL,NULL
+Gedo,GE,NULL,NULL,NULL,NULL
+Hiran,HI,NULL,NULL,NULL,NULL
+Jubbada Dhexe,JD,NULL,NULL,NULL,NULL
+Jubbada Hoose,JH,NULL,NULL,NULL,NULL
+Mudug,MU,NULL,NULL,NULL,NULL
+Nugaal,NU,NULL,NULL,NULL,NULL
+Sanaag,SA,NULL,NULL,NULL,NULL
+Shabeellaha Dhexe,SD,NULL,NULL,NULL,NULL
+Shabeellaha Hoose,SH,NULL,NULL,NULL,NULL
+Sool,SO,NULL,NULL,NULL,NULL
+Togdheer,TO,NULL,NULL,NULL,NULL
+Woqooyi Galbeed,WO,NULL,NULL,NULL,NULL
+Eastern Cape,EC,NULL,NULL,NULL,NULL
+Free State,FS,NULL,NULL,NULL,NULL
+Gauteng,GT,NULL,NULL,NULL,NULL
+KwaZulu-Natal,NL,NULL,NULL,NULL,NULL
+Limpopo,LP,NULL,NULL,NULL,NULL
+Mpumalanga,MP,NULL,NULL,NULL,NULL
+North West,NW,NULL,NULL,NULL,NULL
+Northern Cape,NC,NULL,NULL,NULL,NULL
+Western Cape,WC,NULL,NULL,NULL,NULL
+Busan,26,NULL,NULL,NULL,NULL
+Chungcheongbuk-do,43,NULL,NULL,NULL,NULL
+Chungcheongnam-do,44,NULL,NULL,NULL,NULL
+Daegu,27,NULL,NULL,NULL,NULL
+Daejeon,30,NULL,NULL,NULL,NULL
+Gangwon-do,42,NULL,NULL,NULL,NULL
+Gwangju,29,NULL,NULL,NULL,NULL
+Gyeonggi-do,41,NULL,NULL,NULL,NULL
+Gyeongsangbuk-do,47,NULL,NULL,NULL,NULL
+Gyeongsangnam-do,48,NULL,NULL,NULL,NULL
+Incheon,28,NULL,NULL,NULL,NULL
+Jeju-do,49,NULL,NULL,NULL,NULL
+Jeollabuk-do,45,NULL,NULL,NULL,NULL
+Jeollanam-do,46,NULL,NULL,NULL,NULL
+Seoul,11,NULL,NULL,NULL,NULL
+Ulsan,31,NULL,NULL,NULL,NULL
+Al Wahdah,UY,NULL,NULL,NULL,NULL
+Al-Buhayrat,LK,NULL,NULL,NULL,NULL
+Central Equatoria,EC,NULL,NULL,NULL,NULL
+Eastern Equatoria,EE,NULL,NULL,NULL,NULL
+Jonglei,JG,NULL,NULL,NULL,NULL
+Northern Bahr el Ghazal,BN,NULL,NULL,NULL,NULL
+Upper Nile,NU,NULL,NULL,NULL,NULL
+Warrap,WR,NULL,NULL,NULL,NULL
+Western Bahr el Ghazal,BW,NULL,NULL,NULL,NULL
+Western Equatoria,EW,NULL,NULL,NULL,NULL
+Andalusia,AN,NULL,NULL,NULL,NULL
+Aragon,AR,NULL,NULL,NULL,NULL
+Asturias,AS,NULL,NULL,NULL,NULL
+Balearic Islands,IB,NULL,NULL,NULL,NULL
+Basque Country,PV,NULL,NULL,NULL,NULL
+Canary Islands,CN,NULL,NULL,NULL,NULL
+Cantabria,CB,NULL,NULL,NULL,NULL
+Castile and León,CL,NULL,NULL,NULL,NULL
+Castile-La Mancha,CM,NULL,NULL,NULL,NULL
+Catalonia,CT,NULL,NULL,NULL,NULL
+Ceuta,CE,NULL,NULL,NULL,NULL
+Community of Madrid,MD,NULL,NULL,NULL,NULL
+Extremadura,EX,NULL,NULL,NULL,NULL
+Galicia,GA,NULL,NULL,NULL,NULL
+La Rioja,RI,NULL,NULL,NULL,NULL
+Melilla,ML,NULL,NULL,NULL,NULL
+Navarre,NC,NULL,NULL,NULL,NULL
+Region of Murcia,MC,NULL,NULL,NULL,NULL
+Valencian Community,VC,NULL,NULL,NULL,NULL
+Central Province,2,NULL,NULL,NULL,NULL
+Eastern Province,5,NULL,NULL,NULL,NULL
+North Central Province,7,NULL,NULL,NULL,NULL
+North Western Province,6,NULL,NULL,NULL,NULL
+Northern Province,4,NULL,NULL,NULL,NULL
+Sabaragamuwa Province,9,NULL,NULL,NULL,NULL
+Southern Province,3,NULL,NULL,NULL,NULL
+Uva Province,8,NULL,NULL,NULL,NULL
+Western Province,1,NULL,NULL,NULL,NULL
+Ascension,AC,NULL,NULL,NULL,NULL
+Saint Helena,HL,NULL,NULL,NULL,NULL
+Tristan da Cunha,TA,NULL,NULL,NULL,NULL
+Christ Church Nichola Town Parish,1,NULL,NULL,NULL,NULL
+Saint Anne Sandy Point Parish,2,NULL,NULL,NULL,NULL
+Saint George Basseterre Parish,3,NULL,NULL,NULL,NULL
+Saint George Gingerland Parish,4,NULL,NULL,NULL,NULL
+Saint James Windward Parish,5,NULL,NULL,NULL,NULL
+Saint John Capisterre,6,NULL,NULL,NULL,NULL
+Saint John Figtree Parish,7,NULL,NULL,NULL,NULL
+Saint Mary Cayon Parish,8,NULL,NULL,NULL,NULL
+Saint Paul Capisterre Parish,9,NULL,NULL,NULL,NULL
+Saint Paul Charlestown Parish,10,NULL,NULL,NULL,NULL
+Saint Peter Basseterre Parish,11,NULL,NULL,NULL,NULL
+Saint Thomas Lowland Parish,12,NULL,NULL,NULL,NULL
+Saint Thomas Middle Island Parish,13,NULL,NULL,NULL,NULL
+Trinity Palmetto Point Parish,15,NULL,NULL,NULL,NULL
+Anse La Raye,1,NULL,NULL,NULL,NULL
+Castries,2,NULL,NULL,NULL,NULL
+Choiseul,3,NULL,NULL,NULL,NULL
+Dauphin,4,NULL,NULL,NULL,NULL
+Dennery,5,NULL,NULL,NULL,NULL
+Gros Islet,6,NULL,NULL,NULL,NULL
+Laborie,7,NULL,NULL,NULL,NULL
+Micoud,8,NULL,NULL,NULL,NULL
+Praslin,9,NULL,NULL,NULL,NULL
+Soufriere,10,NULL,NULL,NULL,NULL
+Vieux Fort,11,NULL,NULL,NULL,NULL
+Charlotte,1,NULL,NULL,NULL,NULL
+Grenadines,6,NULL,NULL,NULL,NULL
+Saint Andrew,2,NULL,NULL,NULL,NULL
+Saint David,3,NULL,NULL,NULL,NULL
+Saint George,4,NULL,NULL,NULL,NULL
+Saint Patrick,5,NULL,NULL,NULL,NULL
+Al Jazirah,GZ,NULL,NULL,NULL,NULL
+Al Qadarif,GD,NULL,NULL,NULL,NULL
+Blue Nile,NB,NULL,NULL,NULL,NULL
+Gharb Darfur,DW,NULL,NULL,NULL,NULL
+Janub Darfur,DS,NULL,NULL,NULL,NULL
+Kassala,KA,NULL,NULL,NULL,NULL
+Khartoum,KH,NULL,NULL,NULL,NULL
+North Kurdufan,KN,NULL,NULL,NULL,NULL
+Northern,NO,NULL,NULL,NULL,NULL
+Red Sea,RS,NULL,NULL,NULL,NULL
+River Nile,NR,NULL,NULL,NULL,NULL
+Sennar,SI,NULL,NULL,NULL,NULL
+Shamal Darfur,DN,NULL,NULL,NULL,NULL
+South Kordofan,KS,NULL,NULL,NULL,NULL
+White Nile,NW,NULL,NULL,NULL,NULL
+Brokopondo,BR,NULL,NULL,NULL,NULL
+Commewijne,CM,NULL,NULL,NULL,NULL
+Coronie,CR,NULL,NULL,NULL,NULL
+Marowijne,MA,NULL,NULL,NULL,NULL
+Nickerie District,NI,NULL,NULL,NULL,NULL
+Para,PR,NULL,NULL,NULL,NULL
+Paramaribo District,PM,NULL,NULL,NULL,NULL
+Saramacca,SA,NULL,NULL,NULL,NULL
+Sipaliwini,SI,NULL,NULL,NULL,NULL
+Wanica,WA,NULL,NULL,NULL,NULL
+Blekinge County,K,NULL,NULL,NULL,NULL
+Dalarna County,W,NULL,NULL,NULL,NULL
+Gavleborg County,X,NULL,NULL,NULL,NULL
+Gotland County,I,NULL,NULL,NULL,NULL
+Halland County,N,NULL,NULL,NULL,NULL
+Jamtland County,Z,NULL,NULL,NULL,NULL
+Jonkoping County,F,NULL,NULL,NULL,NULL
+Kalmar County,H,NULL,NULL,NULL,NULL
+Kronoberg County,G,NULL,NULL,NULL,NULL
+Norrbotten County,BD,NULL,NULL,NULL,NULL
+Örebro County,T,NULL,NULL,NULL,NULL
+Östergötland County,E,NULL,NULL,NULL,NULL
+Skåne County,M,NULL,NULL,NULL,NULL
+Södermanland County,D,NULL,NULL,NULL,NULL
+Stockholm County,AB,NULL,NULL,NULL,NULL
+Uppsala County,C,NULL,NULL,NULL,NULL
+Varmland County,S,NULL,NULL,NULL,NULL
+Västerbotten County,AC,NULL,NULL,NULL,NULL
+Västernorrland County,Y,NULL,NULL,NULL,NULL
+Västmanland County,U,NULL,NULL,NULL,NULL
+Västra Götaland County,O,NULL,NULL,NULL,NULL
+Aargau,AG,NULL,NULL,NULL,NULL
+Appenzell Innerrhoden,AI,NULL,NULL,NULL,NULL
+Appenzell Outer Rhodes,AR,NULL,NULL,NULL,NULL
+Basel-Landschaft,BL,NULL,NULL,NULL,NULL
+Basel-Stadt,BS,NULL,NULL,NULL,NULL
+Canton of Bern,BE,NULL,NULL,NULL,NULL
+Canton of Fribourg,FR,NULL,NULL,NULL,NULL
+Canton of Glarus,GL,NULL,NULL,NULL,NULL
+Canton of Jura,JU,NULL,NULL,NULL,NULL
+Canton of Neuchâtel,NE,NULL,NULL,NULL,NULL
+Canton of Obwalden,OW,NULL,NULL,NULL,NULL
+Canton of Schaffhausen,SH,NULL,NULL,NULL,NULL
+Canton of Schwyz,SZ,NULL,NULL,NULL,NULL
+Canton of Solothurn,SO,NULL,NULL,NULL,NULL
+Canton of Uri,UR,NULL,NULL,NULL,NULL
+Canton of Zug,ZG,NULL,NULL,NULL,NULL
+Geneva,GE,NULL,NULL,NULL,NULL
+Grisons,GR,NULL,NULL,NULL,NULL
+Lucerne,LU,NULL,NULL,NULL,NULL
+Nidwalden,NW,NULL,NULL,NULL,NULL
+St. Gallen,SG,NULL,NULL,NULL,NULL
+Thurgau,TG,NULL,NULL,NULL,NULL
+Ticino,TI,NULL,NULL,NULL,NULL
+Valais,VS,NULL,NULL,NULL,NULL
+Vaud,VD,NULL,NULL,NULL,NULL
+Zurich,ZH,NULL,NULL,NULL,NULL
+Al Hasakah,HA,NULL,NULL,NULL,NULL
+Aleppo Governorate,HL,NULL,NULL,NULL,NULL
+Ar-Raqqah Governorate,RA,NULL,NULL,NULL,NULL
+As-Suwayda Governorate,SU,NULL,NULL,NULL,NULL
+Damascus Governorate,DI,NULL,NULL,NULL,NULL
+Daraa Governorate,DR,NULL,NULL,NULL,NULL
+Deir Ez-Zor Governorate,DY,NULL,NULL,NULL,NULL
+Hama Governorate,HM,NULL,NULL,NULL,NULL
+Homs Governorate,HI,NULL,NULL,NULL,NULL
+Idlib Governorate,ID,NULL,NULL,NULL,NULL
+Latakia Governorate,LA,NULL,NULL,NULL,NULL
+Quneitra Governorate,QU,NULL,NULL,NULL,NULL
+Rif-Dimashq Governorate,RD,NULL,NULL,NULL,NULL
+Tartus Governorate,TA,NULL,NULL,NULL,NULL
+Kaohsiung City,KHH,NULL,NULL,NULL,NULL
+New Taipei City,TPQ,NULL,NULL,NULL,NULL
+Taichung City,TXG,NULL,NULL,NULL,NULL
+Tainan City,TNN,NULL,NULL,NULL,NULL
+Taipei City,TPE,NULL,NULL,NULL,NULL
+Taoyuan City,TAO,NULL,NULL,NULL,NULL
+Districts of Republican Subordination,RR,NULL,NULL,NULL,NULL
+Gorno-Badakhshan Autonomous Province,GB,NULL,NULL,NULL,NULL
+Khatlon,KT,NULL,NULL,NULL,NULL
+Sughd Province,SU,NULL,NULL,NULL,NULL
+Arusha,1,NULL,NULL,NULL,NULL
+Dodoma,3,NULL,NULL,NULL,NULL
+Iringa,4,NULL,NULL,NULL,NULL
+Kagera,5,NULL,NULL,NULL,NULL
+Kigoma,8,NULL,NULL,NULL,NULL
+Kilimanjaro,9,NULL,NULL,NULL,NULL
+Lindi,12,NULL,NULL,NULL,NULL
+Manyara,26,NULL,NULL,NULL,NULL
+Mara,13,NULL,NULL,NULL,NULL
+Mbeya,14,NULL,NULL,NULL,NULL
+Morogoro,16,NULL,NULL,NULL,NULL
+Mtwara,17,NULL,NULL,NULL,NULL
+Mwanza,18,NULL,NULL,NULL,NULL
+Pemba North,6,NULL,NULL,NULL,NULL
+Pemba South,10,NULL,NULL,NULL,NULL
+Pwani,19,NULL,NULL,NULL,NULL
+Rukwa,20,NULL,NULL,NULL,NULL
+Ruvuma,21,NULL,NULL,NULL,NULL
+Shinyanga,22,NULL,NULL,NULL,NULL
+Singida,23,NULL,NULL,NULL,NULL
+Tabora,24,NULL,NULL,NULL,NULL
+Tanga,25,NULL,NULL,NULL,NULL
+Zanzibar Central/South,11,NULL,NULL,NULL,NULL
+Zanzibar North,7,NULL,NULL,NULL,NULL
+Zanzibar Urban/West,15,NULL,NULL,NULL,NULL
+Amnat Charoen,37,NULL,NULL,NULL,NULL
+Ang Thong,15,NULL,NULL,NULL,NULL
+Bangkok,10,NULL,NULL,NULL,NULL
+Bueng Kan,38,NULL,NULL,NULL,NULL
+Buri Ram,31,NULL,NULL,NULL,NULL
+Chachoengsao,24,NULL,NULL,NULL,NULL
+Chai Nat,18,NULL,NULL,NULL,NULL
+Chaiyaphum,36,NULL,NULL,NULL,NULL
+Chanthaburi,22,NULL,NULL,NULL,NULL
+Chiang Mai,50,NULL,NULL,NULL,NULL
+Chiang Rai,57,NULL,NULL,NULL,NULL
+Chon Buri,20,NULL,NULL,NULL,NULL
+Chumphon,86,NULL,NULL,NULL,NULL
+Kalasin,46,NULL,NULL,NULL,NULL
+Kamphaeng Phet,62,NULL,NULL,NULL,NULL
+Kanchanaburi,71,NULL,NULL,NULL,NULL
+Khon Kaen,40,NULL,NULL,NULL,NULL
+Krabi,81,NULL,NULL,NULL,NULL
+Lampang,52,NULL,NULL,NULL,NULL
+Lamphun,51,NULL,NULL,NULL,NULL
+Loei,42,NULL,NULL,NULL,NULL
+Lopburi,16,NULL,NULL,NULL,NULL
+Mae Hong Son,58,NULL,NULL,NULL,NULL
+Maha Sarakham,44,NULL,NULL,NULL,NULL
+Mukdahan,49,NULL,NULL,NULL,NULL
+Nakhon Nayok,26,NULL,NULL,NULL,NULL
+Nakhon Pathom,73,NULL,NULL,NULL,NULL
+Nakhon Phanom,48,NULL,NULL,NULL,NULL
+Nakhon Ratchasima,30,NULL,NULL,NULL,NULL
+Nakhon Sawan,60,NULL,NULL,NULL,NULL
+Nakhon Si Thammarat,80,NULL,NULL,NULL,NULL
+Nan,55,NULL,NULL,NULL,NULL
+Narathiwat,96,NULL,NULL,NULL,NULL
+Nong Bua Lam Phu,39,NULL,NULL,NULL,NULL
+Nong Khai,43,NULL,NULL,NULL,NULL
+Nonthaburi,12,NULL,NULL,NULL,NULL
+Pathum Thani,13,NULL,NULL,NULL,NULL
+Pattani,94,NULL,NULL,NULL,NULL
+Phang-nga,82,NULL,NULL,NULL,NULL
+Phatthalung,93,NULL,NULL,NULL,NULL
+Phayao,56,NULL,NULL,NULL,NULL
+Phetchabun,67,NULL,NULL,NULL,NULL
+Phetchaburi,76,NULL,NULL,NULL,NULL
+Phichit,66,NULL,NULL,NULL,NULL
+Phitsanulok,65,NULL,NULL,NULL,NULL
+Phra Nakhon Si Ayutthaya,14,NULL,NULL,NULL,NULL
+Phrae,54,NULL,NULL,NULL,NULL
+Phuket,83,NULL,NULL,NULL,NULL
+Prachin Buri,25,NULL,NULL,NULL,NULL
+Prachuap Khiri Khan,77,NULL,NULL,NULL,NULL
+Ranong,85,NULL,NULL,NULL,NULL
+Ratchaburi,70,NULL,NULL,NULL,NULL
+Rayong,21,NULL,NULL,NULL,NULL
+Roi Et,45,NULL,NULL,NULL,NULL
+Sa Kaeo,27,NULL,NULL,NULL,NULL
+Sakon Nakhon,47,NULL,NULL,NULL,NULL
+Samut Prakan,11,NULL,NULL,NULL,NULL
+Samut Sakhon,74,NULL,NULL,NULL,NULL
+Samut Songkhram,75,NULL,NULL,NULL,NULL
+Saraburi,19,NULL,NULL,NULL,NULL
+Satun,91,NULL,NULL,NULL,NULL
+Si Sa Ket,33,NULL,NULL,NULL,NULL
+Sing Buri,17,NULL,NULL,NULL,NULL
+Songkhla,90,NULL,NULL,NULL,NULL
+Sukhothai,64,NULL,NULL,NULL,NULL
+Suphan Buri,72,NULL,NULL,NULL,NULL
+Surat Thani,84,NULL,NULL,NULL,NULL
+Surin,32,NULL,NULL,NULL,NULL
+Tak,63,NULL,NULL,NULL,NULL
+Trang,92,NULL,NULL,NULL,NULL
+Trat,23,NULL,NULL,NULL,NULL
+Ubon Ratchathani,34,NULL,NULL,NULL,NULL
+Udon Thani,41,NULL,NULL,NULL,NULL
+Uthai Thani,61,NULL,NULL,NULL,NULL
+Uttaradit,53,NULL,NULL,NULL,NULL
+Yala,95,NULL,NULL,NULL,NULL
+Yasothon,35,NULL,NULL,NULL,NULL
+Aileu,AL,NULL,NULL,NULL,NULL
+Ainaro,AN,NULL,NULL,NULL,NULL
+Baucau,BA,NULL,NULL,NULL,NULL
+Bobonaro,BO,NULL,NULL,NULL,NULL
+Cova-Lima,CO,NULL,NULL,NULL,NULL
+Dili,DI,NULL,NULL,NULL,NULL
+Ermera,ER,NULL,NULL,NULL,NULL
+Lautem,LA,NULL,NULL,NULL,NULL
+Liquica,LI,NULL,NULL,NULL,NULL
+Manatuto,MT,NULL,NULL,NULL,NULL
+Manufahi,MF,NULL,NULL,NULL,NULL
+Oecussi-Ambeno,OE,NULL,NULL,NULL,NULL
+Viqueque,VI,NULL,NULL,NULL,NULL
+Centrale,C,NULL,NULL,NULL,NULL
+Kara,K,NULL,NULL,NULL,NULL
+Maritime,M,NULL,NULL,NULL,NULL
+Plateaux,P,NULL,NULL,NULL,NULL
+Savanes,S,NULL,NULL,NULL,NULL
+'Eua,1,NULL,NULL,NULL,NULL
+Ha'apai,2,NULL,NULL,NULL,NULL
+Niuas,3,NULL,NULL,NULL,NULL
+Tongatapu,4,NULL,NULL,NULL,NULL
+Vava'u,5,NULL,NULL,NULL,NULL
+Arima,ARI,NULL,NULL,NULL,NULL
+Chaguanas,CHA,NULL,NULL,NULL,NULL
+Couva-Tabaquite-Talparo,CTT,NULL,NULL,NULL,NULL
+Diego Martin,DMN,NULL,NULL,NULL,NULL
+Eastern Tobago,ETO,NULL,NULL,NULL,NULL
+Penal-Debe,PED,NULL,NULL,NULL,NULL
+Point Fortin,PTF,NULL,NULL,NULL,NULL
+Port of Spain,POS,NULL,NULL,NULL,NULL
+Princes Town,PRT,NULL,NULL,NULL,NULL
+Rio Claro-Mayaro,RCM,NULL,NULL,NULL,NULL
+San Fernando,SFO,NULL,NULL,NULL,NULL
+San Juan-Laventille,SJL,NULL,NULL,NULL,NULL
+Sangre Grande,SGE,NULL,NULL,NULL,NULL
+Siparia,SIP,NULL,NULL,NULL,NULL
+Tunapuna-Piarco,TUP,NULL,NULL,NULL,NULL
+Western Tobago,WTO,NULL,NULL,NULL,NULL
+Ariana,12,NULL,NULL,NULL,NULL
+Beja,31,NULL,NULL,NULL,NULL
+Ben Arous,13,NULL,NULL,NULL,NULL
+Bizerte,23,NULL,NULL,NULL,NULL
+Gabes,81,NULL,NULL,NULL,NULL
+Gafsa,71,NULL,NULL,NULL,NULL
+Jendouba,32,NULL,NULL,NULL,NULL
+Kairouan,41,NULL,NULL,NULL,NULL
+Kasserine,42,NULL,NULL,NULL,NULL
+Kebili,73,NULL,NULL,NULL,NULL
+Kef,33,NULL,NULL,NULL,NULL
+La Manouba,14,NULL,NULL,NULL,NULL
+Mahdia,53,NULL,NULL,NULL,NULL
+Medenine,82,NULL,NULL,NULL,NULL
+Monastir,52,NULL,NULL,NULL,NULL
+Nabeul,21,NULL,NULL,NULL,NULL
+Sfax,61,NULL,NULL,NULL,NULL
+Sidi Bou Zid,43,NULL,NULL,NULL,NULL
+Siliana,34,NULL,NULL,NULL,NULL
+Sousse,51,NULL,NULL,NULL,NULL
+Tataouine,83,NULL,NULL,NULL,NULL
+Tozeur,72,NULL,NULL,NULL,NULL
+Tunis,11,NULL,NULL,NULL,NULL
+Zaghouan,22,NULL,NULL,NULL,NULL
+Adana,1,NULL,NULL,NULL,NULL
+Adıyaman Province,2,NULL,NULL,NULL,NULL
+Afyonkarahisar Province,3,NULL,NULL,NULL,NULL
+Ağrı,4,NULL,NULL,NULL,NULL
+Aksaray,68,NULL,NULL,NULL,NULL
+Amasya Province,5,NULL,NULL,NULL,NULL
+Ankara,6,NULL,NULL,NULL,NULL
+Antalya,7,NULL,NULL,NULL,NULL
+Ardahan Province,75,NULL,NULL,NULL,NULL
+Artvin,8,NULL,NULL,NULL,NULL
+Aydın Province,9,NULL,NULL,NULL,NULL
+Balıkesir Province,10,NULL,NULL,NULL,NULL
+Bartın Province,74,NULL,NULL,NULL,NULL
+Batman,72,NULL,NULL,NULL,NULL
+Bayburt,69,NULL,NULL,NULL,NULL
+Bilecik,11,NULL,NULL,NULL,NULL
+Bingöl Province,12,NULL,NULL,NULL,NULL
+Bitlis,13,NULL,NULL,NULL,NULL
+Bolu,14,NULL,NULL,NULL,NULL
+Burdur Province,15,NULL,NULL,NULL,NULL
+Bursa,16,NULL,NULL,NULL,NULL
+Çanakkale Province,17,NULL,NULL,NULL,NULL
+Çankırı,18,NULL,NULL,NULL,NULL
+Çorum Province,19,NULL,NULL,NULL,NULL
+Denizli,20,NULL,NULL,NULL,NULL
+Diyarbakır,21,NULL,NULL,NULL,NULL
+Düzce Province,81,NULL,NULL,NULL,NULL
+Edirne,22,NULL,NULL,NULL,NULL
+Elazığ,23,NULL,NULL,NULL,NULL
+Erzincan,24,NULL,NULL,NULL,NULL
+Erzurum,25,NULL,NULL,NULL,NULL
+Eskişehir Province,26,NULL,NULL,NULL,NULL
+Gaziantep,27,NULL,NULL,NULL,NULL
+Giresun,28,NULL,NULL,NULL,NULL
+Gümüşhane,29,NULL,NULL,NULL,NULL
+Hakkâri,30,NULL,NULL,NULL,NULL
+Hatay,31,NULL,NULL,NULL,NULL
+Iğdır,76,NULL,NULL,NULL,NULL
+Isparta Province,32,NULL,NULL,NULL,NULL
+İstanbul,34,NULL,NULL,NULL,NULL
+İzmir,35,NULL,NULL,NULL,NULL
+Kahramanmaraş Province,46,NULL,NULL,NULL,NULL
+Karabük,78,NULL,NULL,NULL,NULL
+Karaman,70,NULL,NULL,NULL,NULL
+Kars,36,NULL,NULL,NULL,NULL
+Kastamonu,37,NULL,NULL,NULL,NULL
+Kayseri Province,38,NULL,NULL,NULL,NULL
+Kilis,79,NULL,NULL,NULL,NULL
+Kırıkkale,71,NULL,NULL,NULL,NULL
+Kırklareli,39,NULL,NULL,NULL,NULL
+Kırşehir,40,NULL,NULL,NULL,NULL
+Kocaeli,41,NULL,NULL,NULL,NULL
+Konya,42,NULL,NULL,NULL,NULL
+Kütahya,43,NULL,NULL,NULL,NULL
+Malatya,44,NULL,NULL,NULL,NULL
+Manisa,45,NULL,NULL,NULL,NULL
+Mardin,47,NULL,NULL,NULL,NULL
+Mersin Province,33,NULL,NULL,NULL,NULL
+Muğla Province,48,NULL,NULL,NULL,NULL
+Muş,49,NULL,NULL,NULL,NULL
+Nevşehir,50,NULL,NULL,NULL,NULL
+Niğde,51,NULL,NULL,NULL,NULL
+Ordu,52,NULL,NULL,NULL,NULL
+Osmaniye,80,NULL,NULL,NULL,NULL
+Rize,53,NULL,NULL,NULL,NULL
+Sakarya,54,NULL,NULL,NULL,NULL
+Samsun,55,NULL,NULL,NULL,NULL
+Şanlıurfa Province,63,NULL,NULL,NULL,NULL
+Siirt Province,56,NULL,NULL,NULL,NULL
+Sinop Province,57,NULL,NULL,NULL,NULL
+Sivas,58,NULL,NULL,NULL,NULL
+Şırnak,73,NULL,NULL,NULL,NULL
+Tekirdağ,59,NULL,NULL,NULL,NULL
+Tokat,60,NULL,NULL,NULL,NULL
+Trabzon,61,NULL,NULL,NULL,NULL
+Tunceli,62,NULL,NULL,NULL,NULL
+Uşak,64,NULL,NULL,NULL,NULL
+Van,65,NULL,NULL,NULL,NULL
+Yalova Province,77,NULL,NULL,NULL,NULL
+Yozgat,66,NULL,NULL,NULL,NULL
+Zonguldak,67,NULL,NULL,NULL,NULL
+Ahal,A,NULL,NULL,NULL,NULL
+Ashgabat,S,NULL,NULL,NULL,NULL
+Balkan,B,NULL,NULL,NULL,NULL
+Dashoguz Province,D,NULL,NULL,NULL,NULL
+Lebap,L,NULL,NULL,NULL,NULL
+Mary,M,NULL,NULL,NULL,NULL
+Funafuti,FUN,NULL,NULL,NULL,NULL
+Nanumanga,NMG,NULL,NULL,NULL,NULL
+Nanumea,NMA,NULL,NULL,NULL,NULL
+Niutao,NIT,NULL,NULL,NULL,NULL
+Nui,NIU,NULL,NULL,NULL,NULL
+Nukufetau,NKF,NULL,NULL,NULL,NULL
+Nukulaelae,NKL,NULL,NULL,NULL,NULL
+Vaitupu,VAI,NULL,NULL,NULL,NULL
+Central Region,C,NULL,NULL,NULL,NULL
+Eastern Region,E,NULL,NULL,NULL,NULL
+Northern Region,N,NULL,NULL,NULL,NULL
+Western Region,W,NULL,NULL,NULL,NULL
+Cherkas'ka oblast,71,NULL,NULL,NULL,NULL
+Chernihivs'ka oblast,74,NULL,NULL,NULL,NULL
+Chernivets'ka oblast,77,NULL,NULL,NULL,NULL
+Crimea,43,NULL,NULL,NULL,NULL
+Dnipropetrovsk Oblast,12,NULL,NULL,NULL,NULL
+Donetsk Oblast,14,NULL,NULL,NULL,NULL
+Ivano-Frankivs'ka oblast,26,NULL,NULL,NULL,NULL
+Kharkiv Oblast,63,NULL,NULL,NULL,NULL
+Khersons'ka oblast,65,NULL,NULL,NULL,NULL
+Khmel'nyts'ka oblast,68,NULL,NULL,NULL,NULL
+Kirovohrads'ka oblast,35,NULL,NULL,NULL,NULL
+Kyiv city,30,NULL,NULL,NULL,NULL
+Kyivs'ka oblast,32,NULL,NULL,NULL,NULL
+Luhans'ka oblast,9,NULL,NULL,NULL,NULL
+Lviv Oblast,46,NULL,NULL,NULL,NULL
+Mykolaivs'ka oblast,48,NULL,NULL,NULL,NULL
+Odessa Oblast,51,NULL,NULL,NULL,NULL
+Poltavs'ka oblast,53,NULL,NULL,NULL,NULL
+Rivnens'ka oblast,56,NULL,NULL,NULL,NULL
+Sevastopol' city,40,NULL,NULL,NULL,NULL
+Sums'ka oblast,59,NULL,NULL,NULL,NULL
+Ternopil's'ka oblast,61,NULL,NULL,NULL,NULL
+Vinnyts'ka oblast,5,NULL,NULL,NULL,NULL
+Volyns'ka oblast,7,NULL,NULL,NULL,NULL
+Zakarpats'ka oblast,21,NULL,NULL,NULL,NULL
+Zaporiz'ka oblast,23,NULL,NULL,NULL,NULL
+Zhytomyrs'ka oblast,18,NULL,NULL,NULL,NULL
+Abu Dhabi,AZ,NULL,NULL,NULL,NULL
+Ajman,AJ,NULL,NULL,NULL,NULL
+Dubai,DU,NULL,NULL,NULL,NULL
+Fujairah,FU,NULL,NULL,NULL,NULL
+Ras al Khaimah,RK,NULL,NULL,NULL,NULL
+Sharjah,SH,NULL,NULL,NULL,NULL
+Umm Al Quwain,UQ,NULL,NULL,NULL,NULL
+England,ENG,NULL,NULL,NULL,NULL
+Northern Ireland,NIR,NULL,NULL,NULL,NULL
+Scotland,SCT,NULL,NULL,NULL,NULL
+Wales,WLS,NULL,NULL,NULL,NULL
+Alabama,AL,NULL,NULL,NULL,NULL
+Alaska,AK,NULL,NULL,NULL,NULL
+Arizona,AZ,NULL,NULL,NULL,NULL
+Arkansas,AR,NULL,NULL,NULL,NULL
+California,CA,NULL,NULL,NULL,NULL
+Colorado,CO,NULL,NULL,NULL,NULL
+Connecticut,CT,NULL,NULL,NULL,NULL
+Delaware,DE,NULL,NULL,NULL,NULL
+District of Columbia,DC,NULL,NULL,NULL,NULL
+Florida,FL,NULL,NULL,NULL,NULL
+Georgia,GA,NULL,NULL,NULL,NULL
+Hawaii,HI,NULL,NULL,NULL,NULL
+Idaho,ID,NULL,NULL,NULL,NULL
+Illinois,IL,NULL,NULL,NULL,NULL
+Indiana,IN,NULL,NULL,NULL,NULL
+Iowa,IA,NULL,NULL,NULL,NULL
+Kansas,KS,NULL,NULL,NULL,NULL
+Kentucky,KY,NULL,NULL,NULL,NULL
+Louisiana,LA,NULL,NULL,NULL,NULL
+Maine,ME,NULL,NULL,NULL,NULL
+Maryland,MD,NULL,NULL,NULL,NULL
+Massachusetts,MA,NULL,NULL,NULL,NULL
+Michigan,MI,NULL,NULL,NULL,NULL
+Minnesota,MN,NULL,NULL,NULL,NULL
+Mississippi,MS,NULL,NULL,NULL,NULL
+Missouri,MO,NULL,NULL,NULL,NULL
+Montana,MT,NULL,NULL,NULL,NULL
+Nebraska,NE,NULL,NULL,NULL,NULL
+Nevada,NV,NULL,NULL,NULL,NULL
+New Hampshire,NH,NULL,NULL,NULL,NULL
+New Jersey,NJ,NULL,NULL,NULL,NULL
+New Mexico,NM,NULL,NULL,NULL,NULL
+New York,NY,NULL,NULL,NULL,NULL
+North Carolina,NC,NULL,NULL,NULL,NULL
+North Dakota,ND,NULL,NULL,NULL,NULL
+Ohio,OH,NULL,NULL,NULL,NULL
+Oklahoma,OK,NULL,NULL,NULL,NULL
+Oregon,OR,NULL,NULL,NULL,NULL
+Pennsylvania,PA,NULL,NULL,NULL,NULL
+Rhode Island,RI,NULL,NULL,NULL,NULL
+South Carolina,SC,NULL,NULL,NULL,NULL
+South Dakota,SD,NULL,NULL,NULL,NULL
+Tennessee,TN,NULL,NULL,NULL,NULL
+Texas,TX,NULL,NULL,NULL,NULL
+Utah,UT,NULL,NULL,NULL,NULL
+Vermont,VT,NULL,NULL,NULL,NULL
+Virginia,VA,NULL,NULL,NULL,NULL
+Washington,WA,NULL,NULL,NULL,NULL
+West Virginia,WV,NULL,NULL,NULL,NULL
+Wisconsin,WI,NULL,NULL,NULL,NULL
+Wyoming,WY,NULL,NULL,NULL,NULL
+Artigas Department,AR,NULL,NULL,NULL,NULL
+Canelones Department,CA,NULL,NULL,NULL,NULL
+Cerro Largo Department,CL,NULL,NULL,NULL,NULL
+Colonia,CO,NULL,NULL,NULL,NULL
+Durazno Department,DU,NULL,NULL,NULL,NULL
+Flores Department,FS,NULL,NULL,NULL,NULL
+Florida Department,FD,NULL,NULL,NULL,NULL
+Lavalleja Department,LA,NULL,NULL,NULL,NULL
+Maldonado Department,MA,NULL,NULL,NULL,NULL
+Montevideo Department,MO,NULL,NULL,NULL,NULL
+Paysandú Department,PA,NULL,NULL,NULL,NULL
+Río Negro Department,RN,NULL,NULL,NULL,NULL
+Rivera Department,RV,NULL,NULL,NULL,NULL
+Rocha Department,RO,NULL,NULL,NULL,NULL
+Salto,SA,NULL,NULL,NULL,NULL
+San José Department,SJ,NULL,NULL,NULL,NULL
+Soriano Department,SO,NULL,NULL,NULL,NULL
+Tacuarembó Department,TA,NULL,NULL,NULL,NULL
+Treinta y Tres Department,TT,NULL,NULL,NULL,NULL
+Andijan Province,AN,NULL,NULL,NULL,NULL
+Bukhara Province,BU,NULL,NULL,NULL,NULL
+Ferghana Province,FA,NULL,NULL,NULL,NULL
+Jizzakh Province,JI,NULL,NULL,NULL,NULL
+Kashkadarya Province,QA,NULL,NULL,NULL,NULL
+Khorezm Province,XO,NULL,NULL,NULL,NULL
+Namangan Province,NG,NULL,NULL,NULL,NULL
+Navoiy Province,NW,NULL,NULL,NULL,NULL
+Republic of Karakalpakstan,QR,NULL,NULL,NULL,NULL
+Samarkand Province,SA,NULL,NULL,NULL,NULL
+Sirdarya Province,SI,NULL,NULL,NULL,NULL
+Surkhandarya Province,SU,NULL,NULL,NULL,NULL
+Tashkent Province,TO,NULL,NULL,NULL,NULL
+Malampa Province,MAP,NULL,NULL,NULL,NULL
+Penama Province,PAM,NULL,NULL,NULL,NULL
+Sanma Province,SAM,NULL,NULL,NULL,NULL
+Shefa Province,SEE,NULL,NULL,NULL,NULL
+Tafea Province,TAE,NULL,NULL,NULL,NULL
+Torba Province,TOB,NULL,NULL,NULL,NULL
+Amazonas,Z,NULL,NULL,NULL,NULL
+Anzoategui,B,NULL,NULL,NULL,NULL
+Apure,C,NULL,NULL,NULL,NULL
+Aragua,D,NULL,NULL,NULL,NULL
+Barinas,E,NULL,NULL,NULL,NULL
+Bolívar,F,NULL,NULL,NULL,NULL
+Capital District,A,NULL,NULL,NULL,NULL
+Carabobo,G,NULL,NULL,NULL,NULL
+Cojedes,H,NULL,NULL,NULL,NULL
+Delta Amacuro,Y,NULL,NULL,NULL,NULL
+Falcón,I,NULL,NULL,NULL,NULL
+Federal Dependencies,W,NULL,NULL,NULL,NULL
+Guárico,J,NULL,NULL,NULL,NULL
+Lara,K,NULL,NULL,NULL,NULL
+Mérida,L,NULL,NULL,NULL,NULL
+Miranda,M,NULL,NULL,NULL,NULL
+Monagas,N,NULL,NULL,NULL,NULL
+Nueva Esparta,O,NULL,NULL,NULL,NULL
+Portuguesa,P,NULL,NULL,NULL,NULL
+Sucre,R,NULL,NULL,NULL,NULL
+Táchira,S,NULL,NULL,NULL,NULL
+Trujillo,T,NULL,NULL,NULL,NULL
+Vargas,X,NULL,NULL,NULL,NULL
+Yaracuy,U,NULL,NULL,NULL,NULL
+Zulia,V,NULL,NULL,NULL,NULL
+An Giang Province,44,NULL,NULL,NULL,NULL
+Ba Ria - Vung Tau,43,NULL,NULL,NULL,NULL
+Bac Giang,54,NULL,NULL,NULL,NULL
+Bắc Kạn Province,53,NULL,NULL,NULL,NULL
+Bac Lieu,55,NULL,NULL,NULL,NULL
+Bac Ninh Province,56,NULL,NULL,NULL,NULL
+Ben Tre,50,NULL,NULL,NULL,NULL
+Binh Dinh Province,31,NULL,NULL,NULL,NULL
+Binh Duong,57,NULL,NULL,NULL,NULL
+Binh Phuoc,58,NULL,NULL,NULL,NULL
+Binh Thuan,40,NULL,NULL,NULL,NULL
+Ca Mau,59,NULL,NULL,NULL,NULL
+Can Tho,CT,NULL,NULL,NULL,NULL
+Cao Bang,4,NULL,NULL,NULL,NULL
+Da Nang,DN,NULL,NULL,NULL,NULL
+Đắk Lắk Province,33,NULL,NULL,NULL,NULL
+Dak Nong,72,NULL,NULL,NULL,NULL
+Dien Bien,71,NULL,NULL,NULL,NULL
+Dong Nai,39,NULL,NULL,NULL,NULL
+Đồng Tháp Province,45,NULL,NULL,NULL,NULL
+Gia Lai Province,30,NULL,NULL,NULL,NULL
+Ha Giang,3,NULL,NULL,NULL,NULL
+Hà Nam Province,63,NULL,NULL,NULL,NULL
+Ha Tinh Province,23,NULL,NULL,NULL,NULL
+Hai Duong,61,NULL,NULL,NULL,NULL
+Haiphong,HP,NULL,NULL,NULL,NULL
+Hanoi,HN,NULL,NULL,NULL,NULL
+Hau Giang,73,NULL,NULL,NULL,NULL
+Ho Chi Minh,SG,NULL,NULL,NULL,NULL
+Hoa Binh,14,NULL,NULL,NULL,NULL
+Hung Yen Province,66,NULL,NULL,NULL,NULL
+Khanh Hoa Province,34,NULL,NULL,NULL,NULL
+Kien Giang,47,NULL,NULL,NULL,NULL
+Kon Tum Province,28,NULL,NULL,NULL,NULL
+Lai Chau,1,NULL,NULL,NULL,NULL
+Lâm Đồng,35,NULL,NULL,NULL,NULL
+Lang Son Province,9,NULL,NULL,NULL,NULL
+Lao Cai,2,NULL,NULL,NULL,NULL
+Long An Province,41,NULL,NULL,NULL,NULL
+Nam Dinh,67,NULL,NULL,NULL,NULL
+Nghe An,22,NULL,NULL,NULL,NULL
+Ninh Bình Province,18,NULL,NULL,NULL,NULL
+Ninh Thuan Province,36,NULL,NULL,NULL,NULL
+Phu Tho Province,68,NULL,NULL,NULL,NULL
+Phú Yên Province,32,NULL,NULL,NULL,NULL
+Quang Binh Province,24,NULL,NULL,NULL,NULL
+Quang Nam Province,27,NULL,NULL,NULL,NULL
+Quang Ngai,29,NULL,NULL,NULL,NULL
+Quảng Ninh Province,13,NULL,NULL,NULL,NULL
+Quảng Trị Province,25,NULL,NULL,NULL,NULL
+Soc Trang,52,NULL,NULL,NULL,NULL
+Son La,5,NULL,NULL,NULL,NULL
+Tây Ninh Province,37,NULL,NULL,NULL,NULL
+Thai Binh,20,NULL,NULL,NULL,NULL
+Thai Nguyen,69,NULL,NULL,NULL,NULL
+Thanh Hoa,21,NULL,NULL,NULL,NULL
+Thua Thien Hue,26,NULL,NULL,NULL,NULL
+Tien Giang,46,NULL,NULL,NULL,NULL
+Tra Vinh,51,NULL,NULL,NULL,NULL
+Tuyên Quang Province,7,NULL,NULL,NULL,NULL
+Vinh Long,49,NULL,NULL,NULL,NULL
+Vinh Phuc Province,70,NULL,NULL,NULL,NULL
+Yen Bai Province,6,NULL,NULL,NULL,NULL
+Alo,ALO,NULL,NULL,NULL,NULL
+'Amran,AM,NULL,NULL,NULL,NULL
+Abyan,AB,NULL,NULL,NULL,NULL
+Ad Dali',DA,NULL,NULL,NULL,NULL
+Aden,AD,NULL,NULL,NULL,NULL
+Al Bayda',BA,NULL,NULL,NULL,NULL
+Al Hudaydah,HU,NULL,NULL,NULL,NULL
+Al Jawf,JA,NULL,NULL,NULL,NULL
+Al Mahrah,MR,NULL,NULL,NULL,NULL
+Al Mahwit,MW,NULL,NULL,NULL,NULL
+Amanat Al Asimah,SA,NULL,NULL,NULL,NULL
+Dhamar,DH,NULL,NULL,NULL,NULL
+Hadramaut,HD,NULL,NULL,NULL,NULL
+Hajjah,HJ,NULL,NULL,NULL,NULL
+Ibb,IB,NULL,NULL,NULL,NULL
+Lahij,LA,NULL,NULL,NULL,NULL
+Ma'rib,MA,NULL,NULL,NULL,NULL
+Raymah,RA,NULL,NULL,NULL,NULL
+Sa'dah,SD,NULL,NULL,NULL,NULL
+Sana'a,SN,NULL,NULL,NULL,NULL
+Shabwah,SH,NULL,NULL,NULL,NULL
+Ta'izz,TA,NULL,NULL,NULL,NULL
+Central,2,NULL,NULL,NULL,NULL
+Copperbelt,8,NULL,NULL,NULL,NULL
+Eastern,3,NULL,NULL,NULL,NULL
+Luapula,4,NULL,NULL,NULL,NULL
+Lusaka,9,NULL,NULL,NULL,NULL
+North-Western,6,NULL,NULL,NULL,NULL
+Northern,5,NULL,NULL,NULL,NULL
+Southern,7,NULL,NULL,NULL,NULL
+Western,1,NULL,NULL,NULL,NULL
+Bulawayo,BU,NULL,NULL,NULL,NULL
+Harare,HA,NULL,NULL,NULL,NULL
+Manicaland,MA,NULL,NULL,NULL,NULL
+Mashonaland Central,MC,NULL,NULL,NULL,NULL
+Mashonaland East,ME,NULL,NULL,NULL,NULL
+Mashonaland West,MW,NULL,NULL,NULL,NULL
+Masvingo,MV,NULL,NULL,NULL,NULL
+Matabeleland North,MN,NULL,NULL,NULL,NULL
+Matabeleland South,MS,NULL,NULL,NULL,NULL
+Midlands,MI,NULL,NULL,NULL,NULL
